@@ -11,6 +11,7 @@ Title: Volks-Kochbuch
 Author: Hedwig Heyl
 
 Release Date: November 1, 2004 [EBook #13921]
+Last Updated: August 27, 2017
 
 Language: German
 
@@ -79,13 +80,13 @@ erechnet.)
 
 APFELBROTSUPPE.
 
-100 g altes Brot                  M 0,02
-1 Prise Salz               |      " 0,00-1/4
-2 gestossene Nelken         |
-40 g Zucker                       " 0,02
-4 mittelgrosse Aepfel (oder Abfall) " 0,15
-1 l Wasser.
-                                  M 0,19-1/4
+100 g altes Brot
+1 Prise Salz
+2 gestossene Nelken
+40 g Zucker
+4 mittelgrosse Aepfel (oder Abfall)
+1 l Wasser
+
 
 _Vorbereitung_: Das Brot wird in dem Wasser erweicht.
 
@@ -94,19 +95,20 @@ Zucker werden zerkocht, durch ein Sieb geruehrt, nochmals erwaermt und
 angerichtet.
 
 
-APFELSUPPE S. BLAUBEERENKOMPOTT.
+
+APFELSUPPE:  Siehe BLAUBEERENKOMPOTT.
 
 
 
 BIERKALTSCHALE.
 
-75 g geriebenes Brot                     M 0,01-1/2
-1 Stueck Zitronen- oder Apfelsinenschale  " 0,00-1/4
-1 Prise gestoss. Zimt                     " 0,00-1/4
-65 g Zucker                              " 0,03-1/4
-1 Flasche Weissbier                       " 0,20
-65 g Korinthen                           " 0,05-1/4
-                                         M 0,30-1/2
+75 g geriebenes Brot
+1 Stueck Zitronen- oder Apfelsinenschale
+1 Prise gestossener Zimt
+65 g Zucker
+1 Flasche Weissbier
+65 g Korinthen
+
 
 _Vorbereitung_: Das Brot wird gerieben, die Korinthen werden
 aufgequollen.
@@ -119,12 +121,12 @@ Ganze wird umgeruehrt und kalt gestellt.
 
 BIERSUPPE MIT SAGO.
 
-1 Flasche Weissbier        M 0,20
-65 g Zucker               " 0,03-1/4
-1 Stueck Zitronenschale    " 0,00-1/4
-3 Nelken 1 Prise Salz     " 0,00-1/4
-30 g Sago                 " 0,01-3/4
-                          M 0,25-1/2
+1 Flasche Weissbier
+65 g Zucker
+1 Stueck Zitronenschale
+3 Nelken 1 Prise Salz
+30 g Sago
+
 
 Das Bier wird mit Zucker und Gewuerzen zum Kochen gebracht, der Sago
 hineingestreut und je nach der Koernerstaerke 15-25 Minuten in
@@ -132,25 +134,25 @@ geschlossenem Topfe gekocht; man schmeckt dann mit Salz ab und entfernt
 das Gewuerz.
 
 
-BLAUBEEREN- ODER BESINGSSUPPE S. BLAUBEERENKOMPOTT.
+BLAUBEEREN- ODER BESINGSSUPPE: Siehe BLAUBEERENKOMPOTT.
 
 
 
 BOHNEN-, LINSEN- ODER ERBSENSUPPE.
 
-250 g Bohnen, Linsen oder Erbsen             M 0,10
-1 Prise Natron                               " 0,00-1/4
-1 Essl. Selleriewuerfel                        " 0,01
-250 g Rindfleisch                            " 0,10
-1 Essl. Salz                                  " 0,00-1/4
-1 Teel. gewiegtes Selleriekraut oder Porree  " 0,00-3/4
-1 Prise Pfeffer                              " 0,00-1/4
-1/2 Essl. Zwiebelwuerfel                       " 0,00-1/2
-1/2 Essl. Mehl                                " 0,00-1/4
+250 g Bohnen, Linsen oder Erbsen
+1 Prise Natron
+1 Essl. Selleriewuerfel
+250 g Rindfleisch
+1 Essl. Salz
+1 Teel. gewiegtes Selleriekraut oder Porree
+1 Prise Pfeffer
+1/2 Essl. Zwiebelwuerfel
+1/2 Essl. Mehl
 2 l Wasser
-                                             M 0,52-3/4
 
-_Vorbereitung_: Die Bohnen, Linsen Oder Erbsen werden Abends vorher nach
+
+_Vorbereitung_: Die Bohnen, Linsen oder Erbsen werden Abends vorher nach
 Vorschrift eingeweicht.
 
 _Zubereitung_: Die Huelsenfruechte werden mit 1 l kaltem Wasser und Natron
@@ -172,15 +174,15 @@ Gericht fuer den Sebstkocher.
 
 BOHNEN-, LINSEN- ODER ERBSENSUPPE OHNE FLEISCH.
 
-175 g Bohnen, Linsen oder Erbsen  M 0,07
-1 Prise Natron                    " 0,00-1/4
-50 g magerer Speck oder Schwarten " 0,07
+175 g Bohnen, Linsen oder Erbsen
+1 Prise Natron
+50 g magerer Speck oder Schwarten
 2 l Wasser
-8 g Salz                          " 0,00-1/4
-1 Prise Pfeffer                   " 0,00-1/4
-1 kleine Zwiebel                  " 0,00-1/2
-1/4 Teel. Majoran                 " 0,00-1/4
-                                  M 0,15-1/2
+8 g Salz
+1 Prise Pfeffer
+1 kleine Zwiebel
+1/4 Teel. Majoran
+
 
 _Vorbereitung_: Bohnen, Linsen oder Erbsen werden abends vorher nach
 Vorschrift eingeweicht; die Schwarten werden abgekratzt und gewaschen
@@ -203,15 +205,15 @@ Gericht fuer den Selbstkocher.
 
 BROTSUPPE MIT BACKPFLAUMEN.
 
-125 g altes Brot              " M 0,02-1/2
-1/2 Essl. Butter               " 0,02-1/2
-5 g Salz                      " 0,00-1/4
+125 g altes Brot
+1/2 Essl. Butter
+5 g Salz
 1 l Wasser.
-40 g Zucker                   " 0,02
-12 Backpflaumen               " 0,06
+40 g Zucker
+12 Backpflaumen
 1/4 l Wasser.
-Zimt und Apfelsinenschale fuer " 0,01
-                              M 0,14-1/4
+Zimt und Apfelsinenschale fuer [?]
+
 
 _Vorbereitung_: Das Brot wird zerkleinert und in einen Topf getan, 1 l
 Wasser wird dazu gegossen und das Brot darin erweicht. Die Backpflaumen
@@ -234,15 +236,15 @@ gekocht ist sie eine gute Krankensuppe (_Semmelsuppe_).
 
 
 
-BRUeHSUPPE MIT NUDELN, GRIESS ODER EINLAUF UND RINDFLEICH.
+BRÜHSUPPE MIT NUDELN, GRIESS ODER EINLAUF UND RINDFLEISCH.
 
-250 g Rindfleisch          M 0,40
-1 Essl. Suppengruen.         " 0,01-1/2
+250 g Rindfleisch
+1 Essl. Suppengruen.
 1 l Wasser.
-8 g Salz                   " 0,00-1/4
+8 g Salz
 1 geriebene Karotte oder
-Schale einer roten Zwiebel " 0,00-1/4
-                           M 0,42
+Schale einer roten Zwiebel
+
 
 _Vorbereitung_: Das Wasser mit dem Salz und den vorhandenen gewaschenen
 Knochen wird zugedeckt auf den Herd gesetzt; das Suppengruen geputzt,
@@ -268,12 +270,12 @@ Gericht fuer den Selbstkocher.
 
 BUTTERMILCHSUPPE.
 
-100 g altes Brot              M 0,02
-1 1 Buttermilch               " 0,10
-15 g Mehl                     " 0,00-1/2
-5 g Salz                      " 0,00-1/4
-3 Essl. Sirup od. 35 g Zucker  " 0,01-3/4
-                              M 0,14-1/2
+100 g altes Brot
+1 1 Buttermilch
+15 g Mehl
+5 g Salz
+3 Essl. Sirup od. 35 g Zucker
+
 
 _Vorbereitung_: Das Brot wird klein geschnitten und mit 3/4 l Buttermilch
 erweicht.
@@ -284,21 +286,21 @@ Zucker und Salz abgeschmeckt, aufgekocht, durch ein Haarsieb geruehrt,
 wieder erhitzt und angerichtet.
 
 
-ERBSENSUPPE S. BOHNEN-, LINSEN- ODER ERBSENSUPPE.
+ERBSENSUPPE:  Siehe BOHNEN-, LINSEN- ODER ERBSENSUPPE.
 
 
 
-FISCHSUPPE
+FISCHSUPPE.
 
-1 l Fischbruehe                            M 0,10
-30 g Mehl                                 " 0,01-1/4
-20 g Fett oder Margarine                  " 0,03-1/4
-1 Teel. Zwiebelwuerfel                     " 0,00-1/4
-1/8 l Magermilch                          " 0,01-1/4
-1 Prise weisser Pfeffer                    " 0,00-1/4
-1/2 Essl. gewiegte Petersilie              " 0,02-1/2
-Fischreste oder gebratene Semmelbroekchen.
-                                          M 0,18-1/2
+1 l Fischbruehe
+30 g Mehl
+20 g Fett oder Margarine
+1 Teel. Zwiebelwuerfel
+1/8 l Magermilch
+1 Prise weisser Pfeffer
+1/2 Essl. gewiegte Petersilie
+Fischreste oder gebratene Semmelbroekchen
+
 
 _Zubereitung_: Fischbruehe oder Kochwasser von guten, frischen Fischen
 finden fuer diese Suppe gute Verwendung. Zu den, im irdenen Topfe mit dem
@@ -317,14 +319,14 @@ Gericht fuer den Selbstkocher.
 
 GEMUeSEGRAUPENSUPPE.
 
-375 g geschaelte Kartoffeln    M 0,03
-125 g Gemuese, gemischt        " 0,05
-20 g Mittelgraupen            " 0,00-3/4
-20 g magerer Speck            " 0,02-3/4
-8 g Salz                      " 0,00-1/4
+375 g geschaelte Kartoffeln
+125 g Gemuese, gemischt
+20 g Mittelgraupen
+20 g magerer Speck
+8 g Salz
 1 1 Wasser
-1 Prise Salz                  " 0,00-1/4
-                              M 0,12
+1 Prise Salz
+
 
 _Vorbereitung_: Der Speck wird in Wuerfel geschnitten. Die Graupen werden
 mit kaltem Wasser zweimal abgequirlt, abgegossen.
@@ -354,13 +356,13 @@ Gericht fuer den Selbstkocher.
 
 GRAUPENSUPPE.
 
-40 g Graupen                         M 0,01-1/2
-1 l Hammelbruehe oder Wasser          " 0,30
-15 g Rinderfett oder Margarine       " 0,02-1/2
-1/2 Ei                               " 0,03
-8 g Salz                           |
-1 Essl. Sellerie- und Zwiebelstuecke | " 0,01
-                                     M 0,38
+40 g Graupen
+1 l Hammelbruehe oder Wasser
+15 g Rinderfett oder Margarine
+1/2 Ei
+8 g Salz
+1 Essl. Sellerie- und Zwiebelstuecke
+
 
 _Vorbereitung_: Die Graupen werden im irdenen Topf mit Wasser abgequirlt
 und mit Wasser und Salz zum Abwellen auf den Herd gestellt. Sellerie und
@@ -383,13 +385,13 @@ Gericht fuer den Selbstkocher.
 
 GRUeNKERNSUPPE.
 
-30 g Gruenkernmehl          M 0,02-1/2
-30 g Fett oder Margarine   " 0,04-3/4
+30 g Gruenkernmehl
+30 g Fett oder Margarine
 1 l Wasser
-10 g Zwiebeln              " 0,07-1/4
-1/2 Ei                     " 0,03
-8 g Salz                   " 0,00-1/4
-                           M 0,10-3/4
+10 g Zwiebeln
+1/2 Ei
+8 g Salz
+
 
 _Vorbereitung:_ Die Zwiebel wird gewuerfelt.
 
@@ -404,16 +406,16 @@ Gericht fuer den Selbstkocher.
 
 
 
-HAFERGRUeTZ- ODER HAFERFLOCKENSUPPE
+HAFERGRUeTZ- ODER HAFERFLOCKENSUPPE.
 
-50 g Hafergruetze oder 40 g Haferflocken   M 0,02-1/2
-1 Stueckchen Apfelsinenschale              " 0,00-1/4
-10 g Fett                                 " 0,01-1/4
-l0g Zucker                                " 0,00-1/2
-5 g Salz                                  " 0,00-1/4
-1 Essl. Korinthen                          " 0,00-3/4
+50 g Hafergruetze oder 40 g Haferflocken
+1 Stueckchen Apfelsinenschale
+10 g Fett
+l0g Zucker
+5 g Salz
+1 Essl. Korinthen
 1l Wasser
-                                          M 0,05-1/2
+
 
 _Vorbereitung:_ Hafergruetze oder Haferflocken werden im irdenen Topf
 dreimal mit kaltem Wasser abgequirlt; die Korinthen werden nach
@@ -436,14 +438,14 @@ Gericht fuer den Selbstkocher.
 
 KARTOFFELSUPPE MIT FLEISCH.
 
-125 g Rindfleisch                          M 0,20
-1/2 kg (1 Pfd.) rohe geschaelte Kartoffeln  " 0,04
-2 Essl. Suppengruen                          " 0,03
-10 g Salz                                  " 0,00-1/4
-1 Essl. Petersilie                          " 0,05
-1 Prise Pfeffer                            " 0,00-1/4
+125 g Rindfleisch
+1/2 kg (1 Pfd.) rohe geschaelte Kartoffeln
+2 Essl. Suppengruen
+10 g Salz
+1 Essl. Petersilie
+1 Prise Pfeffer
 1 l Wasser
-                                           M 0,32-1/2
+
 
 _Vorbereitung_: Das Rindfleisch wird abgewaschen, in mundrechte Wuerfel
 geschnitten, in einen irdenen Topf getan. Die Kartoffeln werden in
@@ -459,23 +461,23 @@ frischer gewiegter Petersilie gemischt, mit Pfeffer abgeschmeckt an.
 Gericht fuer den Selbstkocher.
 
 
-KIRSCHSUPPE S. BLAUBEERENKOMPOTT.
+KIRSCHSUPPE: Siehe  BLAUBEERENKOMPOTT.
 
 
 
 KUeRBISSUPPE.
 
-375 g Kuerbis                    M 0,03-3/4
+375 g Kuerbis
 1 l Wasser.
-2 Nelken.                    |
-1 Stueckchen Zimt             |  " 0,00-1/2
-1 Stueckchen Zitronenschale   |
-15 g Mehl                       " 0,00-1/2
-15 g Margarine                  " 0,02-1/2
-5 g Salz                        " 0,00-1/4
-4 Essl. Essig                    " 0,02
-50 g Zucker                     " 0,02-1/2
-                                M 0,12
+2 Nelken.
+1 Stueckchen Zimt
+1 Stueckchen Zitronenschale
+15 g Mehl
+15 g Margarine
+5 g Salz
+4 Essl. Essig
+50 g Zucker
+
 
 Man gibt gern in kleine Wuerfel geschnittenes Weissbrot dazu, das in Fett
 oben Margarine geroestet wird.
@@ -489,12 +491,12 @@ Gericht fuer den Selbstkocher.
 
 HAFERGRUeTZ- ODER HAFERFLOCKENSUPPE ODER -TRANK FUeR EINEN KRANKEN.
 
-30 g Haferflocken oder 40 g gewoehnliche Hafergruetze  M 0,02
-1 Prise Salz                                         " 0,00-1/4
-1 Scheibe Zitrone                                    " 0,01
-5 g Zucker                                           " 0,00-1/4
+30 g Haferflocken oder 40 g gewoehnliche Hafergruetze
+1 Prise Salz
+1 Scheibe Zitrone
+5 g Zucker
 1/2 l Wasser
-                                                     M 0,03-1/2
+
 
 _Vorbereitung_: Hafergruetze oder Haferflocken werden dreimal kalt
 gewaschen, indem man sie gehoerig abquirlt.
@@ -524,15 +526,15 @@ HELLE GEBUNDENE SUPPE VON TAUBE, HUHN ODER KALBFLEISCH.
 (Gute Krankensuppe.)
 
 1 alte Taube oder Taubenklein von 10 Tauben oder Huehnerklein von 2-3
-  Huehnern oder 375 g Kalbfleisch        M 0,50
+  Huehnern oder 375 g Kalbfleisch
 1-1/2 l Wasser
-12 g Salz                              " 0,00-1/4
-2 Essl. Suppengruen                      " 0,03
-40 g Mehl                              " 0,01-1/2
-40 g Fett (fuer Kranke Butter)           " 0,05
-1 Eigelb                               " 0,04
-1 Essl. Magermilch                      " 0,00-1/4
-                                       M 0,64
+12 g Salz
+2 Essl. Suppengruen
+40 g Mehl
+40 g Fett (fuer Kranke Butter)
+1 Eigelb
+1 Essl. Magermilch
+
 
 _Vorbereitung_: Die Taube wird nach Vorschrift vorbereitet und ganz oder
 zerteilt verwendet. Sie, wie auch das Taubenklein, wird geputzt, die
@@ -555,16 +557,16 @@ Gericht fuer den Selbstkocher.
 
 KARTOFFELSUPPE
 
-375 g rohe Kartoffeln                                M 0,02-1/4
-2 Essl. Suppengruen                                    " 0,03
-20 g Fett oder Margarine                             " 0,03-1/4
-5 g Mehl                                             " 0,00-1/4
-5 g Salz                                             " 0,00-1/4
-1/2 Gewuerzdosis                                      " 0,00-1/4
-1/2 Essl. gewiegte Petersilie od. Sellerie od. Porree " 0,02-1/2
-1 Prise Pfeffer                                      " 0,00-1/4
+375 g rohe Kartoffeln
+2 Essl. Suppengruen
+20 g Fett oder Margarine
+5 g Mehl
+5 g Salz
+1/2 Gewuerzdosis
+1/2 Essl. gewiegte Petersilie od. Sellerie od. Porree
+1 Prise Pfeffer
 1 l Wasser
-                                                     M 0,12
+
 
 _Vorbereitung_: Die Kartoffeln werden geschaelt, das Suppengruen wird
 geputzt und nicht zu klein geschnitten.
@@ -598,18 +600,18 @@ _Bemerkung: Hagebuttensuppe_ ebenso; auch von 100 g getrockneten
 Hagebutten.
 
 
-LINSENSUPPE S. BOHNEN-, LINSEN- ODER ERBSENSUPPE.
+LINSENSUPPE: Siehe  BOHNEN-, LINSEN- ODER ERBSENSUPPE.
 
 
 
 LUNGENSUPPE.
 
-1 l Lungenbruehe              M 0,30
-30 g Mehl                    " 0,01-1/4
-20 g Fett oder Margarine     " 0,03-1/4
-1 Prise Pfeffer und Salz     " 0,00-1/4
-1 Teel. gewiegte Petersilie  " 0,02
-                             M 0,36-3/4
+1 l Lungenbruehe
+30 g Mehl
+20 g Fett oder Margarine
+1 Prise Pfeffer und Salz
+1 Teel. gewiegte Petersilie
+
 
 _Vorbereitung_: Die Bruehe der Lunge wird durch ein Sieb gegossen.
 
@@ -624,17 +626,17 @@ Man kann die Suppe durch Abziehen mit 1 Ei verbessern.
 
 MILCHKALTSCHALE.
 
-1 l Vollmilche             M 0,20
-50 g Zucker                " 0,02-1/2
-2 g Zimt                   " 0,00-1/4
-1 Essl. Zitronenzucker ober
-1 Stueck Apfelsinenschale   " 0,01-1/2
-1 Prise Salz               " 0,00-1/4
-1 Eigelb                   " 0,04
-5 g Staerkemehl             " 0,00-1/4
-6 Essl. Vollmilch           " 0,02
-2 Zwiebaecke                " 0,03-1/4
-                           M 0,34
+1 l Vollmilch
+50 g Zucker
+2 g Zimt
+1 Essl. Zitronenzucker oder
+1 Stueck Apfelsinenschale
+1 Prise Salz
+1 Eigelb
+5 g Staerkemehl
+6 Essl. Vollmilch
+2 Zwiebaecke
+
 
 _Zubereitung_: Man kocht Milch, Zucker, Gewuerze und Salz auf, quirlt das
 mit Staerkemehl und 6 Essloeffel kalter Milch verschlagene Eigelb dazu,
@@ -661,12 +663,12 @@ werden lassen.
 
 MILCHSUPPE MIT REIS, GRIESS, MEHL, STAeRKEMEHL USW.
 
-1 l Vollmilch                               M 0,20
-1 Stueck Zitronen- oder Apfelsinenschale     " 0,00-1/4
-1 Stueck Zimt                                " 0,00-1/4
-6 g Salz                                    " 0,00-1/4
-30 g Reis, 40 g Griess, Mehl oder Staerkemehl " 0,01-3/4
-                                            M 0,22-1/2
+1 l Vollmilch
+1 Stueck Zitronen- oder Apfelsinenschale
+1 Stueck Zimt
+6 g Salz
+30 g Reis, 40 g Griess, Mehl oder Staerkemehl
+
 
 _Vorbereitung_: Der Reis wird gewaschen und abgewellt, der Griess
 gewaschen, das Mehl angequirlt.
@@ -688,12 +690,12 @@ laesst sich die Suppe bedeutend schmackhafter herstellen.
 
 MILCHSUPPE MIT ROGGENMEHL.
 
-30 g Roggenmehl           M 0,01
-30 g Fett oder Margarine  " 0,4-3/4
-1 l Magermilch            " 0,10
-1 Prise Salz \
-10 g Zucker  /            " 0,00-1/2
-                          M 0,16-1/4
+30 g Roggenmehl
+30 g Fett oder Margarine
+1 l Magermilch
+1 Prise Salz
+10 g Zucker
+
 
 Das Mehl wird in irdenem Topfe mit dem Fette durchgeschwitzt, die heisse
 Milch langsam dazu geruehrt und noch 20 Minuten gekocht; dann wird die
@@ -703,12 +705,12 @@ Suppe mit Zucker und Salz abgeschmeckt.
 
 NUDELSUPPE.
 
-40 g Fassonnudeln     M 0,03-1/4
-1 l Wasser   \
-1 Prise Salz |        " 0,01-1/4
-5 g Butter   /
-6 Tropfen Maggiwuerze  " 0,01
-                      M 0,05-1/2
+40 g Fassonnudeln
+1 l Wasser
+1 Prise Salz
+5 g Butter
+6 Tropfen Maggiwuerze
+
 
 _Vorbereitung_: Die Nudeln werden kalt abgespuelt.
 
@@ -717,21 +719,21 @@ zugesetzt Wurde, gar und tropft vor dem Anrichten, ohne nochmals zu
 kochen, die Maggiwuerze an die Suppe.
 
 
-PFLAUMENSUPPE S. BLAUBEERENKOMPOTT.
+PFLAUMENSUPPE: Siehe  BLAUBEERENKOMPOTT.
 
 
 
 PRUeNELLENSUPPE MIT HAFERGRUeTZE FUeR EINEN KRANKEN.
 
-25 g Hafergruetze             M 0,01-1/4
-50 g getrocknete Pruenellen   " 0,06
-15 g Zucker                  " 0,00-3/4
-1 Stueckchen Zimt             " 0,00-1/4
-1 Teel. Zitronenzucker       " 0,00-1/2
-1 Eigelb                     " 0,04
-1/8 l Weisswein               " 0,13-1/2
-                             1/2 1 Wasser
-                             M 0,26-1/4
+25 g Hafergruetze
+50 g getrocknete Pruenellen
+15 g Zucker
+1 Stueckchen Zimt
+1 Teel. Zitronenzucker
+1 Eigelb
+1/8 l Weisswein
+1/2 1 Wasser
+
 
 _Vorbereitung_: Die Hafergruetze und die zerschnittenen Pruenellen werden
 gewaschen.
@@ -747,12 +749,12 @@ _Bemerkung_: Eigelb sowie Wein kann aber auch wegbleiben.
 
 SCHOTENSUPPE.
 
-1 kg (2 Pfd.) Schoten    M 0,30
-30 g Fett                " 0,03-1/2
-40 g Mehl                " 0,01-1/2
-8 g Salz                 " 0,00-1/4
+1 kg (2 Pfd.) Schoten
+30 g Fett
+40 g Mehl
+8 g Salz
 1-1/4 l Wasser
-                         M 0,35-1/4
+
 
 _Vorbereitung_: Die Schoten werden gepalt, die Schotenschalen gebrochen,
 gewaschen und in einen Topf getan.
@@ -774,16 +776,16 @@ Fischsuppe_.
 WASSERSUPPE MIT GRIESS, MEHL, STARKENMEHL, GRAUPEN, REIS.
 
 1 l Wasser
-1 Prise Salz                M 0,00-1/4
-30 g Zucker                 " 0,01-1/2
-10 g Butter                 " 0,02-1/2
-1/4 Zitronenschale          " 0,01
-1 Stueckchen Zimt            " 0,00-1/4
+1 Prise Salz
+30 g Zucker
+10 g Butter
+1/4 Zitronenschale
+1 Stueckchen Zimt
 40 g Griess, 30 g Graupen,
-Reis, Mehl od. Staerkemehl   " 0,01-1/2
-1 Eigelb      \
-1 Essl. Wasser / verquirlt   " 0,04
-                            M 0,11
+Reis, Mehl od. Staerkemehl
+1 Eigelb
+1 Essl. Wasser / verquirlt
+
 
 _Vorbereitung_: Graupen, Reis und Griess werden in kaltem Wasser sauber
 abgequirtt. Mehl oder Staerkemehl werden mit 6 Essloeffeln kaltem Wasser
@@ -805,18 +807,18 @@ berechnet.)
 
 BEEFSTEAK MIT  MOSTRICHSAUCE.
 
-100 g gehacktes Rindfleisch          M 0,18
-25 g Rinderfettgrieben               " 0,03
-1 grosse gekochte Kartoffel           " 0,00-1/4
-20 g Margarine oder gemischtes Fett  " 0,03-1/4
-15 g Zwiebelwuerfel                   " 0,00-1/2
-1 Prise Pfeffer und Salz             " 0,00-1/4
-1 Teel. Essig                        " 0,00-1/4
-1 Teel. Mostrich                     " 0,01
-1 Essl. Mehl                          " 0,00-1/2
+100 g gehacktes Rindfleisch
+25 g Rinderfettgrieben
+1 grosse gekochte Kartoffel
+20 g Margarine oder gemischtes Fett
+15 g Zwiebelwuerfel
+1 Prise Pfeffer und Salz
+1 Teel. Essig
+1 Teel. Mostrich
+1 Eßl. Mehl
 1/4 l Wasser
-Pfeffer und Salz zur Sauce           " 0,00-1/4
-                                     M 0,27-1/4
+Pfeffer und Salz zur Sauce
+
 
 _Vorbereitung_: Die Kartoffel wird gerieben; die Fettgrieben wiegt man.
 
@@ -837,18 +839,17 @@ in einem Toepfchen besonders an.
 
 BOULETTEN.
 
-125 g Fleischreste          M 0,15
-20 g Grieben                " 0,02-1/2
-1/2 altes Broetchen          " 0,00-3/4
-1/2 Ei                      " 0,03
-1 Prise Pfeffer |
-5 g Salz.       |           " 0,00-1/4
-1/2 Essl. geriebene Semmel   " 0,00-1/4
-15 g Fett oder Margarine    " 0,02-1/2
-1 Messerspitze geriebene
-Zwiebeln                    " 0,00-1/4
-1/8 l Wasser.
-                            M 0,24 1/2
+125 g Fleischreste
+20 g Grieben
+1/2 altes Broetchen
+1/2 Ei
+1 Prise Pfeffer
+5 g Salz
+1/2 Essl. geriebene Semmel
+15 g Fett oder Margarine
+1 Messerspitze geriebene Zwiebeln
+1/8 l Wasser
+
 
 _Vorbereitung_ : Das Broetchen wird abgerieben, zerkleinert, in einen Topf
 getan und 1/8 l Wasser darauf gegossen. Mageres gekochtes Fleisch und
@@ -874,11 +875,11 @@ _Fleischpudding_. Letzteres kann gut im Selbstkocher geschehen.
 
 BRATWURST.
 
-140 g Bratwurst            M 0,25 1/4
-15 g Fett Oder Margarine   " 0,02-1/2
-3 g Salz                   " 0,00-1/4
-1 Essl. Wasser.
-                           M 0,28
+140 g Bratwurst
+15 g Fett Oder Margarine
+3 g Salz
+1 Essl. Wasser
+
 
 _Vorbereitung_: Die Bratwurst wird gewaschen und in zwei gleichmaessige
 Stuecke geteilt.
@@ -898,18 +899,18 @@ Sauce und laesst die Wurst darin 1/2 Stunde garziehen.
 
 FLEISCH, EINGESCHNITTENES.
 
-125 g Fleischreste        M 0,15
-1/2 saure Gurke           " 0,05
-20 g Speck oder Fett      " 0,02-3/4
-20 g Zwiebeln             " 0,00-1/2
-20 g Mehl                 " 0,00-3/4
-1 Gewuerzdosis gestossen    " 0,00-1/2
+125 g Fleischreste
+1/2 saure Gurke
+20 g Speck oder Fett
+20 g Zwiebeln
+20 g Mehl
+1 Gewuerzdosis gestossen
 1/2 l Wasser
-1 Tropfen Speisefarbe     " 0,00-1/4
-5 g Zucker                " 0,00-1/4
-5 g Salz      \
-1 Teel. Essig /           " 0,00-1/4
-                          M 0,25-1/4
+1 Tropfen Speisefarbe
+5 g Zucker
+5 g Salz
+1 Teel. Essig
+
 
 _Vorbereitung_: Das Fleisch wird in saubere gleichmaessige Stuecke
 geschnitten, die Gurke gewuerfelt, die Zwiebel gerieben.
@@ -925,17 +926,17 @@ darf, dazu und richtet sogleich an.
 
 FLEISCHHACHE MIT REIS.
 
-200 g gekochtes Fleisch           M 0,40
-50 g Reis                         " 0,03
-1/4 l Bruehe                       " 0,20
-15 g Margarine                    " 0,02-1/2
-1/8 l Fleischextraktbruehe         " 0,03-3/4
-10 g Zwiebeln                     " 0,00-1/4
+200 g gekochtes Fleisch
+50 g Reis
+1/4 l Bruehe
+15 g Margarine
+1/8 l Fleischextraktbruehe
+10 g Zwiebeln
 Salz nach Geschmack
-5 g Schweizer- oder Parmesankaese  " 0,01-1/4
-1 Prise weisser Pfeffer            " 0,00-1/2
-3 g Mehl                          " 0,00-1/4
-                                  M 0,71-1/2
+5 g Schweizer- oder Parmesankaese
+1 Prise weisser Pfeffer
+3 g Mehl
+
 
 _Zubereitung_: Man bereitet einen Reisbrei von gewaschenem, ueberwelltem
 Reis und fetter Fleischbruehe (oder 1 Teeloeffel Fett und
@@ -962,19 +963,18 @@ werden. (Groesserer Fett- und Kaeseverbrauch.)
 
 
 
-_Fleischkloesse, gebratene._
+FLEISCHKLOESSE, GEBRATENE.
 
-70 g geschabtes Rindfleisch        M 0,12-1/2
-50 g geschabtes Schweinefleisch    " 0,12-1/2
-1 abgeschaelte Semmel        |
-1/8 L Wasser zum Einweichen |      " 0,02-1/2
-1/2 Ei                             " 0,03
-1 Prise Pfeffer, 5 g Salz,
-1 Messerspitze geriebene Zwiebeln  " 0,00-1/2
-10 g geriebene Semmel              " 0,00-1/2
-25 g Fett oder Margarine
-zum Braten.                        " 0,04
-                                   M 0,35-1/2
+70 g geschabtes Rindfleisch
+50 g geschabtes Schweinefleisch
+1 abgeschaelte Semmel
+1/8 L Wasser zum Einweichen
+1/2 Ei
+1 Prise Pfeffer, 5 g Salz
+1 Messerspitze geriebene Zwiebeln
+10 g geriebene Semmel
+25 g Fett oder Margarine zum Braten
+
 
 _Vorbereitung_: Die abgeschaelte Semmel wird zerschnitten und eingeweicht.
 
@@ -1006,16 +1006,15 @@ gescheibt, paniert nochmals gebraten werden kann.
 
 GULASCH.
 
-140 g Rindfleisch ohne Fett   M 0,28
-und Knochen
-1 g Kuemmel                    " 0,00-1/4
-10 g Fett                     " 0,01-1/4
-1/2 Teel. weisser Pfeffer      " 0,00-1/4
-5 g Mehl                      " 0,00-1/4
-10 g Zwiebeln                 " 0,00-1/4
-5 g Salz                      " 0,00-1/4
-1/8 l heisses Wasser.
-                              M 0,30-1/2
+140 g Rindfleisch ohne Fett und Knochen
+1 g Kuemmel
+10 g Fett
+1/2 Teel. weisser Pfeffer
+5 g Mehl
+10 g Zwiebeln
+5 g Salz
+1/8 l heisses Wasser
+
 
 _Vorbereitung_: Das sauber gewaschene Rindfleisch wird in 1-1/2 cm grosse
 Wuerfel geschnitten, die Zwiebel gewuerfelt und in einem irdenen Topf in
@@ -1037,10 +1036,10 @@ Gericht fuer den Selbstkocher.
 
 HAMMELFLEISCH.
 
-1/2 kg (1 Pfd.) Hammelfleisch (Schulter)  M 0,80
+1/2 kg (1 Pfd.) Hammelfleisch (Schulter)
 1 l Wasser
-8 g oder 1 knapper Essl. Salz              " 0,00-1/4
-                                          M 0,80-1/4
+8 g oder 1 knapper Essl. Salz
+
 
 _Vorbereitung_: Das Wasser mit dem Salz wird auf den Herd gesetzt. Das
 Hammelfleisch wird schnell gewaschen und geklopft.
@@ -1068,14 +1067,14 @@ Gericht fuer den Selbstkocher.
 
 HAMMELFLEISCH, GESCHNITTEN, MIT REIS.
 
-65 g mageres Hammelfleisch    M 0,13
-20 g Zwiebeln                 " 0,00-1/2
-15 g Fett                     " 0,01-3/4
-15 g Sellerie                 " 0,00-1/2
-125 g Reis                    " 0,07-1/2
-1 Prise Pfeffer und Salz      " 0,00-1/4
-1/2 l Wasser.
-                              M 0,23-1/2
+65 g mageres Hammelfleisch
+20 g Zwiebeln
+15 g Fett
+15 g Sellerie
+125 g Reis
+1 Prise Pfeffer und Salz
+1/2 l Wasser
+
 
 _Vorbereitung_: Das Fleisch wird gewaschen und in gleichmaessige 2 cm grosse
 Stuecke geschnitten, die Zwiebel gewiegt, der Sellerie geputzt, der Reis
@@ -1092,18 +1091,18 @@ Gericht fuer den Selbstkocher.
 
 HAMMELFLEISCH MIT KOHLRUeBEN UND KARTOFFELN.
 
-200 g Hammelfleisch           M 0,32
-3/4 l Wasser \
-8 g Salz     /                " 0,00-1/4
-3/4 kg (1/2 Pfd.) Kohlrueben   " 0,7-1/2
+200 g Hammelfleisch
+3/4 l Wasser
+8 g Salz
+3/4 kg (1/2 Pfd.) Kohlrueben
 1-1/2 l Wasser zum Abwellen
-250 g geschaelte Kartoffeln    " 0,02
-Wasser und Salz               " 0,00-1/4
-1 Gewuerzdosis                 " 0,00-1/2
-10 g Fett oder Margarine      " 0,01-1/2
-10 g Mehl                     " 0,00-1/2
-1 Prise Pfeffer und Salz      " 0,00-1/4
-                              M 0,44-1/4
+250 g geschaelte Kartoffeln
+Wasser und Salz
+1 Gewuerzdosis
+10 g Fett oder Margarine
+10 g Mehl
+1 Prise Pfeffer und Salz
+
 
 _Vorbereitung_: 3/4 l Wasser mit 8 g Salz werden auf den Herd gestellt.
 Das Fleisch wird schnell gewaschen und geklopft. Kohlrueben werden in
@@ -1126,16 +1125,16 @@ Gericht fuer den Selbstkocher.
 
 HAMMEL- ODER KALBSGEKROeSE. (VORRAT.)
 
-1 Gekroese                  M 0,75
-1 Gewuerzdosis              " 0,00-1/2
-100 g Salz                 " 0,02
-50 g Zwiebeln              " 0,01-1/2
-40 g Fett oder Margarine   " 0,06-1/2
-40 g Mehl                  " 0,01-1/2
-1 Prise Safran             " 0,03
-1 Essl. Petersilie          " 0,05
-1 Prise Pfeffer            " 0,00-1/4
-                           M 0,95-1/4
+1 Gekroese
+1 Gewuerzdosis
+100 g Salz
+50 g Zwiebeln
+40 g Fett oder Margarine
+40 g Mehl
+1 Prise Safran
+1 Essl. Petersilie
+1 Prise Pfeffer
+
 
 _Vorbereitung_: Das Gekroese besteht aus dem Magen und dem Netz mit den
 krausen Gedaermen. Nur vom frisch geschlachteten Tiere sollte es verwendet
@@ -1158,15 +1157,14 @@ Gericht fuer den Selbstkocher.
 
 HAMMELKEULE, GESCHMORTE (VORRAT).
 
-1 kleine Hammelkeule, kurz
-gehauen, 2 kg (4 Pfd.)       M 4,00
-10 g Salz                    " 0,00-1/4
-20 g Fett                    " 0,02-1/2
-10 g Mehl                    " 0,00-1/2
-50 g Zwiebeln                " 0,01-1/2
-1 Gewuerzdosis                " 0,00-1/2
+1 kleine Hammelkeule, kurz gehauen, 2 kg (4 Pfd.)
+10 g Salz
+20 g Fett
+10 g Mehl
+50 g Zwiebeln
+1 Gewuerzdosis
 1/4 l Wasser (od. Weissbier)
-                             M 4,05-1/4
+
 
 _Vorbereitung_: Die Keule wird gewaschen, geklopft und mit Salz
 eingerieben.
@@ -1187,14 +1185,14 @@ _Hammelkeule, marinierte_  wird ebenso bereitet.
 
 Die rohe Keule kann man 3-4 Tage in folgende Marinade legen:
 
-100 g Suppengruen in     M 0,10
-20 g Fett geschwitzt    " 0,02-1/2
+100 g Suppengruen in
+20 g Fett geschwitzt
 1 l Wasser
-1 l Essig               " 0,20
-30 g Salz               " 0,00-1/2
-1 Gewuerzdosis           " 0,00-1/2
-2 Stiele Thymian        " 0,01
-                        M 0,34-1/2
+1 l Essig
+30 g Salz
+1 Gewuerzdosis
+2 Stiele Thymian
+
 
 1/2 Stunde gekocht, zugedeckt und nach dem Erkalten verwendet.
 
@@ -1202,15 +1200,15 @@ Die rohe Keule kann man 3-4 Tage in folgende Marinade legen:
 
 HAMMEL-, RINDER-, SCHWEINE-, KALBS-, ODER GAeNSELEBER, GEBRATENE.
 
-2G0 g Hammel- oder Rinderleber   M 0,30
-1 Essl. Mehl                      " 0,00-1/2
-2 Essl. geriebene Semmel          " 0,001
-1/2 Essl. Essig                   " 0,00-1/4
-40 g Fett oder Margarine         " 0,06-1/2
-5 g Salz und Pfeffer             " 0,00-1/4
-1 Teeloeffel Mehl                 " 0,00-1/4
+200 g Hammel- oder Rinderleber
+1 Essl. Mehl
+2 Essl. geriebene Semmel
+1/2 Essl. Essig
+40 g Fett oder Margarine
+5 g Salz und Pfeffer
+1 Teeloeffel Mehl
 4 Essl. Wasser oder Bruehe
-                                 M 0,37-3/4
+
 
 _Vorbereitung_: Die Leber wird gewaschen, gehaeutet und schraeg in 4-5
 Scheiben geschnitten, Semmel und Mehl gemischt (Panade), das Fett zum
@@ -1238,18 +1236,17 @@ Schweine-, Kalbs- und Gaenseleber sind je nachdem erheblich teurer.
 
 HAMMELNIERE IN SCHEIBEN.
 
-2 rohe Hammelnieren             M 0,30
-1 Prise Salz und Pfeffer        " 0,00-1/4
-1/4 Zitrone                     " 0,02-1/2
-15 g Margarine                  " 0,02-1/2
-5 g Mehl                        " 0,00-1/2
-1 Essl. gewiegte Kraeuter         " 0,05
+2 rohe Hammelnieren
+1 Prise Salz und Pfeffer
+1/4 Zitrone
+15 g Margarine
+5 g Mehl
+1 Essl. gewiegte Kraeuter
 4 Essl. Bratensaucenreste
-oder Wasser mit 1 Messerspitze
-Fleischextrakt                  " 0,05
-l Essl. Rotwein                  " 0,02-1/2
-1 Prise Zucker                  " 0,00-1/4
-                                M 0,48-1/2
+oder Wasser mit 1 Messerspitze Fleischextrakt
+l Essl. Rotwein
+1 Prise Zucker
+
 
 _Vorbereitung_: Die Nieren werden in duenne Scheiben geschnitten und mit
 etwas Salz, Pfeffer und einigen Tropfen Zitronensaft 1/4 Stunde
@@ -1270,15 +1267,15 @@ die Nieren vom zu langen Stehen leicht hart werden.
 
 HASENBRATEN FUeR 6 PERSONEN.
 
-1 ausgewachsener junger Hase    M 3,50
-65 g Speck                      " 0,09-1/4
-15 g Salz                       " 0,00-1/4
-200 g Margarine                 " 0,32
+1 ausgewachsener junger Hase
+65 g Speck
+15 g Salz
+200 g Margarine
 1/4 l saure Sahne oder Milch
-oder Milch mit 1 Tropfen Essig  " 0,25
-6 g Staerkemehl                  " 0,00-1/4
+oder Milch mit 1 Tropfen Essig
+6 g Staerkemehl
 1/4 l heisses Wasser
-                                M 4,16-3/4
+
 
 _Vorbereitung_: Man haengt den Hasen mit den Hinterlaeufen an 2 Haken oder
 starken Naegeln auf; ist er noch nicht ausgeweidet, so schneidet man vom
@@ -1326,18 +1323,18 @@ kleine Wirtschaft sollte man aus einem Hasen 2 Mahlzeiten bereiten.
 HASENPFEFFER.
 
 250 g Hasenfleisch: der zerspaltene Kopf,
-  Brust, Hals, Lunge und Herz                M 0,15
-50 g Speckwuerfel                             " 0,07
-20 g Zwiebeln                                " 0,00-1/2
-20 g Mehl                                    " 0,00-1/4
-1 Gewuerzdosis                                " 0,00-1/2
-1/4 l Fleischextraktbruehe                    " 0,07-1/2
-4 Essl. Rot- od. Maltonwein                   " 0,10
-15 g Zucker                                  " 0,00-3/4
-8 g Salz und Pfeffer                         " 0,00-1/4
+  Brust, Hals, Lunge und Herz
+50 g Speckwuerfel
+20 g Zwiebeln
+20 g Mehl
+1 Gewuerzdosis
+1/4 l Fleischextraktbruehe
+4 Essl. Rot- od. Maltonwein
+15 g Zucker
+8 g Salz und Pfeffer
 2 Tropfen Speisefarbe
 1/2 l Wasser
-                                             M 0,41-3/4
+
 
 _Vorbereitung_: Das Hasenklein wird zerkleinert und sauber gewaschen.
 
@@ -1348,21 +1345,21 @@ angebraten, staeubt man Mehl darueber, tut Gewuerze, Bruehe, Wein, Zucker,
 Salz und Pfeffer dazu und schmort das Gericht langsam gar. Das Aussehen
 wird durch Speisefarbe gehoben; der Wein kann fehlen.
 
-_Bemerkung_: Man kann Hasenpfeffer auch von trockneren Hasenbratenresten
+_Bemerkung_: Man kann Hasenpfeffer auch von trockeneren Hasenbratenresten
 bereiten.
 
 
 
 KALBSBRUST, GESCHMORTE.
 
-250 g. Kalbsbrust     M 0,40
-2 Essl. Rinderfett     " 0,01-1/4
-1 Essl. Mehl           " 0,00-1/4
-5 g Salz              " 0,00-1/4
-1/4 Lorbeerblatt \
-2 Pfefferkoerner  |    " 0,00-1/4
-1/4 l Wasser     /
-                      M 0,45-1/4
+250 g. Kalbsbrust
+2 Essl. Rinderfett
+1 Essl. Mehl
+5 g Salz
+1/4 Lorbeerblatt
+2 Pfefferkoerner
+1/4 l Wasser
+
 
 _Vorbereitung_: Das Kalbfleisch wird gewaschen, getrocknet und geklopft,
 1/4 l Wasser zum Kochen hingestellt.
@@ -1387,25 +1384,24 @@ Gericht fuer den Selbstkocher.
 
 KALBSFRIKASSEE.
 
-375 g Kalbsbrust                M 0,60
-65 g Schweinefleisch, gewiegt   " 0,11-3/4
-65 g Rindfleisch, gewiegt       " 0,11-3/4
-10 g Salz                       " 0,00-1/4
-20 g Mehl                       " 0,00-1/4
-25 g Margarine                  " 0,04
-1 Gewuerzdosis                   " 0,00-1/2
-10 g Suppengruen                 " 0,01
-15 g Zwiebeln                   " 0,00-1/2
-20 g getrocknete Pilze          " 0,10
-12 g Milchbrot                  " 0,01
-1 Messerspitze geriebene
-Zwiebeln                        " 0,00-1/4
-1/2 Ei                          " 0,03
-8 g Salz und Pfeffer            " 0,00-1/4
-1 Prise weisser Pfeffer          " 0,00-1/2
-1 Essl. Kapern                   " 0,14-1/2
+375 g Kalbsbrust
+65 g Schweinefleisch, gewiegt
+65 g Rindfleisch, gewiegt
+10 g Salz
+20 g Mehl
+25 g Margarine
+1 Gewuerzdosis
+10 g Suppengruen
+15 g Zwiebeln
+20 g getrocknete Pilze
+12 g Milchbrot
+1 Messerspitze geriebene Zwiebeln
+1/2 Ei
+8 g Salz und Pfeffer
+1 Prise weisser Pfeffer
+1 Essl. Kapern
 1/2 l Wasser
-                                M 1,24-1/2
+
 
 _Vorbereitung_: Die Kalbsbrust wird geklopft, in recht gleichmaessige
 Stuecke (etwa 4 cm im Geviert) zerlegt (die Knorpel bleiben darin) und auf
@@ -1437,14 +1433,14 @@ Kapern.
 
 KALBSKEULE [KALBSBRATEN]. (VORRAT.)
 
-4 kg (8 Pfd.) Kalbskeule              M 8,00
-125 g Fett und Margarine              " 0,20
-50 g Speck                            " 0,07
-20 g Salz                             " 0,00-1/2
-1/4 l Milch, saure Milch oder Wasser  " 0,05
-6 g Kartoffemehl                      " 0,00-1/4
-3 Essl. Milch oder Wasser              " 0,01
-                                      M 8,33-3/4
+4 kg (8 Pfd.) Kalbskeule
+125 g Fett und Margarine
+50 g Speck
+20 g Salz
+1/4 l Milch, saure Milch oder Wasser
+6 g Kartoffemehl
+3 Essl. Milch oder Wasser
+
 
 _Vorbereitung_: Die Kalbskeule wird von dem dicken Gelenkknochen befreit;
 die lose werdenden Hessenstuecke werden abgeschnitten, da sie im Ofen
@@ -1480,13 +1476,13 @@ frisch gebratenem Fleisch.
 
 KALBSKOTELETTEN, GEHACKT.
 
-250 g Kalbfleisch        M 0,40
-65 g Rindernierenfett    " 0,09-1/4
-8 g Salz                 " 0,00-1/4
-1/2 Ei                   " 0,03
-30 g geriebene Semmel    " 0,01-3/4
-5 g Mehl                 " 0,00-1/4
-30 g Margarine           " 0,04-3/4
+250 g Kalbfleisch
+65 g Rindernierenfett
+8 g Salz
+1/2 Ei
+30 g geriebene Semmel
+5 g Mehl
+30 g Margarine
 
 _Vorbereitung_: Fleisch und Fett werden fein gewiegt oder zweimal durch
 die Fleischhackmaschine genommen.
@@ -1507,13 +1503,13 @@ der Sauce nicht zugedeckt werden, sonst werden sie weich.
 
 KALBSSCHMORBRATEN.
 
-3/4 kg (1 1/2 Pfd.) Nierenstueck    M 1,50
-50 g Fett oder Margarine           " 0,08
-8 g Salz           \
-4 g Kartoffelmehl  |               " 0,00-1/4
-1/8 l Wasser       /
-4 Essl. saure Milch                 " 0,01-1/2
-                                   M 1,59-3/4
+3/4 kg (1 1/2 Pfd.) Nierenstueck
+50 g Fett oder Margarine
+8 g Salz
+4 g Kartoffelmehl
+1/8 l Wasser
+4 Essl. saure Milch
+
 
 _Vorbereitung_: Das Nierenstueck wird in Wasser sauber gebuerstet, geklopft
 und gesalzen.
@@ -1536,13 +1532,13 @@ werden.
 
 KALBENSCHNITZEL, PANIERT, GEBRATEN.
 
-350 g Kalbsnuss              M 1,12
-5 g Salz                    " 0,00-1/4
-1 Prise weisser Pfeffer      " 0,00-1/2
-30 g geriebene Semmel       " 0,01-3/4
-1 Eiweiss                    " 0,02
-60 g Butter oder Margarine  " 0,14-1/2
-                            M 1,31
+350 g Kalbsnuss
+5 g Salz
+1 Prise weisser Pfeffer
+30 g geriebene Semmel
+1 Eiweiss
+60 g Butter oder Margarine
+
 
 _Vorbereitung_: Kleine Stuecke der Keule koennen hierzu verwendet werden.
 Nachdem sie recht gleichmaessig und nicht zu duenn geschnitten und geklopft
@@ -1561,18 +1557,18 @@ sonst weich wird.
 
 KANINCHENGERICHT.
 
-1 Kaninchen                            M 0,80--M l,00
-30 g Margarine                         " 0,01-3/4
-3 Essl. Oel                              " 0,19-1/2
-20 g Salz                              " 0,00-1/2
-1 Teel. pulveris. Majoran und Thymian  " 0,01
-1 Gewuerzdosis                          " 0,00-1/2
-20 g gewiegte Zwiebeln                 " 0,00-1/2
-25 g Mehl                              " 0,01
-1 Bruehe oder Fleischextraktbruehe       " 0,10
-1/8 l Apfelwein                        " 0,05
-1 Essl. gewiegte Petersilie             " 0,05
-                                       M 1,47-3/4
+1 Kaninchen
+30 g Margarine
+3 Essl. Oel
+20 g Salz
+1 Teel. pulveris. Majoran und Thymian
+1 Gewuerzdosis
+20 g gewiegte Zwiebeln
+25 g Mehl
+1 Bruehe oder Fleischextraktbruehe
+1/8 l Apfelwein
+1 Essl. gewiegte Petersilie
+
 
 _Vorbereitung_: Das Kaninchen wird wie der Hase (s. dort) vorbereitet,
 dann in 4 cm grosse Stuecke geschnitten.
@@ -1585,19 +1581,19 @@ aber nicht kochen, und streut die Petersilie vor dem Anrichten hinzu.
 
 
 
-KLOPS, KONIGSBERGER.
+KLOPSE, KOeNIGSBERGER.
 
-140 g gehacktes Rindfleisch          M 0,25-1/4
-60 g gehacktes Schweinefleisch       " 0,10-3/4
-1 Teel. zerlassenes Fett             " 0,00-1/2
-1 Eiweiss oder Eigelb                 " 0,02
-1/2 Broetchen                         " 0,01-1/4
+140 g gehacktes Rindfleisch
+60 g gehacktes Schweinefleisch
+1 Teel. zerlassenes Fett
+1 Eiweiss oder Eigelb
+1/2 Broetchen
 1 Essl. Wasser.
-1 Prise Salz und Pfeffer             " 0,00-1/4
-1 Messerspitze geriebene Zwiebeln    " 0,00-1/4
-1 l Wasser \
-5 g. Salz  /                         " 0,00-1/4
-                                     M 0,40-1/2
+1 Prise Salz und Pfeffer
+1 Messerspitze geriebene Zwiebeln
+1 l Wasser
+5 g Salz
+
 
 _Vorbereitung_: Das Wasser zum Kochen der Klopse mit Salz aufsetzen. Das
 Broetchen in Wuerfel schneiden, einweichen und ausdruecken.
@@ -1615,12 +1611,12 @@ gemacht ist.
 
 LUNGEN ZU KOCHEN.
 
-1/2 Lunge mit Herz     M 0,80
-2 Essl. Suppengruen      " 0,03
-1 Gewuerzdosis          " 0,00-1/2
-15 g Salz              " 0,00-1/4
-2 l Wasser.
-                       M 0,83-3/4
+1/2 Lunge mit Herz
+2 Essl. Suppengruen
+1 Gewuerzdosis
+15 g Salz
+2 l Wasser
+
 
 _Vorbereitung_: Lunge und Herz werden gruendlich gewaschen und in
 handgrosse Stuecke geschnitten. Das Suppengruen wird geputzt, gewaschen und
@@ -1638,16 +1634,16 @@ und Lunge weiter nach der Vorschrift des Rezeptes Lungenhache.
 
 LUNGENHACHE.
 
-1/2 Lunge und Herz (gekocht)    M 0,83-3/4
-20 g Fett                       " 0,02-1/2
-10 g Mehl                       " 0,00-1/2
-20 g Zwiebeln                   " 0,00-1/2
-1 Prise Pfeffer und Salz        " 0,00-1/4
-1 Essl. Essig                    " 0,00-1/2
-                                M 0,88
+1/2 Lunge und Herz (gekocht)
+20 g Fett
+10 g Mehl
+20 g Zwiebeln
+1 Prise Pfeffer und Salz
+1 Essl. Essig
+
 
 _Vorbereitung_: Die Fleischstuecke werden von Haeuten, Sehnen und Knorpeln
-befreit und nicht zu sein gewiegt. Die Zwiebeln werden geschaelt, in
+befreit und nicht zu fein gewiegt. Die Zwiebeln werden geschaelt, in
 kleine Wuerfel geschnitten oder gewiegt. 1/8 l Lungenbruehe wird
 heissgestellt.
 
@@ -1668,17 +1664,17 @@ genau wie das Lungenhache.
 
 REHBLATT, GESCHMORTES, FUeR 4 PERSONEN.
 
-1 grosses Rehblatt               M 2,50
-1 mittelgrosse Zwiebel           " 0,01
-1 Mohrruebe                      " 0,01
-1 Gewuerzdosis                   " 0,01-1/2
-1/4 l Bruehe, Milch oder Wasser  " 0,20
-3 Essl. Essig                    " 0,01-1/2
-30 g Brotrinde                  " 0,00-3/4
-50 g Margarine                  " 0,08
-30 g Speck                      " 0,04-1/4
-5 g Salz                        " 0,00-1/4
-                                M 2,88-1/4
+1 grosses Rehblatt
+1 mittelgrosse Zwiebel
+1 Mohrruebe
+1 Gewuerzdosis
+1/4 l Bruehe, Milch oder Wasser
+3 Essl. Essig
+30 g Brotrinde
+50 g Margarine
+30 g Speck
+5 g Salz
+
 
 _Vorbereitung_: Das Rehblatt wird (mit Ausnahme des Beins, welches man
 nur kuerzt) so viel wie moeglich von den Knochen befreit, geklopft,
@@ -1702,17 +1698,17 @@ Gericht fuer den Selbstkocher.
 
 
 
-Rinderrouladen.
+RINDERROULADEN.
 
-200 g Rindfleisch      M 0,40
-1 kleine Zwiebel       " 0,00-1/2
-30 g Speck, geschabt   " 0,04-1/4
-20 g Rinderfett        " 0,02-1/2
-1 Teel. Salz           " 0,00-1/4
-1 Prise Pfeffer        " 0,00-1/4
-20 g Mehl              " 0,00-3/4
+200 g Rindfleisch
+1 kleine Zwiebel
+30 g Speck, geschabt
+20 g Rinderfett
+1 Teel. Salz
+1 Prise Pfeffer
+20 g Mehl
 1/4 l Wasser
-                       M 0,48-1/2
+
 
 _Vorbereitung_: Rindfleischscheiben von der Groesse einer Handflaeche und
 3/4 cm dick, werden geklopft, die Zwiebeln fein gewiegt; der Speck wird
@@ -1736,16 +1732,16 @@ Gericht fuer den Selbstkocher.
 
 RINDERSCHMORBRATEN FUeR 6 PERSONEN.
 
-1-1/2 kg (3 Pfd.) Rindfleisch M 2,70
-30 g fetter Speck             " 0,04-1/4
-20 g Mehl                     " 0,00-3/4
-1 Gewuerzdosis                 " 0,00-1/2
-30 g Brotrinde                " 0,00-3/4
-30 g Fett oder Margarine      " 0,04-1/4
-20 g Zwiebeln                 " 0,00-1/2
-15 g Salz                     " 0,00-1/4
-Wasser nach Bedarf.
-                              M 2,81-1/4
+1-1/2 kg (3 Pfd.) Rindfleisch
+30 g fetter Speck
+20 g Mehl
+1 Gewuerzdosis
+30 g Brotrinde
+30 g Fett oder Margarine
+20 g Zwiebeln
+15 g Salz
+Wasser nach Bedarf
+
 
 _Vorbereitung_: Das Fleisch wird geklopft und mit Bindfaden zu guter Form
 gebunden. Der Speck wird in 4 cm lange, 8 mm dicke Streifen geschnitten
@@ -1790,16 +1786,16 @@ Gericht fuer den Selbstkocher.
 
 RINDFLEISCH MIT BRUeHKARTOFFELN.
 
-200 g Rindfleisch                           M 0,32
+200 g Rindfleisch
 3/4 kg (1-1/2 Pfd.) geschaelte Kartoffeln,
-  Wasser und Salz zum Abwellen              " 0,06-1/4
-15 g Suppengruen                             " 0,01-1/2
+  Wasser und Salz zum Abwellen
+15 g Suppengruen
 3/4 l Wasser
-10 g Salz                                   " 0.00-1/4
+10 g Salz
 1 Teel. Petersilie oder
-  1/4 Teel. getrodneter Majoran             " 0,02
-1 Prise Salz                                " 0,00-1/4
-                                            M 0,42-1/4
+  1/4 Teel. getrodneter Majoran
+1 Prise Salz
+
 
 _Vorbereitung_: Das Fleisch wird gewaschen und geklopft, die
 durchschnittenen Kartoffeln werden in Salzwasser abgewellt und auf ein
@@ -1822,11 +1818,11 @@ Gericht fuer den Selbstkocher.
 
 RINDFLEISCH UND RINDFLEISCHBRUeHE.
 
-250 g Rindfleisch (Schild oder Duennung)   M 0,40
-2 Essl. Suppengruen                         " 0,03
-10 g Salz                                 " 0,00-1/4
+250 g Rindfleisch (Schild oder Duennung)
+2 Essl. Suppengruen
+10 g Salz
 1-1/4 l Wasser
-                                          M 0,43-1/4
+
 
 _Vorbereitung_: Das Fleisch wird gewaschen, geklopft und mit dem Wasser
 und Salz aufgesetzt, das Suppengruen geputzt, in gleichmaessige Stuecke
@@ -1850,17 +1846,17 @@ verwendet.
 
 SCHMORWURST.
 
-300 g Bratwurst             M 0,30
-10 g Mehl                   " 0,00-1/2
-15 g Fett oder Margarine    " 0,02-1/2
-25 g Brotrinde              " 0,00-3/4
-1 Gewuerzdosis               " 0,00-1/2
-15 g Zwiebeln               " 0,00-1/2
+300 g Bratwurst
+10 g Mehl
+15 g Fett oder Margarine
+25 g Brotrinde
+1 Gewuerzdosis
+15 g Zwiebeln
 1 Prise Salz
-1/4 l Weissbier oder Wasser  " 0,07
-5 g Kartoffelmehl      |    " 0,00-1/4
-2 Tropfen Speisefarbe  |
-                            M 0,48
+1/4 l Weissbier oder Wasser
+5 g Kartoffelmehl
+2 Tropfen Speisefarbe
+
 
 _Zubereitung_: Die Bratwurst wird im Fett angebraten, mit Mehl bestaeubt,
 dann mit den angegebenen Zutaten, ausser Kartoffelmehl und Speisefarbe in
@@ -1875,13 +1871,13 @@ gegeben.
 
 SCHWEINEBAUCH, GEKOCHT.
 
-300 g magerer Schweinebauch M 0,48
-8 g. Salz                   " 0,00-1/4
-15 g Zwiebel                " 0,00-1/2
-1 Gewuerzdosis               " 0,00-1/2
-1 Stiel Majoran             " 0,00-1/4
-3/4 l Wasser.
-                            M 0,49-1/2
+300 g magerer Schweinebauch
+8 g. Salz
+15 g Zwiebel
+1 Gewuerzdosis
+1 Stiel Majoran
+3/4 l Wasser
+
 
 _Vorbereitung_: Der Schweinebauch wird, wie alles Schweinefleisch, in
 Wasser recht sauber abgebuerstet und mit Salz tuechtig eingerieben.
@@ -1899,16 +1895,15 @@ Gericht fuer den Selbstkocher.
 
 SCHWEINEBRATEN FUeR 6 PERSONEN.
 
-1 kg (2 Pfd) Schweineruecken M 2,00
-5 g Salz                    " 0,00-1/4
-1 Zwiebel                   " 0,00-1/2
-1 Gewuerzdosis               " 0,00-1/2
+1 kg (2 Pfd) Schweineruecken
+5 g Salz
+1 Zwiebel
+1 Gewuerzdosis
 4 Essl. saure Milch oder
-  leichtes Bier             " 0,01-1/2
-10 g Kartoffel- oder
-  Weizenmehl                " 0,00-1/2
+  leichtes Bier
+10 g Kartoffel- oder Weizenmehl
 1/2 l Wasser
-                            M 2,03-1/4
+
 
 _Vorbereitung_: Das Schweinerueckenstueck wird schnell gewaschen,
 getrocknet, geklopft und vom Fett bis auf 2 Strohhalme breit befreit; mit
@@ -1937,20 +1932,20 @@ Braten zu Tisch.
 
 
 
-SCHWEINEFLEISCH, GEKOCHTES, MIT WEIssKOHL UND KARTOFFELN.
+SCHWEINEFLEISCH, GEKOCHTES, MIT WEISSKOHL UND KARTOFFELN.
 
-200 g Schweinekamm               M 0,32
-8 g Salz     \                   " 0,00-1/4
-3/4 l Wasser /
-3/4 kg (1-1/2 Pfd.) Weisskohl \   " 0,15
-Wasser und 1 Prise Salz      /   " 0,00 1/4
-250 g geschaelte Kartoffeln \     " 0,02
-Wasser und 1 Prise Salz    /     " 0,00-1/4
-1 Gewuerzdosis                    " 0,00-1/2
-10 g Fett                        " 0,01-1/4
-10 g Mehl                        " 0,00-1/2
-Salz und Pfeffer                 " 0,00-1/4
-                                 M 0,52-1/4
+200 g Schweinekamm
+8 g Salz
+3/4 l Wasser
+3/4 kg (1-1/2 Pfd.) Weisskohl
+Wasser und 1 Prise Salz
+250 g geschaelte Kartoffeln
+Wasser und 1 Prise Salz
+1 Gewuerzdosis
+10 g Fett
+10 g Mehl
+Salz und Pfeffer
+
 
 _Vorbereitung_: Das Fleisch wird gewaschen und geklopft. 3/4 l Wasser mit
 8 g Salz stellt man auf den Herd. Der Kohl wird von den aeusseren Blaettern
@@ -1971,24 +1966,24 @@ Gericht fuer den Selbstkocher.
 
 SCHWEINEKOTELETTEN.
 
-250 g Schweinekoteletten      M 0,50
-1/2 Teel. Pfeffer und Salz    " 0,00-1/4
-2 Essl. geriebene Semmel       " 0,01
-1 Teel. Mehl                  " 0,00-1/4
-1/2 Eiweiss                    " 0,01
-1 Essl. Schmalz                " 0,03
-                              M 0,55-1/2
+250 g Schweinekoteletten
+1/2 Teel. Pfeffer und Salz
+2 Essl. geriebene Semmel
+1 Teel. Mehl
+1/2 Eiweiss
+1 Essl. Schmalz
+
 
 Zur Sauce:
 
-1 Essl. Suppengruen             M 0,011/2
-10 g Mehl                     " 0,00-1/2
-10 g Zwiebelscheiben          " 0,00-1/4
-1/2 Essl. ausgebratenes Fett   " 0,01-1/2
-1/4 Teel. Salz                " 0,00-1/4
+1 Essl. Suppengruen
+10 g Mehl
+10 g Zwiebelscheiben
+1/2 Essl. ausgebratenes Fett
+1/4 Teel. Salz
 3/8 l Wasser.
-1/2 Teel. Mostrich            " 0,00-1/2
-                              M 0,04-1/2
+1/2 Teel. Mostrich
+
 
 _Vorbereitung_: Das Fleisch wird bis zu einem Strohhalm breit vom Fett
 befreit, der Rueckgratknochen, nicht der Rippenknochen, abgeschlagen,
@@ -2020,16 +2015,16 @@ bereitet.
 
 SCHWEINEKOTELETTEN, GESCHMORT.
 
-250 g Schweinekamm          M 0,40
-1 Prise Salz und Pfeffer    " 0,00-1/4
-5 g Mehl                    " 0,00-1/4
-1/2 Gewuerzdosis             " 0,00-1/4
-10 g Zwiebeln               " 0,00-1/4
-1 Teel. Mostrich            " 0,01
-4 g Kartoffelmehl           " 0,00-1/4
-1 Essl. Essig                " 0,00-1/2
-3/16 l Wasser.
-                            M 0,42-3/4
+250 g Schweinekamm
+1 Prise Salz und Pfeffer
+5 g Mehl
+1/2 Gewuerzdosis
+10 g Zwiebeln
+1 Teel. Mostrich
+4 g Kartoffelmehl
+1 Essl. Essig
+3/16 l Wasser
+
 
 _Vorbereitung_: Man schneidet das aeussere Fett soviel als moeglich ab und
 verwendet moeglichst das Stueck dem Halse zu, weil es durchwachsener ist
@@ -2051,13 +2046,13 @@ Gericht fuer den Selbstkocher.
 
 SCHWEINENIEREN, SAURE.
 
-250 g Schweinenieren                 M 0,40
-5 g Salz                             " 0,00-1/4
-10 g Mehl                            " 0,00-1/2
-25 g Margarine                       " 0,04
-1/4 l Bruehe oder Fleischextraktbruehe " 0,20
-1/2 Essl. Essig                       " 0,00-1/4
-                                     M 0,65-1/4
+250 g Schweinenieren
+5 g Salz
+10 g Mehl
+25 g Margarine
+1/4 l Bruehe oder Fleischextraktbruehe
+1/2 Essl. Essig
+
 
 _Vorbereitung_: Die Nieren werden sauber gewaschen, der Breite nach in
 1/2 cm dicke Stuecke geschnitten, von den Sehnen befreit und mit Salz und
@@ -2073,12 +2068,11 @@ Essig zu und gibt sie, gern mit Bratkartoffeln, moeglichst rasch zu Tisch.
 
 SCHWEINEPOeKELFLEISCH ODER EISBEIN.
 
-1/2 kg (1 Pfd.) Eisbein oder
-Poekelfleisch       M 0,80
-1/2 Gewuerzdosis    " 0,00-1/4
-15 g Zwiebeln      " 0,00-1/2
-l Wasser             0,00
-                   M 0,80-3/4
+1/2 kg (1 Pfd.) Eisbein oder Poekelfleisch
+1/2 Gewuerzdosis
+15 g Zwiebeln
+l Wasser
+
 
 _Zubereitung_: Poekelfleisch und Eisbein werden wie Schweinebauch gekocht.
 
@@ -2089,18 +2083,18 @@ Gericht fuer den Selbstkocher.
 SCHWEINESCHINKEN, FRISCHER, MIT BROTKRUSTE FUeR 12-14 PERSONEN.
 
 1 Schweinekeule von einem
-jungen Schwein, 4 kg (8 Pfd.)  M 6,40
-10 Nelken                      " 0,00-1/4
-60 g geriebenes Brot           " 0,01-1/2
-25 g Zucker                    " 0,01-1/4
-1/2 Teel. Zimt                 " 0,00-1/2
-10 g Salz                      " 0,00-1/4
-30 g Brotrinde                 " 0,00-1/2
-1 Gewuerzdosis                  " 0,00-1/2
-1 kleine Zwiebel               " 0,00-1/2
-1 Prise Salz                   " 0,00-1/4
-1-1/2 l Wasser.
-                               M 6,45-1/2
+jungen Schwein, 4 kg (8 Pfd.)
+10 Nelken
+60 g geriebenes Brot
+25 g Zucker
+1/2 Teel. Zimt
+10 g Salz
+30 g Brotrinde
+1 Gewuerzdosis
+1 kleine Zwiebel
+1 Prise Salz
+1-1/2 l Wasser
+
 
 _Vorbereitung_: Von einer geklopften Schweinekeule schneidet man die
 Schwarten nebst einem grossen Teil des Fettes ab und reibt die Keule mit
@@ -2125,14 +2119,14 @@ oder sie auch erst beim Aufwaermen darauf legen.
 
 SPECKSCHEIBEN EINZUWAeLZEN UND ZU BRATEN.
 
-100 g magerer Speck            M 0,14
+100 g magerer Speck
 3/8 l Wasser
-1/2 Eiweiss, 1/2 Teel. Wasser   " 0,01
-1 knapper Essl. Mehl            " 0,00-1/2
-2 Essl. geriebene Semmel        " 0,01
-1/2 Teel. Salz                 " 0,00-1/4
-20 g Schmalz oder Margarine    " 0,03-1/4
-                               M 0,20
+1/2 Eiweiss, 1/2 Teel. Wasser
+1 knapper Essl. Mehl
+2 Essl. geriebene Semmel
+1/2 Teel. Salz
+20 g Schmalz oder Margarine
+
 
 _Vorbereitung_: Speck in 1/2 cm dicke Scheiben schneiden, so dass die
 Streifen laengs laufen, und in 3/8 l Wasser einwaessern. Eiweiss mit 1/2
@@ -2149,15 +2143,15 @@ Farbe gebraten und angerichtet.
 
 SUeLZE (VORRAT.)
 
-3/4 kg (1-1/2 Pfd.) Schweinekamm M 1,20
-1 Schweineohr                    " 0,50
-1 Gewuerzdosis                    " 0,00-1/2
-40 g Zwiebeln                    " 0,01-1/4
-20 g Salz                        " 0,00-1/2
+3/4 kg (1-1/2 Pfd.) Schweinekamm
+1 Schweineohr
+1 Gewuerzdosis
+40 g Zwiebeln
+20 g Salz
 1-1/2 l Wasser
-1/8 l Essig                      " 0,02-1/2
-65 g Gurkenwuerfelchen            " 0,05
-                                 M 1,79-3/4
+1/8 l Essig
+65 g Gurkenwuerfelchen
+
 
 _Vorbereitung_: Nachdem Schweinefleisch und Schweineohr gehoerig gewaschen
 sind, setzt man sie mit Gewuerz, Zwiebelscheiben, Salz und 1-1/2 l Wasser,
@@ -2179,8 +2173,8 @@ Gericht fuer den Selbstkocher.
 
 WUeRSTCHEN, GERAeUCHERTE, WARM ZU MACHEN.
 
-2 Paar Wuerstchen     M 0,30
-1/2 l kaltes Wasser.
+2 Paar Wuerstchen
+1/2 l kaltes Wasser
 
 
 _Zubereitung_. Jauersche-, Knoblauch- oder Wiener Wuerste werden mit
@@ -2226,14 +2220,14 @@ oder den Topf.
 
 ENTE, GEBRATENE, FUeR 4 PERSONEN.
 
-1 Ente             M 2,50
-1 Stiel Beifuss     " 0,01
-8 Aepfel            " 0,30
-5 g Zucker         " 0,00-1/4
-l0 g Salz          " 0,00-1/4
-5 g Kartoffelmehl  " 0,00-1/4
-1/4 l Wasser.
-                   M 2,81-3/4
+1 Ente
+1 Stiel Beifuss
+8 Aepfel
+5 g Zucker
+l0 g Salz
+5 g Kartoffelmehl
+1/4 l Wasser
+
 
 _Vorbereitung_: Man bereitet die Ente nach obiger Vorschrift vor.
 
@@ -2255,16 +2249,16 @@ mit Kartoffeln und Suppengruen gekocht eine schmackhafte Suppe
 
 GAeNSEBRATEN, FETTER. (VORRAT.)
 
-1 Gans von 4 kg (8 Pfd.) M 4,80
-1 kg (2 Pfd) Aepfel       " 0,60
-40 g Zucker              " 0,02
-30 g Salz                " 0,00-1/2
-1 Strauss Beifuss          " 0,05
-30 g Zwiebeln            " 0,01
-1 Gewuerzdosis            " 0,00-1/2
-8 g Kartoffelmehl        " 0,00-1/2
-1 l Wasser.
-                         M 5,49-1/2
+1 Gans von 4 kg (8 Pfd.)
+1 kg (2 Pfd) Aepfel
+40 g Zucker
+30 g Salz
+1 Strauss Beifuss
+30 g Zwiebeln
+1 Gewuerzdosis
+8 g Kartoffelmehl
+1 l Wasser
+
 
 _Vorbereitung_: Die Gans wird nach Vorschrift vorbereitet; Fluegel, Hals,
 Kopf und Pfoten werden abgehauen. Das Darmfett der Gans wird sorgfaeltig
@@ -2301,17 +2295,17 @@ GAeNSEKLEIN.
 
 Herz, Magen, Kopf, Fluegel,
 Fuesse und der in Stuecke
-geschlagene Hals             M 0,75
-30 g Zwiebelwuerfel           " 0,01
-30 g abgeschoepftes Gaensefett " 0,06
-1 Gewuerzdosis                " 0,00-1/2
-30 g Mehl                    " 0,01-1/4
-10 g Salz                    " 0,00-1/4
-2 Essl. Petersilie            " 0,10
-56 g Suppengruen              " 0,05-1/2
-1 Prise Pfeffer              " 0,00-1/4
-3/4 l Wasser.
-                             M 0,99 3/4
+geschlagene Hals
+30 g Zwiebelwuerfel
+30 g abgeschoepftes Gaensefett
+1 Gewuerzdosis
+30 g Mehl
+10 g Salz
+2 Essl. Petersilie
+56 g Suppengruen
+1 Prise Pfeffer
+3/4 l Wasser
+
 
 _Zubereitung_: Das sauber beputzte, gesengte Gaenseklein, wie man die oben
 angefuehrten Stuecke nennt, wird mit Wasser, Suppengruen und Gewuerz
@@ -2331,11 +2325,11 @@ Huehnerklein, Taubenklein_) zu bereiten.
 
 HUHN, GEKOCHTES, FUeR 4 PERSONEN.
 
-1 Herbsthuhn oder 1 altes Huhn M 2,00
-56 g Suppengruen                " 0,05-1/2
-15 g Salz                      " 0,00-1/4
+1 Herbsthuhn oder 1 altes Huhn
+56 g Suppengruen
+15 g Salz
 1-1/2 l Wasser
-                               M 2,05-3/4
+
 
 _Vorbereitung_: Das Huhn wird vorbereitet, mit Bindfaden umbunden; Leber,
 Herz und Magen kommen hinein.
@@ -2361,16 +2355,15 @@ Gericht fuer den Selbstkocher.
 
 HUHN, JUNGES, GESCHMORT.
 
-1 junges Huhn       M 1,20
-10 g Salz           " 0,00-1/4
-50 g Butter         " 0,12
-1 Strauss Petersilie " 0,05
-20 g Speck          " 0,02-3/4
-1/8 1 Wasser
-oder leichte Bruehe
-8 g Kartoffelmehl   " 0,00-1/4
-3 Essl. Wasser.
-                    M 1,40-1/4
+1 junges Huhn
+10 g Salz
+50 g Butter
+1 Strauss Petersilie
+20 g Speck
+1/8 1 Wasser oder leichte Bruehe
+8 g Kartoffelmehl
+3 Essl. Wasser
+
 
 _Vorbereitung_: Das Huhn wird nach Vorschrift vorbereitet, gereinigt und
 ausgetrocknet. Nachdem das Innere mit Salz ausgerieben ist, tut man die
@@ -2395,23 +2388,22 @@ TAUBEN, JUNGE.
 
 I.
 
-2 junge Tauben             M 1,20
-30 g Butter oder Margarine " 0,07-1/4
-5 g Kartoffelmehl          " 0,00-1/4
-2 Essl. saure Milch
-oder Sahne                 " 0,00-3/4
-1/2 Teel. Salz             " 0,00-1/4
+2 junge Tauben
+30 g Butter oder Margarine
+5 g Kartoffelmehl
+2 Essl. saure Milch oder Sahne
+1/2 Teel. Salz
 1/8 l Wasser oder Bruehe.
 
 II. Zur Fuellung fuer 2 Tauben.
 
-1 Semmel                   " 0,02-1/2
-1/2 Essl. Fett              " 0,01-1/4
-1/1 Essl. Korinthen         " 0,00-1/2
-1 Prise Zucker und Salz    " 0,00-1/4
-1 Eigelb oder Eiweiss       " 0,03
-9 Essl. Magermilch          " 0,01-3/4
-                           M 1,37-3/4
+1 Semmel
+1/2 Essl. Fett
+1/1 Essl. Korinthen
+1 Prise Zucker und Salz
+1 Eigelb oder Eiweiss
+9 Essl. Magermilch
+
 
 _Vorbereitung_: Die Tauben werden nach Vorschrift gerupft, gesengt,
 ausgenommen und leicht gewaschen; Fluegel, Hals und Beine (bis zum
@@ -2461,15 +2453,15 @@ bewirkt dass sich die Haut leichter abstreifen laesst.
 
 AAL BLAU.
 
-250 g Aal            M 0,60
-10 g Salz            " 0,00-1/4
-1 Essl. Essig         " 0,00-1/2
+250 g Aal
+10 g Salz
+1 Essl. Essig
 1,4 l Wasser.
-30 g Zwiebelscheiben " 0,01
-1 Gewuerzdosis        " 0,00-1/2
-1 Essl. Suppengruen    " 0,01-1/2
-1/2 l Wasser.
-                     M 0,63-3/4
+30 g Zwiebelscheiben
+1 Gewuerzdosis
+1 Essl. Suppengruen
+1/2 l Wasser
+
 
 _Vorbereitung_: Man teilt den (wie oben angegeben) getoeteten Aal in
 gleichmaessige, beliebig lange Stuecke, reinigt jedes einzelne Stueck
@@ -2486,16 +2478,16 @@ Aalbruehe gibt man dazu.
 
 AAL IM BIER.
 
-250 g Aal             M 0,60
-3/8 l Weissbier        " 0,10
-1 Gewuerzdosis         " 0,00-1/2
-8 g Salz              " 0,00-1/4
-1 Teel Butter         " 0,01-1/2
-2 Teel. Mehl          " 0,00-1/4
-4 Teel. Kartoffelmehl " 0,00-1/2
-3 Essl. Wasser.
-4 Zwiebelscheiben     " 0,00-1/2
-                      M 0,73-1/2
+250 g Aal
+3/8 l Weissbier
+1 Gewuerzdosis
+8 g Salz
+1 Teel Butter
+2 Teel. Mehl
+4 Teel. Kartoffelmehl
+3 Essl. Wasser
+4 Zwiebelscheiben
+
 
 _Vorbereitung_: Nachdem der Aal in Stuecke geschnitten, jedes Stueck
 gesaeubert und oefter gewaschen wurde, packt man ihn mit Gewuerzen,
@@ -2512,16 +2504,16 @@ fuellt sie ueber die Fischstuecke und gibt die uebrige Sauce nebenher.
 
 AAL IN DILLSAUCE.
 
-250 g Aal                    M 0,60
-1/4 Wasser.
-1 Teel. Butter               " 0,01-1/2
-1-1/2 Teel. Mehl             " 0,00-1/4
-1 Teel. gewiegter Dill       " 0,01-3/4
-1 Prise weisser Pfeffer       " 0,00-1/2
-10 g Salz                    " 0,00-1/4
-10 g Zwiebeln                " 0,00-1/4
-1 Gewuerzdosis                " 0,00-1/2
-3/8 l Wasser                 M 0,65
+250 g Aal
+1/4 Wasser
+1 Teel. Butter
+1-1/2 Teel. Mehl
+1 Teel. gewiegter Dill
+1 Prise weisser Pfeffer
+10 g Salz
+10 g Zwiebeln
+1 Gewuerzdosis
+3/8 l Wasser
 
 _Vorbereitung_: Der Aal wird nach Vorschrift vorbereitet, in Stuecke
 geschlagen, gereinigt und mit kochendem Wasser ueberbrueht.
@@ -2537,17 +2529,17 @@ Aalstuecke gegossen.
 
 BIERFISCH.
 
-1/2 kg (1 Pfd.) Fisch       M 0,60
-50 g Fett                   " 0,06
-20 g Zwiebeln               " 0,00-1/2
-40 g Mehl                   " 0,01-1/2
-1 Gewuerzdosis               " 0,00-1/2
-2 Essl. Suppengruen           " 0,03
-1 Brotrinde             |   " 0,00-1/2
-15 g Salz               |
-2 Essl. Sirup                " 0,02
-1 Flasche Braunbier         " 0,10
-                            M 0,84
+1/2 kg (1 Pfd.) Fisch
+50 g Fett
+20 g Zwiebeln
+40 g Mehl
+1 Gewuerzdosis
+2 Essl. Suppengruen
+1 Brotrinde
+15 g Salz
+2 Essl. Sirup
+1 Flasche Braunbier
+
 
 _Vorbereitung_: Der vorbereitete Fisch wird in handbreite Stuecke
 zerschnitten, dann ausgenommen und zwar so, dass die Stuecke rund und ganz
@@ -2577,16 +2569,16 @@ _verschiedene kleine Fische_.
 
 FISCH, GRUeNER.
 
-1/2 kg (1 Pfd.) Fisch       M 0,60
-40 g Fett                   " 0,04-3/4
-1 mittelgrosse Zwiebel       " 0,01
-2 Essl. Suppengruen           " 0,03
-10 g Salz                   " 0,00-1/4
-40 g Mehl                   " 0,01-1/2
-1 Essl. gewiegte Petersilie  " 0,05
-1 Prise Pfeffer             " 0,001-1/4
-3/4 l Wasser.
-                            M 0,75-3/4
+1/2 kg (1 Pfd.) Fisch
+40 g Fett
+1 mittelgrosse Zwiebel
+2 Essl. Suppengruen
+10 g Salz
+40 g Mehl
+1 Essl. gewiegte Petersilie
+1 Prise Pfeffer
+3/4 l Wasser
+
 
 _Vorbereitung_: Der Fisch wird geschuppt, gewaschen, zerschnitten,
 ausgenommen und gesalzen, das Suppengruen zerschnitten. In 3/4 l
@@ -2605,20 +2597,19 @@ den Fisch mit Sauce an. So kocht man _Hecht_, _Zander_, _Aal_, _Schleie_.
 FISCHKOTELETTEN.
 
 150 g gekochter Fisch oder
-Fischreste (entgraetet)    M 0,30
-15 g gehackte Zwiebeln    " 0,00-1/2
-15 g Margarine            " 0,02-1/2
-15 g Mehl                 " 0,00-1/2
-1/8 l Magermilch          " 0,01-1/4
-1 Prise Salz und Pfeffer  " 0,00-1/4
-1 Eigelb                  " 0,04
-5 g Mehl                  " 0,00-1/4
-1 Eiweiss                  " 0,02
-20 g geriebene Semmel     " 0,02-1/2
-Backfett zum
-voruebergehenden Gebrauche " 0,03
-1/2 Bogen Loeschpapier     " 0,01
-                          M 0,47-3/4
+Fischreste (entgraetet)
+15 g gehackte Zwiebeln
+15 g Margarine
+15 g Mehl
+1/8 l Magermilch
+1 Prise Salz und Pfeffer
+1 Eigelb
+5 g Mehl
+1 Eiweiss
+20 g geriebene Semmel
+Backfett zum voruebergehenden Gebrauche
+1/2 Bogen Loeschpapier
+
 
 _Zubereitung_: Man schwitzt die Zwiebeln in der Margarine weich, fuegt das
 Mehl dazu und ruehrt, wenn es gar ist, mit Milch, Salz und Pfeffer zu
@@ -2638,14 +2629,14 @@ _Bemerkung_: Das Fett ist zu reinigen.
 FISCH MIT SAUERKOHL.
 
 200 g gekochter oder gebratener
-Fisch (entgraetet)     M 0,40
+Fisch (entgraetet)
 375 g fertig
-gekochter Sauerkohl   " 0,15
-20 g Margarine        " 0,03-1/4
-1/8 1 Sahne           " 0,12-1/2
-5 g Salz              " 0,00-1/4
-10 g geriebene Semmel " 0,00-1/2
-                      M 0,61-1/2
+gekochter Sauerkohl
+20 g Margarine
+1/8 1 Sahne
+5 g Salz
+10 g geriebene Semmel
+
 
 Eine Schicht des Sauerkohls wird auf eine gebutterte Schuessel oder in
 eine Form gelegt, darueber eine Schicht des entgraeteten, in kleine Stuecke
@@ -2658,16 +2649,15 @@ betraeufelt hat, laesst man sie 1/2 Stunde im Ofen Farbe annehmen.
 
 FISCH MIT SCHOTEN.
 
-Eine 250 g Buechse Schoten     M 0,40
-125 g zerpflueckter gekochter
-Fisch (harte Sorte)           " 0,25
-15 g Margarine                " 0,02-1/2
-1-1/2 Milchbrot               " 0,03-3/4
-20 g Margarine                " 0,03-1/4
-1/4 Teel. geriebene Zwiebel   " 0,00-1/4
-10 g Margarine                " 0,01-1/2
-1 Prise Pfeffer und Salz      " 0,00-1/4
-                              M 0,76-1/2
+Eine 250 g Buechse Schoten
+125 g zerpflueckter gekochter Fisch (harte Sorte)
+15 g Margarine
+1-1/2 Milchbrot
+20 g Margarine
+1/4 Teel. geriebene Zwiebel
+10 g Margarine
+1 Prise Pfeffer und Salz
+
 
 _Vorbereitung_: Die Fischstueckchen werden in 15 g Margarine leicht
 gebraten.
@@ -2683,17 +2673,17 @@ an.
 
 HERINGE, FRISCHE, ZU BRATEN. (VORRAT.)
 
-15 frische Heringe         M 0,70
-40 g Salz                  " 0,00-3/4
-1 Prise Pfeffer und Salz   " 0,00-1/4
-75 g Mehl                  " 0,03
-250 g Backfett             " 0,30
-1 l Essig                  " 0,20
-50 g Zwiebelscheiben       " 0,01-1/2
-1 Gewuerzdosis              " 0,00-1/2
-5 g Salz                   " 0,00-1/4
-1/2 l Wasser.
-                           M 1,26-1/4
+15 frische Heringe
+40 g Salz
+1 Prise Pfeffer und Salz
+75 g Mehl
+250 g Backfett
+1 l Essig
+50 g Zwiebelscheiben
+1 Gewuerzdosis
+5 g Salz
+1/2 l Wasser
+
 
 _Vorbereitung_: Die Heringe werden geschuppt, ausgenommen, gewaschen,
 leicht einige Male ueber den Ruecken geritzt und 1/2 Stunde gesalzen
@@ -2724,13 +2714,13 @@ einige gruene Blaetter zum ganzen Fisch zusammengelegt.
 
 HERINGE ZURECHTZUMACHEN UND EINZULEGEN. (VORRAT.)
 
-15 Heringe              M 1,50
-1 l Essig               " 0,20
-100 g Zwiebelscheiben   " 0,03
-4 Gewuerzdosen           " 0,02
-1 saure Gurke           " 0,05
-5 g Salz                " 0,00-1/4
-                        M 1,80-1/4
+15 Heringe
+1 l Essig
+100 g Zwiebelscheiben
+4 Gewuerzdosen
+1 saure Gurke
+5 g Salz
+
 
 _Vorbereitung zum Einlegen_. Heringe einwaessern. Essig abkochen. Zwiebeln
 und Gurke in Scheiben schneiden. Gewuerze abmessen.
@@ -2757,10 +2747,10 @@ ueber die Heringe gegossen zu werden.
 
 SCHELLFISCH, GEKOCHT.
 
-1 kleiner Schellfisch 1/2 kg (1 Pfd)   M 0,40
-40 g Salz                              " 0,00-3/4
+1 kleiner Schellfisch 1/2 kg (1 Pfd)
+40 g Salz
 2 l Wasser
-                                       M 0,40-3/4
+
 
 _Vorbereitung_: Der Fisch wird geschuppt, indem man ihn auf ein
 angefeuchtetes Brett legt (angefeuchtet muss das Brett sein, damit sich
@@ -2814,16 +2804,16 @@ berechnet.)
 
 APFELREIS.
 
-125 g Reis                           M 0,07-1/2
+125 g Reis
 1/2 l Wasser zum Abwellen
 2 grosse Aepfel oder 40 g getrocknete
-Aepfel und 1/4 l Wasser               " 0,10
-5 g Margarine oder Fett              " 0,00-3/4
-1 Stueckchen Apfelsinenschale         " 0,00-1/4
-10 g Zucker                          " 0,00-1/2
-5 g Salz                             " 0,00-1/4
-10 g Zucker und Zimt                 " 0,00-3/4
-                                     M 0,20
+Aepfel und 1/4 l Wasser
+5 g Margarine oder Fett
+1 Stueckchen Apfelsinenschale
+10 g Zucker
+5 g Salz
+10 g Zucker und Zimt
+
 
 _Vorbereitung_: Man schaelt 2 grosse Aepfel und schneidet sie mit in Stuecke.
 Die Abfaelle der Aepfel werden mit 1/4 l Wasser ausgekocht das Wasser wird
@@ -2839,17 +2829,17 @@ mit dem Reis allein weichzukochen sind.
 
 AePFEL UND KARTOFFELN.
 
-1/2 kg (1 Pfd.) rohe geschaelte Kartoffeln   M 0,01
-5 g Salz     \
-1/4 1 Wasser /                              " 0,001/4
-375 g Aepfel                                 " 0,22-1/2
+1/2 kg (1 Pfd.) rohe geschaelte Kartoffeln
+5 g Salz
+1/4 1 Wasser
+375 g Aepfel
 1/4 l Wasser
-10 g Zwiebeln                               " 0,00-1/4
-20 g fetter Speck                           " 0,2-3/3
-Essig nach Geschmack                        " 0,00-1/4
-20 g Zucker                                 " 0,01
-1 Prise Salz                                " 0,00-1/4
-                                            M 0,31-1/4
+10 g Zwiebeln
+20 g fetter Speck
+Essig nach Geschmack
+20 g Zucker
+1 Prise Salz
+
 
 _Vorbereitung_: Die Kartoffeln werden geschaelt und in Viertel
 geschnitten. Die Aepfel werden geschaelt, in Viertel geschnitten, vom
@@ -2872,15 +2862,15 @@ Schweinefleisch zu empfehlen.
 
 BIRNEN MIT SPECK.
 
-100 g magerer Speck     M 0,14
-1/2 l Wasser.
-1/2 kg (1 Pfd.) Birnen  " 0,40
-40 g Zucker             " 0,02
-1 Essl. Essig            " 0,00-1/2
-5 g Kartoffelmehl       " 0,00-1/4
+100 g magerer Speck
+1/2 l Wasser
+1/2 kg (1 Pfd.) Birnen
+40 g Zucker
+1 Essl. Essig
+5 g Kartoffelmehl
 2 Essl. Wasser
-1 Teel. Salz            " 0,00-1/4
-                        M 0,57
+1 Teel. Salz
+
 
 _Vorbereitung_: Die Birnen werden geschaelt. Der Speck wird sauber
 abgerieben.
@@ -2903,17 +2893,17 @@ behandelt sie wie frische Bohnen.
 
 BOHNEN, GETROCKNETE.
 
-60 g getrocknete Schneide- oder Brechbohnen    M 0,10
+60 g getrocknete Schneide- oder Brechbohnen
 Wasser zum Abkochen.
-15 g Fett                   |
-8 g Mehl                    |                  " 0,02
-1/4 l Wasser                |
-1 Prise Pfeffer                                " 0,00-1/4
-1 Zweig Pfefferkraut                           " 0,00-1/2
-250 g geschaelte Kartoffeln                     " 0,02
-Wasser und Salz zum Abwellen |                 " 0,02
-1 Teel. gewiegte Petersilie  |
-                                               M 0,16-3/4
+15 g Fett
+8 g Mehl
+1/4 l Wasser
+1 Prise Pfeffer
+1 Zweig Pfefferkraut
+250 g geschaelte Kartoffeln
+Wasser und Salz zum Abwellen
+1 Teel. gewiegte Petersilie
+
 
 _Vorbereitung_: Die Kartoffeln werden in Stuecke geschnitten.
 
@@ -2929,20 +2919,19 @@ Gericht fuer den Selbstkocher.
 
 
 
-BOHNEN, GROssE ODER SAUBOHNEN.
+BOHNEN, GROSSE ODER SAUBOHNEN.
 
 1-1/2 kg (3 Pfd.) grosse Bohnen  M 0,60
-2 l Wasser                   |
-8 g Salz                     |  " 0,00-1/4
-20 g Fett                       " 0,02-1/2
-3/8 l Bruehe                     " 0,15
-15 g Zwiebeln                   " 0,00-1/2
-1 Prise Pfeffer und Salz        " 0,00-1/4
-1/z Teel. gewiegte Petersilie   " 0,01
-5 g Mehl                        " 0,00-1/4
-1 Zweig Bohnen- oder
-  Pfefferkraut                  " 0,00-1/2
-                                M 0,80-1/4
+2 l Wasser
+8 g Salz
+20 g Fett
+3/8 l Bruehe
+15 g Zwiebeln
+1 Prise Pfeffer und Salz
+1/z [1/2?] Teel. gewiegte Petersilie
+5 g Mehl
+1 Zweig Bohnen- oder Pfefferkraut
+
 
 _Vorbereitung_: Die Bohnen werden ausgepalt, gewaschen; die Zwiebeln
 werden gerieben; die Petersilie wird gewiegt.
@@ -2957,15 +2946,15 @@ Bohnen- oder Pfefferkraut entfernt man.
 
 BOHNEN, GRUeNE (BRECHBOHNEN).
 
-1/2 kg (1 Pfd.) gruene Bohnen                M 0,10
+1/2 kg (1 Pfd.) gruene Bohnen
 2 l Wasser zum Abwellen
-3/4 l Hammelbruehe                           " 0,22-1/2
-1 Stiel Bohnen- oder Pfefferkraut           " 0,00-1/4
-1 Essl. zerlassenes Rinder- oder Hammelfett  " 0,02-1/2
-8 g Mehl                                    " 0,00-1/2
-1 Teel. gewiegte Petersilie                 " 0,02
-1 Prise Pfeffer und Salz                    " 0,00-1/4
-                                            M 0,38
+3/4 l Hammelbruehe
+1 Stiel Bohnen- oder Pfefferkraut
+1 Essl. zerlassenes Rinder- oder Hammelfett
+8 g Mehl
+1 Teel. gewiegte Petersilie
+1 Prise Pfeffer und Salz
+
 
 _Vorbereitung_: Die 2 l Wasser werden in einem Topf zugedeckt  auf den
 Herd gesetzt. Die Bohnen werden abgezogen und in gleichmaessige Stuecke
@@ -3010,16 +2999,16 @@ herausgenommen.
 
 BOHNEN, GRUeNE UND WEISSE.
 
-1/2 kg (1 Pfd) gruene Bohnen      M 0,10
+1/2 kg (1 Pfd) gruene Bohnen
 3 l Wasser zum Abwellen
-100 g weisse Bohnen               " 0,04
-1 l Wasser.
-3/4 l Hammelbruehe                " 0,22-1/2
-1 Stiel Pfefferkraut             " 0,00-1/4
-1 knapper Essl. Mehl              " 0,00-1/2
-1 Teel. gewiegte Petersilie      " 0,02
-1 Prise Pfeffer und Salz         " 0,00-1/4
-                                 M 0,39-1/2
+100 g weisse Bohnen
+1 l Wasser
+3/4 l Hammelbruehe
+1 Stiel Pfefferkraut
+1 knapper Essl. Mehl
+1 Teel. gewiegte Petersilie
+1 Prise Pfeffer und Salz
+
 
 _Vorbereitung_: Man waessert weisse, trockene Bohnen eine Nacht ein.
 
@@ -3033,18 +3022,18 @@ Gericht fuer den Selbstkocher.
 
 BOHNEN ODER LINSEN, SAURE.
 
-200 g. Bohnen oder Linsen         M 0,08
-10 g Salz                       |
-1 Prise Natron                  | " 0,00-1/4
-1 l Wasser.                     |
-30 g Speck                        " 0,04-1/4
-20 g Zwiebeln                     " 0,00-1/2
-1 Gewuerzdosis                     " 0,00-1/2
-1/4 l Wasser.
-1 Essl. Sirup                      " 0,01
-15 g Mehl                         " 0,00-1/2
-1-2 Essl. Weinessig nach Geschmack " 0,01
-                                  M 0,16
+200 g. Bohnen oder Linsen
+10 g Salz
+1 Prise Natron
+1 l Wasser
+30 g Speck
+20 g Zwiebeln
+1 Gewuerzdosis
+1/4 l Wasser
+1 Essl. Sirup
+15 g Mehl
+1-2 Essl. Weinessig nach Geschmack
+
 
 _Vorbereitung_: Die Huelsenfruechte werden Abends zuvor eingeweicht; Speck
 und Zwiebeln werden gewuerfelt.
@@ -3064,17 +3053,17 @@ Gericht fuer den Selbstkocher.
 
 BOHNEN OHNE BRUeHE
 
-1/2 kg (1 Pfd) gruene Bohnen   M 0,10
+1/2 kg (1 Pfd) gruene Bohnen
 2 1 Wasser zum Abwellen
-3/4 1 Wasser.                 " 0,00-1/4
+3/4 1 Wasser
 1 Teel. Salz
 30 g magerer oder 25 g fetter
-Speck oder 1 Essl. Fett        " 0,04-1/4
-1/2 Teel. Zwiebelwuerfel       " 0,00-1/4
-2 Teel. Mehl                  " 0,00-1/4
-1 1/2 Essl. leichter Essig     " 0,00-3/4
-1 Prise Pfeffer               " 0,00-1/4
-                              M 0,16
+Speck oder 1 Essl. Fett
+1/2 Teel. Zwiebelwuerfel
+2 Teel. Mehl
+1 1/2 Essl. leichter Essig
+1 Prise Pfeffer
+
 
 _Vorbereitung:_ Die Bohnen werden abgezogen, gebrochen oder geschnitten
 und gewaschen; Speck und Zwiebeln werden gewuerfelt.
@@ -3090,17 +3079,15 @@ Kartoffeln dazu tun.
 
 BOHNENSALAT
 
-3/4 kg (1-1/2 Pfd) Brech- oder
-Wachsbohnen                   M 0,15
-2 l Waffer und 10 g Salz      " 0,00-1/4
-10 g Zwiebeln                 " 0,00-1/4
-1 Essl. Oel                     " 0,06-1/2
-1 Essl. Essig                  " 0,00-1/2
-1 Essl. Bruehe                  " 0,00-3/4
-1 Prise Pfeffer und Salz      " 0,00-1/4
-1/2 Teel. Petersilie oder
-Schnittlauch                  " 0,01
-                              M 0,24-1/2
+3/4 kg (1-1/2 Pfd) Brech- oder Wachsbohnen
+2 l Wasser und 10 g Salz
+10 g Zwiebeln
+1 Essl. Oel
+1 Essl. Essig
+1 Essl. Bruehe
+1 Prise Pfeffer und Salz
+1/2 Teel. Petersilie oder Schnittlauch
+
 
 _Vorbereitung:_ Die Bohnen werden abgezogen, gebrochen, gewaschen. Die
 Petersilie wird gewiegt, die Zwiebel gerieben.
@@ -3119,20 +3106,20 @@ Vorschrift behandelt und abgekocht, wohlschmeckenden Salat.
 
 
 
-BOHNEN, SUessSAURE.
+BOHNEN, SUeSS-SAURE.
 
-200 g weisse Bohnen        M 0,08
-11/2 1 Wasser.
-10 g Salz                 " 0,00-1/4
-30 g Speck                " 0,04-1/4
-1 mittelgrosse Zwiebel     " 0,01
-1/2 l Wasser.
-2 Essl. Sirup              " 0,02
-1 Prise Pfeffer und Salz  " 0,00-1/4
-Essig nach Geschmack      " 0,01
-30 g Mehl                 " 0,01-1/4
-1 Essl. Zucker             " 0,00-3/4
-                          M 0,18-3/4
+200 g weisse Bohnen
+11/2 1 Wasser
+10 g Salz
+30 g Speck
+1 mittelgrosse Zwiebel
+1/2 l Wasser
+2 Essl. Sirup
+1 Prise Pfeffer und Salz
+Essig nach Geschmack
+30 g Mehl
+1 Essl. Zucker
+
 
 _Vorbereitung_: Die Bohnen werden am Abend vorher eingeweicht; Speck und
 Zwiebel werden in Wuerfel geschnitten; 1/2 l Wasser fuer die Sauce wird
@@ -3162,13 +3149,13 @@ Gericht fuer den Selbstkocher.
 
 
 
-Bratkartoffeln.
+BRATKARTOFFELN.
 
-1/2 kg (1 Pfd) Kartoffeln (abgekocht) M 0.04
+1/2 kg (1 Pfd) Kartoffeln (abgekocht)
 50 g Speck oder 40 g Schmalz
-= 2-1/2 Essl. geschmolzenes Fett       " 0,07
-5 g Salz                              " 0,00-1/4
-                                      M 0,11-1/4
+= 2-1/2 Essl. geschmolzenes Fett
+5 g Salz
+
 
 _Zubereitung_: Die abgekochten und etwas abgekuehlten Pellkartoffeln
 werden abgepellt und in gleichmaessige Scheiben geschnitten. Der Speck wird
@@ -3186,14 +3173,13 @@ lassen sich unter Beifuegung von etwas heisser Bruehe gut aufwaermen.
 
 BRUeHKARTOFFELN.
 
-1 kg (2 Pfd.) Kartoffeln     M 0,06
-5 g Salz                     " 0,00-1/4
+1 kg (2 Pfd.) Kartoffeln
+5 g Salz
 1 l Wasser
-3/4 l Bruehe                  " 0.60
+3/4 l Bruehe
 1 Teel. gewiegte Petersilie
-oder 1/4 Teel. getrockneter
-Majoran                      " 0,02
-                             M 0,68-1/4
+oder 1/4 Teel. getrockneter Majoran
+
 
 _Vorbereitung_: Die Kartoffeln werden gewaschen, geschaelt und in
 moeglichst gleichmaessige Stuecke geschnitten. Die Petersilie wird gewaschen
@@ -3215,13 +3201,13 @@ Gericht fuer den Selbstkocher.
 
 BRUeHREIS MIT FLEISCH.
 
-65 g Rindfleisch      M 0,10-1/2
-30 g Reis             " 0,01-3/4
-1/4 Knolle Sellerie   " 0,02-1/2
-1 l Wasser.
-8 g Salz              " 0,00-1/4
-1 kleine Mohrruebe     " 0,00-1/2
-                      M 0,15-1/2
+65 g Rindfleisch
+30 g Reis
+1/4 Knolle Sellerie
+1 l Wasser
+8 g Salz
+1 kleine Mohrruebe
+
 
 _Vorbereitung_: Das Fleisch wird gewaschen und in Wuerfel geschnitten,
 Sellerie geschaelt, gewaschen und gleichfalls in Wuerfel geschnitten, die
@@ -3237,15 +3223,13 @@ Gericht fuer den Selbstkocher.
 
        *       *       *       *       *
 
-Erbsen, dicke.
+ERBSEN, DICKE
 
-250 g gelbe Erbsen         M 0,10
-1/2 1 Schinken- oder
-Speckbruehe                 " 0,10
-10 g Zwiebeln              " 0,00-1/4
-15 g Schmalz               " 0,02-1/2
-1 Prise Pfeffer und Salz   " 0,00-1/4
-                           M 0,23
+250 g gelbe Erbsen
+1/2 1 Schinken- oder Speckbruehe
+10 g Zwiebeln
+15 g Schmalz
+1 Prise Pfeffer und Salz
 
 _Zubereitung_: Die wie zu Erbsensuppe vorbereiteten Erbsen werden
 geschaeumt und (nachdem die Huelsen, die obenauf schwimmen, abgenommen)
@@ -3263,18 +3247,18 @@ Gericht fuer den Selbstkocher.
 
 
 
-FLEISCHSALAT.
+FLEISCHSALAT
 
-250 g gekochtes mageres Fleisch  M 0,50
-1/16 l kalte Bruehe               " 0,05
-1/2 Teel. Mostrich               " 0,00-1/2
-1/4 Teel. geriebene Zwiebel      " 0,00-1/4
-1 Essl. Weinessig                 " 0,01
-1 Teel. gewiegte Kraeuter         " 0,05
-1 Teel. Salz und Pfeffer         " 0,00-1/2
-1 Essl. Oel                        " 0,06-1/2
-1 Pfeffergurke                   " 0,10
-                                 M 0,88-3/4
+250 g gekochtes mageres Fleisch
+1/16 l kalte Bruehe
+1/2 Teel. Mostrich
+1/4 Teel. geriebene Zwiebel
+1 Essl. Weinessig
+1 Teel. gewiegte Kraeuter
+1 Teel. Salz und Pfeffer
+1 Essl. Oel
+1 Pfeffergurke
+
 
 _Vorbereitung_: Das Fleisch wird in Wuerfel oder kleine Filets
 geschnitten. Die Gurke wird gescheibt.
@@ -3296,17 +3280,17 @@ Groesse.
 
 GRAUPEN MIT PFLAUMEN.
 
-100 g Mittel- oder starke Graupen  M 0,04
-5 g Butter                         " 0,01-1/4
+100 g Mittel- oder starke Graupen
+5 g Butter
 2/8 l Wasser
-5 g Salz                           " 0,00-1/4
-90 g getrocknete Pflaumen          " 0,05-1/2
-25 g Zucker                        " 0,01-1/4
-1 Stueckchen Zimt                   " 0,00-1/4
-1 Teel. Zitronenzucker             " 0,00-1/2
+5 g Salz
+90 g getrocknete Pflaumen
+25 g Zucker
+1 Stueckchen Zimt
+1 Teel. Zitronenzucker
 1/4 l Wasser
-25 g Zucker und Zimt               " 0,02
-                                   M 0,15
+25 g Zucker und Zimt
+
 
 _Zubereitung_: Die nach Angabe vorbereiteten Graupen (s. Graupensuppe)
 werden mit Butter unter Ruehren geschwitzt und nachdem 3/4 l Wasser
@@ -3323,19 +3307,19 @@ Gericht fuer den Selbstkocher.
 GRUeNE KARTOFFELN.
 
 2 Essl. feingeschnittenes
-Suppengruen (viel Petersilienwurzel) M 0,03
-1 kleine Zwiebel                    " 0,00-1/2
-1/2 Gewuerzdosis                     " 0,00-1/4
-1 Prise Pfeffer                     " 0,00-1/4
-30 g Fett oder Margarine            " 0,04-3/4
-30 g Mehl                           " 0,01-1/4
-1/2 Essl. Dill, gewiegt              " 0,02-1/2
-1 Essl. Petersilie, gewiegt          " 0,05
-2 Essl. Magermilch                   " 0,00-1/2
-15 g Salz                           " 0,00-1/4
-1/2 kg (1 Pfd.) Kartoffeln          " 0,03
-1/2 l Wasser.
-                                    M 0,21-1/4
+Suppengruen (viel Petersilienwurzel)
+1 kleine Zwiebel
+1/2 Gewuerzdosis
+1 Prise Pfeffer
+30 g Fett oder Margarine
+30 g Mehl
+1/2 Essl. Dill, gewiegt
+1 Essl. Petersilie, gewiegt
+2 Essl. Magermilch
+15 g Salz
+1/2 kg (1 Pfd.) Kartoffeln
+1/2 l Wasser
+
 
 _Vorbereitung_: Das Suppengruen wird geputzt, gewaschen und zerschnitten;
 die Zwiebel wird geschaelt und in Wuerfel geschnitten; Petersilie und Dill
@@ -3362,17 +3346,17 @@ fertige Suppe gegeben macht sie kraeftiger.
 
 GRUeNKOHL ODER BRAUNKOHL.
 
-1 kg (2 Pfd.) Kohlblaetter             M 0,20
-20 g Salz  \                          " 0,00-1/2
-3 l Wasser /
-40 g Schweine-, Gaense- oder Entenfett " 0,06-1/2
-20 g Zwiebeln                         " 0,00-1/2
-3/8 l Bruehe                           " 0,15
-5 g Zucker                            " 0,00-1/4
-5 g Hafergruetze                       " 0,00-1/4
-1/2 Gewuerzdosis                       " 0,00-1/4
-3 g Salz                              " 0,00-1/4
-                                      M 0,43-1/2
+1 kg (2 Pfd.) Kohlblaetter
+20 g Salz
+3 l Wasser
+40 g Schweine-, Gaense- oder Entenfett
+20 g Zwiebeln
+3/8 l Bruehe
+5 g Zucker
+5 g Hafergruetze
+1/2 Gewuerzdosis
+3 g Salz
+
 
 _Vorbereitung:_ Die Zwiebel wird gewuerfelt. Der Kohl wird von den grossen
 Blattrippen befreit und gewaschen.
@@ -3395,14 +3379,14 @@ _Restverwendung:_ Reste koennen oefter aufgewaermt werden.
 
 GURKENSALAT.
 
-1 Gurke                          M 0,20
-1 Essl. Oel                        " 0,06-1/2
-5 g Salz                         " 0,00-1/4
-1 starke Prise weisser Pfeffer    " 0,00-1/2
-1/2 Essl. Essig oder Zitronensaft " 0,00-1/2
-1/2 Teel. Schnittlauch           " 0,01
-1 Prise Zucker                   " 0,00-1/4
-                                 M 0,29
+1 Gurke
+1 Essl. Oel
+5 g Salz
+1 starke Prise weisser Pfeffer
+1/2 Essl. Essig oder Zitronensaft
+1/2 Teel. Schnittlauch
+1 Prise Zucker
+
 
 _Vorbereitung_: Die abgewischte Gurke wird von der Spitze nach dem
 Stilansatz zu geschaelt bis alles Gruene entfernt ist, gekostet, und wenn
@@ -3425,18 +3409,18 @@ Gurkenscheiben gemischt.
 
 
 
-HERINGSKRTOFFELN.
+HERINGSKARTOFFELN.
 
-1/2 kg (1 Pfd.) Kartoffeln        M 0,03
-1/2 Hering oder 5 Heringsbaeuche   " 0,05
-25 g Zwiebeln                     " 0,00-3/4
-25 g Speck, Fett oder Margarine   " 0,04
-2 Pfefferkoerner                   " 0,00-1/4
-2 Essl. Essig                      " 0,01
-1/2 Teel. Salz                    " 0,00-1/4
-1 Prise Pfeffer                   " 0,00-1/4
-6 Essl. Wasser.
-                                  M 0,14-1/2
+1/2 kg (1 Pfd.) Kartoffeln
+1/2 Hering oder 5 Heringsbaeuche
+25 g Zwiebeln
+25 g Speck, Fett oder Margarine
+2 Pfefferkoerner
+2 Essl. Essig
+1/2 Teel. Salz
+1 Prise Pfeffer
+6 Essl. Wasser
+
 
 _Vorbereitung_: Der Hering wird in kaltes Wasser gelegt. Der Speck wird
 in kleine Wuerfel geschnitten. Die Kartoffeln werden gekocht, abgepellt
@@ -3464,17 +3448,17 @@ tut, dann braucht man 9 Essloeffel Fluessigkeit.
 
 HERINGSSALAT.
 
-1/2 kg (1 Pfd) gekochte Kartoffeln   M 0,04
-1 Apfel                              " 0,04
-1 Hering                             " 0,10
-1 kleine Zwiebel                     " 0,00-1/2
-1/2 Salzgurke                        " 0.05
-Je 3 Essl. Essig und Wasser           " 0,00-1/2
-1 Essl. Oel oder Gaenseschmalz          " 0,06-1/2
-1 Prise Pfeffer                      " 0,00-1/4
-2-1/2 Teel. Zucker                   " 0.00-3/4
-1/2 Teel. Salz                       " 0,00-1/4
-                                     M 0,31-3/4
+1/2 kg (1 Pfd) gekochte Kartoffeln
+1 Apfel
+1 Hering
+1 kleine Zwiebel
+1/2 Salzgurke
+Je 3 Essl. Essig und Wasser
+1 Essl. Oel oder Gaenseschmalz
+1 Prise Pfeffer
+2-1/2 Teel. Zucker
+1/2 Teel. Salz
+
 
 _Vorbereitung_: Wasser, Essig, Zucker, Oel, Pfeffer, Salz und eine
 gekochte, geriebene Kartoffel werden in einem Napf gut zu einer Marinade
@@ -3500,11 +3484,11 @@ Rotrueben- und Gurkenscheiben.
 
 HIRSE.
 
-100 g Hirse         M 0,04
-10 g Butter         " 0,02-1/2
-3/4 l Magermilch    " 0,07-1/2
-8 g Salz            " 000-1/4
-                    M 0,14-1/4
+100 g Hirse
+10 g Butter
+3/4 l Magermilch
+8 g Salz
+
 
 _Vorbereitung_: Die Hirse wird verlesen, dreimal mit kaltem Wasser
 aufgesetzt und wenn heiss, abgegossen.
@@ -3520,13 +3504,13 @@ _Buchweizengruetze_ wird ebenso bereitet.
 
 KARTOFFELSALAT.
 
-3/4 kg (1-1/2 Pfd.) Kartoffeln              M 0,04-1/2
-1/8 l heisses Salzwasser                     " 0,00-1/4
-2 Essl. Oel oder 25 g Schmalz oder Gaensefett  " 0,04
-10 g Zwiebeln                               " 0,00-1/4
-1 Prise Pfeffer und Salz                    " 0,00-1/4
-1 Essl. Petersilie                           " 0,05
-3 Essl. Essig                                " 0,01-1/2
+3/4 kg (1-1/2 Pfd.) Kartoffeln
+1/8 l heisses Salzwasser
+2 Essl. Oel oder 25 g Schmalz oder Gaensefett
+10 g Zwiebeln
+1 Prise Pfeffer und Salz
+1 Essl. Petersilie
+3 Essl. Essig
 
 _Vorbereitung_: Die Zwiebel wird gerieben, die Petersilie gewiegt. Die
 Kartoffeln werden gekocht, geschaelt und in Scheiben geschnitten.
@@ -3550,15 +3534,15 @@ Heringswuerfelchen.
 
 KARTOFFELSALAT (WARMER).
 
-3/4 kg (111/2 Pfd.) Kartoffeln  M 0,04-1/2
-20 g Mehl                       " 0,00-3/4
-25 g Schmalz                    " 0,04
-10 g Zwiebeln                   " 0,00-1/4
-1/4 l Magermilch oder Bruehe     " 0,02-1/2
-5 g Salz                        " 0,00-1/4
-1 Prise Pfeffer                 " 0,00-1/4
-2 Essl. Essig                    " 0,01
-                                M 0,13-1/2
+3/4 kg (111/2 Pfd.) Kartoffeln
+20 g Mehl
+25 g Schmalz
+10 g Zwiebeln
+1/4 l Magermilch oder Bruehe
+5 g Salz
+1 Prise Pfeffer
+2 Essl. Essig
+
 
 _Vorbereitung_: Die Kartoffeln werden gekocht, abgezogen, gescheibt, die
 Zwiebeln gewiegt.
@@ -3579,16 +3563,15 @@ geschnittenen Sellerie, Senfgurken- oder Heringswuerfelchen.
 
 KARTOFFELSTUeCKCHEN, SAURE.
 
-1/2 kg (1 Pfd.) rohe geschaelte
-Kartoffeln                      M 0,04
-20 g Speck, Fett od. Margarine  " 0,02-1/2
-15 g Zwiebeln                   " 0,00-1/2
-1/2 l Bruehe oder Wasser         " 0,40
-4 Essl. Essig                    " 0,02
-1/2 Gewuerzdosis                 " 0,00-1/4
-1/2 Prise Pfeffer und Salz      " 0,00-1/4
-25 g Zucker oder Sirup          " 0,01-1/2
-                                M 0,51
+1/2 kg (1 Pfd.) rohe geschaelte Kartoffeln
+20 g Speck, Fett od. Margarine
+15 g Zwiebeln
+1/2 l Bruehe oder Wasser
+4 Essl. Essig
+1/2 Gewuerzdosis
+1/2 Prise Pfeffer und Salz
+25 g Zucker oder Sirup
+
 
 _Vorbereitung_: Die Kartoffeln werden geschaelt und in Viertel
 geschnitten.
@@ -3605,17 +3588,16 @@ aufgekocht. Man kann sie auch mit Zuckerfarbe zu gutem Aussehen faerben.
 
 KOHLRABI.
 
-8-15 Stueck Kohlrabi, je
-nach Groesse                 M 0,25
-10 g Salz  \
-1 l Wasser / zum Abwellen  " 0,00-1/4
-20 g Fett oder Margarine   " 0,03-1/4
-1/8 l Wasser \
-1 Prise Salz /             " 0,00-1/4
-8 g Mehl                   " 0,00-1/2
-1 Prise Pfeffer            " 0,00-1/2
-Kohlrabiblaetter.
-                           M 0,29-3/4
+8-15 Stueck Kohlrabi, je nach Groesse
+10 g Salz
+1 l Wasser zum Abwellen
+20 g Fett oder Margarine
+1/8 l Wasser
+1 Prise Salz
+8 g Mehl
+1 Prise Pfeffer
+Kohlrabiblaetter
+
 
 _Vorbereitung_: 1 l Wasser wird mit 10 g Salz aufgesetzt, das junge Gruen
 der Kohlrabi gewaschen; die Knollen werden geschaelt und in gleichmaessige
@@ -3635,18 +3617,17 @@ Nach Belieben kann man auch gargekochte geschaelte Kartoffeln hinzufuegen.
 
 KOHLRUeBEN (STECKRUeBEN).
 
-3/4 kg (1-1/2 Pfd.) Kohlrueben  M 0,07-1/2
-10 g Salz     \
-1-1/2 l Wasser/                " 0,00-1/4
-1/4 l heisse Bruehe              " 0,20
-1/2 Gewuerzdosis                " 0,00-1/4
-1 Stiel Majoran                " 0,00-1/4
-5 g Zucker                     " 0,00-1/4
-Salz und Pfeffer nach
-Geschmack                      " 0,00-1/4
-10 g Fett oder Margarine       " 0,01-1/2
-5 g Mehl                       " 0,00-1/4
-                               M 0,30-1/2
+3/4 kg (1-1/2 Pfd.) Kohlrueben
+10 g Salz
+1-1/2 l Wasser
+1/4 l heisse Bruehe
+1/2 Gewuerzdosis
+1 Stiel Majoran
+5 g Zucker
+Salz und Pfeffer nach Geschmack
+10 g Fett oder Margarine
+5 g Mehl
+
 
 _Vorbereitung_: Die Kohlrueben werden in Wasser gebuerstet, geschaelt, in
 gleichmaessige Streifen geschnitten, in kochendem Salzwasser unbedeckt
@@ -3663,16 +3644,16 @@ _Bemerkung_: Mit Kartoffeln gemischt erfordert das Gericht nur 35 g Mehl.
 
 KRAUTSALAT.
 
-250 g Weiss- oder Rotkohl geschnitten   M 0,10
-1-1/2 l Wasser \
-5 g Salz        |                      " 0,00-3/4
-1 Essl. Essig   /
-2 Essl. Oel                              " 0,13
-1 Prise Zucker                         " 0,00-1/4
-1 Essl. Essig                           " 0,00-1/2
-5 g Salz               \
-1 Prise weisser Pfeffer /               " 0,00-1/2
-                                       M 0,25
+250 g Weiss- oder Rotkohl geschnitten
+1-1/2 l Wasser
+5 g Salz
+1 Essl. Essig
+2 Essl. Oel
+1 Prise Zucker
+1 Essl. Essig
+5 g Salz
+1 Prise weisser Pfeffer
+
 
 _Vorbereitung_: Man taucht den auf einem Durchschlag liegenden
 feingeschnittenen Kohl in kochendes Wasser, dem man Salz und 1 Essloeffel
@@ -3686,14 +3667,14 @@ Erkaltet zu Gaensebraten usw. zu geben.
 
 MOHRRUeBEN.
 
-1/2 kg (1 Pfd.) Mohrrueben   M 0,05
+1/2 kg (1 Pfd.) Mohrrueben
 3/4 l Wasser
-10 g Mehl                   " 0,00-1/2
-20 g Fett oder Margarine    " 0,03-1/4
-1 Teel. Petersilie          " 0,02
-5 g Salz   \
-5 g Zucker /                " 0,00-1/2
-                            M 0,11-1/4
+10 g Mehl
+20 g Fett oder Margarine
+1 Teel. Petersilie
+5 g Salz
+5 g Zucker
+
 
 _Vorbereitung_: Die Mohrrueben werden gewaschen, geputzt und in
 gleichmaessige Streifen geschnitten, nochmals schnell abgespuelt und in
@@ -3719,15 +3700,15 @@ Gericht fuer den Selbstkocher.
 
 MOHRRUeBEN, BRECHBOHNEN UND KARTOFFELN.
 
-125 g Mohrrueben             M 0,01-1/4
-125 g Bohnen                " 0,05
-250 g Kartoffeln            " 0,01-1/2
-1 l Wasser.
-1 Essl. magere Speckwuerfel   " 0,02-1/2
-1 Essl. Essig                " 0,00-1/2
-5 g Salz                    " 0,00-1/4
-1 Prise Pfeffer und Salz    " 0,00-1/4
-                            M 0,11-1/4
+125 g Mohrrueben
+125 g Bohnen
+250 g Kartoffeln
+1 l Wasser
+1 Essl. magere Speckwuerfel
+1 Essl. Essig
+5 g Salz
+1 Prise Pfeffer und Salz
+
 
 _Vorbereitung_: Die Mohrrueben werden wie oben vorbereitet, aber in Wuerfel
 geschnitten, ebenso die abgezogenen gebrochenen Bohnen.
@@ -3740,10 +3721,10 @@ und mit Pfeffer und Salz abgeschmeckt.
 
 PELLKARTOFFELN.
 
-1/2 kg (1 Pfd.) Kartoffeln   M 0,03
-1/4 l Wasser.
-5 g Salz                     " 0,00-1/4
-                             M 0,03-1/4
+1/2 kg (1 Pfd.) Kartoffeln
+1/4 l Wasser
+5 g Salz
+
 
 _Vorbereitung_: Die Kartoffeln (moeglichst gleicher Groesse) werden sauber
 mit kaltem Wasser gewaschen, in einem Topf (in Groesse von 1-1/2 l Inhalt)
@@ -3765,14 +3746,14 @@ Minuten, alte Kartoffeln 1/2 Stunde und darueber.
 
 PFEFFERLINGE ODER STEINPILZE.
 
-1/2 kg (1 Pfd.) Pfefferlinge oder Steinpilze M 0,20
-20 g Salz               \
-2 l Wasser zum Abwellen /                    " 0,00-1/2
-30 g Fett oder Margarine                     " 0,04-3/4
-1 Prise Pfeffer und Salz                     " 0,00-1/4
-5 g Mehl                                     " 0,00-1/4
-1/2 Essl. gewiegte Petersilie                 " 0,02-1/2
-                                             M 0,28-1/4
+1/2 kg (1 Pfd.) Pfefferlinge oder Steinpilze
+20 g Salz
+2 l Wasser zum Abwellen
+30 g Fett oder Margarine
+1 Prise Pfeffer und Salz
+5 g Mehl
+1/2 Essl. gewiegte Petersilie
+
 
 _Vorbereitung_: Die Pilze werden geputzt, schnell gewaschen, wenn noetig
 klein geschnitten, aber nicht in Wasser gelegt, in heisses Salzwasser
@@ -3787,14 +3768,14 @@ sie an.
 
 PFLAUMEN MIT SPECK.
 
-250 g frische oder getrocknete Pflaumen   M 0,12-1/2
-100 g Speck                               " 0,14
-1/2 kg (1 Pfd.) Kartoffeln                " 0,03
-1 l Wasser.
-40 g Zucker                               " 0,02
-1 Essl. Essig \
-1 Teel. Salz /                            " 0,00-1/2
-                                          M 0,32
+250 g frische oder getrocknete Pflaumen
+100 g Speck
+1/2 kg (1 Pfd.) Kartoffeln
+1 l Wasser
+40 g Zucker
+1 Essl. Essig
+1 Teel. Salz
+
 
 _Vorbereitung_: Die Pflaumen werden nach Vorschrift vorbereitet.
 
@@ -3804,14 +3785,14 @@ _Zubereitung_: Wie Birnen mit Speck.
 
 REIS MIT GETROCKNETEN PFLAUMEN.
 
-125 g Reis                  M 0,07-1/2
-5 g Salz                    " 0,00-1/4
+125 g Reis
+5 g Salz
 1/2 l Wasser zum Abwellen
-40 g Pflaumen               " 0,02-1/2
+40 g Pflaumen
 3/8 l Wasser
-10 g Zucker                 " 0,00-1/2
-5 g Margarine               " 0,00-3/4
-                            M 0,11-1/2
+10 g Zucker
+5 g Margarine
+
 
 _Vorbereitung_: Die Pflaumen werden nach Vorschrift vorbereitet.
 
@@ -3823,16 +3804,15 @@ geschuettet.
 
 REIS MIT KIRSCHEN.
 
-250 g saure Kirschen oder 40 g getrocknete Kirschen    M 0,12-1/2
-20 g Zucker                                            " 0,01
+250 g saure Kirschen oder 40 g getrocknete Kirschen
+20 g Zucker
 3 Essl. Wasser
-5 g Salz                                               " 0,00-1/4
-125 g Reis                                             " 0,07-1/2
+5 g Salz
+125 g Reis
 1/2 l Wasser zum Abwellen
-5 g Margarine                                          " 0,00-3/4
-1 Stueckchen Apfelsinenschale                           " 0,00-1/4
+5 g Margarine
+1 Stueckchen Apfelsinenschale
 
-                                                       M 0,22-1/4
 
 _Vorbereitung_: Die sauren Kirschen werden gewaschen, abgestielt und nach
 Belieben entkernt. Getrocknete Kirschen werden nach Vorschrift
@@ -3846,15 +3826,15 @@ wurde.
 
 REIS MIT KUeRBIS.
 
-1 Stueck Kuerbis fuer            M 0,05
+1 Stueck Kuerbis fuer
 1/2 l Wasser zum Abwellen
-125 g Reis                    " 0,07-1/2
-5 g Salz                      " 0,00-1/4
-10 g Zucker                   " 0,00-1/2
-2 Essl. Essig                  " 0,01
-5 g Margarine                 " 0,00-3/4
+125 g Reis
+5 g Salz
+10 g Zucker
+2 Essl. Essig
+5 g Margarine
 1/2 l Wasser
-                              M 0,15
+
 
 _Vorbereitung_: Der Kuerbis wird geschaelt, in Wuerfel geschnitten und
 gewaschen; der Reis wird gewaschen.
@@ -3866,17 +3846,16 @@ und mit Essig abgeschmeckt.
 
 REIS MIT ROSINEN.
 
-125 g Reis                       M 0,07-1/2
+125 g Reis
 1/2 l Wasser zum Abwellen
 1/2 l Wasser
-5 g Fett oder Margarine          " 0,00-3/4
-20 g grosse Rosinen               " 0,02
-1 Stueckchen Apfelsinenschale     " 0,00-1/4
-5 g Salz                         " 0,00-1/4
-1 Essl. Essig                     " 0,00-1/2
-2 Essl. Zucker                    " 0,01-1/2
+5 g Fett oder Margarine
+20 g grosse Rosinen
+1 Stueckchen Apfelsinenschale
+5 g Salz
+1 Essl. Essig
+2 Essl. Zucker
 
-                                 M 0,12-3/4
 
 _Vorbereitung_: Die verlesenen Rosinen werden in Wasser ausgequollen und
 dann abgegossen.
@@ -3888,18 +3867,18 @@ bereitet wird, getan; das Gericht wird mit Essig und Zucker abgeschmeckt.
 
 ROTKOHL (SCHMORKOHL).
 
-1/2 kg (1 Pfd.) Rotkohl     M 0,20
-1/2 Essl. Essig              " 0,00-1/4
-50 g Fett                   " 0,08
-1/8 1 Essig                 " 0,02-1/2
-30 g Zucker                 " 0,01-1/2
-5 g Salz                    " 0,00-1/4
-1/2 Gewuerzdosis             " 0,00-1/4
-1 Prise Zimt                " 0,00-1/4
-1 Prise Pfeffer             " 0,00-1/4
-10 g Salz                   " 0,00-1/4
+1/2 kg (1 Pfd.) Rotkohl
+1/2 Essl. Essig
+50 g Fett
+1/8 1 Essig
+30 g Zucker
+5 g Salz
+1/2 Gewuerzdosis
+1 Prise Zimt
+1 Prise Pfeffer
+10 g Salz
 2 l Wasser
-                            M 0,33 1/2
+
 
 _Vorbereitung_: Der Kohl wird von den aeusseren Blaettern befreit und auf
 einem Brett festliegend mitten durch und dann in ganz feine Streifen
@@ -3932,11 +3911,11 @@ Gericht fuer den Selbstkocher.
 
 RUeHRKARTOFFELN (QUETSCHKARTOFFELN).
 
-1/2 kg (1 Pfd.) Kartoffeln      M 0,03
+1/2 kg (1 Pfd.) Kartoffeln
 1/4 l Wasser
-1/2 l Vollmilch                 " 0,10
-5 g Salz                        " 0,00-1/4
-                                M 0,14-1/2
+1/2 l Vollmilch
+5 g Salz
+
 
 _Vorbereitung_: Die Kartoffeln werden geschaelt und wie Salzkartoffeln
 gekocht.
@@ -3952,12 +3931,12 @@ _Bemerkung_: Man gibt diese Kartoffeln gern Kranken und Kindern.
 
 SALAT, GRUeNER.
 
-2 Koepfe gruener Salat                  M 0,10
-40 g Speck                            " 0,05-1/2
-Essig nach Geschmack              |
-3 g Salz                          |   " 0,02
-2 Essl. Zucker oder 1 Essl. Sirup   |
-                                      M 0,17-1/2
+2 Koepfe gruener Salat
+40 g Speck
+Essig nach Geschmack
+3 g Salz
+2 Essl. Zucker oder 1 Essl. Sirup
+
 
 _Vorbereitung_: Der Speck wird in Wuerfel geschnitten und angebraeunt. Der
 Salat wird verlesen, die dicksten Struenke werden entfernt; der Salat wird
@@ -3978,10 +3957,10 @@ werden.
 
 SALZKARTOFFELN.
 
-3/4 kg (1 1/2 Pfd.) rohe ungeschaelte Kartoffeln     M 0,04-1/2
-5 g Salz      |                                     " 0,00-1/4
-1/2 1 Wasser  |
-                                                    M 0,04-3/4
+3/4 kg (1 1/2 Pfd.) rohe ungeschaelte Kartoffeln
+5 g Salz
+1/2 1 Wasser
+
 
 _Vorbereitung_: Die Kartoffeln werden nach dem Reinigen in Wasser rund
 geschaelt, kleinere ganz gelassen, groessere halbiert. (Geschaelte Kartoffeln
@@ -3999,17 +3978,17 @@ Topf einen Augenblick und richtet die Kartoffeln an.
 SAUERKOHL.
 
 1 kleiner Kopf Kohl oder
-  1/2 kg (1 Pfd.) Sauerkohl     M 0,10
+  1/2 kg (1 Pfd.) Sauerkohl
 50 g Schweine= oder Gaensefett
-  oder Schmalz                  " 0,08
-15 g Zwiebeln                   " 0,00-1/2
-2 Essl. Essig                    " 0,01
-8 g Salz                        " 0,00-1/4
-5 g Mehl                        " 0,00-1/4
-1 Prise Pfeffer                 " 0,00-1/4
-5 g Zucker                      " 0,00-1/4
-1/4 l Wasser.
-                                M 0,20-1/2
+  oder Schmalz
+15 g Zwiebeln
+2 Essl. Essig
+8 g Salz
+5 g Mehl
+1 Prise Pfeffer
+5 g Zucker
+1/4 l Wasser
+
 
 _Vorbereitung_: Der frische Kohl wird (s. Rotkohl) vorbereitet. Sauerkohl
 wird waehrend des Waschens mit der Gabel gelockert.
@@ -4033,16 +4012,16 @@ Gericht fuer den Selbstkocher.
 
 SCHNEIDEBOHNEN.
 
-1/2 kg (1 Pfd.) Schneidebohnen     M 0,10
+1/2 kg (1 Pfd.) Schneidebohnen
 2 l Wasser zum Abwellen
-1/2 l Hammelbruehe                  " 0,15
-1 Stiel Pfefferkraut               " 0,00-1/4
+1/2 l Hammelbruehe
+1 Stiel Pfefferkraut
 1 Essl. zerlassenes Rinderfett
-  oder Margarine                   " 0,02-1/2
-6 g Mehl                           " 0,00-1/4
-1 Teel. gewiegte Petersilie        " 0,02
-1 Prise Pfeffer und Salz           " 0,00-1/4
-                                   M 0,30-1/4
+  oder Margarine
+6 g Mehl
+1 Teel. gewiegte Petersilie
+1 Prise Pfeffer und Salz
+
 
 _Zubereitung_: Die Schneidebohnen werden statt gebrochen geschnitten und
 sonst ebenso wie Bohnen, gruene, bereitet.
@@ -4051,13 +4030,13 @@ sonst ebenso wie Bohnen, gruene, bereitet.
 
 SPARGEL.
 
-1/2 kg (1 Pfd.) Stangenspargel     M 0,80
-5 g Salz    |
-1 l Wasser  |                      " 0,00-1/4
-3 g Zucker  |
-50 g Butter                        " 0,12
-1 Essl. geriebene Semmel            " 0,00-1/2
-                                   M 0,92-3/4
+1/2 kg (1 Pfd.) Stangenspargel
+5 g Salz
+1 l Wasser
+3 g Zucker
+50 g Butter
+1 Essl. geriebene Semmel
+
 
 _Vorbereitung_: Gewaschen, mit feinem Messer vom Kopfe anfangend, nach
 unten staerker, recht rund schaelen. Moeglichst gleichmaessig lange und starke
@@ -4080,15 +4059,15 @@ Spargelwasser bereitet, vermischt.
 
 SPINAT.
 
-1 kg (2 Pfd.) Spinat        M 0,20
-8 g Salz                    " 0,00-1/4
+1 kg (2 Pfd.) Spinat
+8 g Salz
 2 l kochendes Wasser
-1 Essl. Mehl                 " 0,00-1/2
-15 g Fett oder Margarine    " 0,02-1/2
-5 g geriebene Zwiebeln      " 0,00-1/4
-1/8 l Bruehe                 " 0,10
-1 Prise Pfeffer und Salz    " 0,00-1/4
-                            M 0,33-3/4
+1 Essl. Mehl
+15 g Fett oder Margarine
+5 g geriebene Zwiebeln
+1/8 l Bruehe
+1 Prise Pfeffer und Salz
+
 
 _Vorbereitung_: Die Blattstiele werden unten abgeschnitten; der Spinat
 wird verlesen, oft gewaschen, in wallendem Salzwasser einige Male
@@ -4106,10 +4085,10 @@ heiss, indem man den Topf damit in kochendes Wasser stellt.
 
 STAMPFKARTOFFELN.
 
-1/2 kg (1 Pfd.) Salzkartoffeln     M 0,04-1/4
-1 Essl. Speckwuerfel                 " 0,02-1/2
-1 Teel. Zwiebeln                   " 0,00-1/4
-                                   M 0,07
+1/2 kg (1 Pfd.) Salzkartoffeln
+1 Essl. Speckwuerfel
+1 Teel. Zwiebeln
+
 
 _Zubereitung_: Die Kartoffeln werden mit einer Keule gestampft unb mit
 den Zwiebeln, welche mit den Speckwuerfeln braun gebraten werden,
@@ -4124,16 +4103,15 @@ durchzuruehren.
 
 WACHSBOHNEN.
 
-1/2 kg (1 Pfd.) Wachsbohnen     M 0,20
+1/2 kg (1 Pfd.) Wachsbohnen
 1 1/2 l Wasser zum Abwellen
-1/4 l Hammelbruehe               " 0,07-1/2
-1 Stiel Pfefferkraut            " 0,00-1/4
-1 Essl. (knapp) zerlassenes
-  Rinderfett od. Margarine      " 0,02-1/2
-4 g Mehl                        " 0,00-1/4
-1 Teel. gewiegte Petersilie     " 0,02
-1 Prise Pfeffer und Salz        " 0,00-1/4
-                                M 0,32-3/4
+1/4 l Hammelbruehe
+1 Stiel Pfefferkraut
+1 Essl. (knapp) zerlassenes Rinderfett od. Margarine
+4 g Mehl
+1 Teel. gewiegte Petersilie
+1 Prise Pfeffer und Salz
+
 
 _Zubereitung_: Die Wachsbohnen werden wie Bohnen, gruene, bereitet.
 
@@ -4141,14 +4119,14 @@ _Zubereitung_: Die Wachsbohnen werden wie Bohnen, gruene, bereitet.
 
 WASSERREIS.
 
-125 g Reis                   M 0,07-1/2
+125 g Reis
 1/2 1 Wasser zum Abwellen
 1/2 1 Wasser
-5 g Salz                     " 0,00-1/4
-1 Stueck Apfelsinenschale     " 0,01
-10 g Butter od. Margarine    " 0,02-1/2
-2 Essl. Zucker und Zimt       " 0,02-1/2
-                             M 0,13-3/4
+5 g Salz
+1 Stueck Apfelsinenschale
+10 g Butter od. Margarine
+2 Essl. Zucker und Zimt
+
 
 _Vorbereitung_: Man bereitet den Reis vor wie Milchreis.
 
@@ -4160,19 +4138,19 @@ Gericht fuer den Selbstkocher.
 
 WEISSKOHL.
 
-1 kleiner Kopf Kohl            M 0,10
-10 g Salz      |               " 0,00-1/4
-1 Prise Natron |               " 0,00-1/4
-3 l Wasser     |
+1 kleiner Kopf Kohl
+10 g Salz
+1 Prise Natron
+3 l Wasser
 40 g Bouillonfett oder
-  Bratenfett oder Margarine    " 0,05
-15 g Zwiebeln                  " 0,00-1/2
-2 g Kuemmel                     " 0,00-1/4
-2 Pfefferkoerner                " 0,00-1/4
-5 g Salz                       " 0,00-1/4
-3/8 l Bruehe                    " 0,15
-5 g Mehl                       " 0,00-1/4
-                               M 0,32
+  Bratenfett oder Margarine
+15 g Zwiebeln
+2 g Kuemmel
+2 Pfefferkoerner
+5 g Salz
+3/8 l Bruehe
+5 g Mehl
+
 
 _Vorbereitung_: Der Kohlkopf wird in 16 Teile geschnitten; nachdem die
 aeusseren Blaetter und Struenke entfernt sind, wird er gewaschen, in
@@ -4199,15 +4177,15 @@ Gericht fuer den Selbstkocher.
 
 WIRSINGKOHL.
 
-1 mittelgr. Kopf Wirsingkohl       M 0,20
-2 l Wasser, 5 g Salz zum Abwellen  " 0,00-1/4
-30 g Hammel- oer Rinderfett        " 0,03
-1/2 Teel. Zwiebelwuerfel            " 0,00-1/4
-1/2 Gewuerzdosis                    " 0,00-1/4
-10 g Mehl, 1/2 l Wasser            " 0,00-1/2
-1 Teel. Salz                       " 0,00-1/4
-1 Prise Pfeffer                    " 0,00-1/4
-                                   M 0,24-2/3
+1 mittelgr. Kopf Wirsingkohl
+2 l Wasser, 5 g Salz zum Abwellen
+30 g Hammel- oer Rinderfett
+1/2 Teel. Zwiebelwuerfel
+1/2 Gewuerzdosis
+10 g Mehl, 1/2 l Wasser
+1 Teel. Salz
+1 Prise Pfeffer
+
 
 _Vorbereitung_: Die schlechten Kohlblaetter entfernen, den Kopf achtmal
 durchschneiden, den dicken mittleren Strunk entfernen und den Kohl
@@ -4234,17 +4212,17 @@ berechnet.)
 
 BECHAMELLESAUCE.
 
-20 g magerer Speck             M 0,02-3/4
-30 g Zwiebeln                  " 0,01
-10 g Margarine                 " 0,01-1/2
-10 g Mehl                      " 0,00-1/2
-1/8 l Wasser.
+20 g magerer Speck
+30 g Zwiebeln
+10 g Margarine
+10 g Mehl
+1/8 l Wasser
 1 Essl. weisser Kaese, aufgeloest
-in 1/a l Magermilch            " 0,03
-1 Essl. Parmesankaese            " 0,01-3/4
+in 1/a [1/8?] l Magermilch
+1 Essl. Parmesankaese
 1 Prise weisser Pfeffer
-Salz nach Geschmack            " 0,00-1/2
-                               M 0,11
+Salz nach Geschmack
+
 
 _Vorbereitung_: Der schwartenlose Speck wird in Wuerfel, die Zwiebeln
 werden in Scheiben geschnitten.
@@ -4259,7 +4237,7 @@ erwaermt sie nochmals.
 
 BRAUNNE BUTTER.
 
-2 Essl. Butter      M 0,10
+2 Essl. Butter
 
 _Zubereitung_: Die Butter wird in einen irdenen Topf oder in eine Pfanne
 getan, zu Feuer gebracht und mit einer Kelle hin und herbewegt, bis sie
@@ -4267,20 +4245,20 @@ hellbraune Farbe angenommen hat. Man giesst sie in ein kleines Naepfchen
 oder in ein Toepfchen und gibt sie zu Tisch.
 
 
-FRIKASSEESAUCE WEISSE, S. KALBSFRIKASSEE.
+FRIKASSEESAUCE WEISSE, siehe KALBSFRIKASSEE.
 
 
 
 FRUCHTSAUCE.
 
 250 g Johannisbeeren oder Blaubeeren, oder
-  1/2 l beliebiger auch gemischter Fruchtsaft   M 0,12-1/2
-1 Stueck Apfelsinenschale                        " 0,01
+  1/2 l beliebiger auch gemischter Fruchtsaft
+1 Stueck Apfelsinenschale
 1/4 1 Wasser
-30 g Zucker                                     " 0,01-1/2
-5 g Staerkemehl                                  " 0,00-1/4
+30 g Zucker
+5 g Staerkemehl
 1 Essl. Wasser
-                                                M 0,15-1/4
+
 
 _Vorbereitung_. Die abgebeerten Beeren werden gewaschen und mit
 Apfelsinenschale und Wasser auf den Herd gestellt; das Staerkemehl wird
@@ -4308,14 +4286,14 @@ mit aufkochen, durchgiessen und zur Sauce mit verwenden.
 
 HERINGSSAUCE
 
-1/2 Hering                    M 0,05
-30 g Mehl                     " 0,01-1/4
-20 g Fett oder Margarine      " 0,03-1/4
+1/2 Hering
+30 g Mehl
+20 g Fett oder Margarine
 1/2 l Klopswasser oder Bruehe
-10 g Zwiebeln                 " 0,00-1/4
-1 Essl. Essig                  " 0,00-1/2
-1. Prise Pfeffer und Salz     " 0,00-1/4
-                              M 0,10-1/2
+10 g Zwiebeln
+1 Essl. Essig
+1 Prise Pfeffer und Salz
+
 
 _Vorbereitung_: Der eingewaesserte Hering wird geteilt und die eine Haelfte
 fein gewiegt, die andere zurueckgestellt; die Zwiebel wird abgeschaelt und
@@ -4345,16 +4323,16 @@ HOLLAeNDISCHE SAUCE.
 
 (Zu Fisch, Huhn mit Reis, Kalbfleisch mit Reis, oder Spargel.)
 
-10 g Margarine                M 0,01-1/2
-10 g Mehl                     " 0,00-1/2
+10 g Margarine
+10 g Mehl
 1/8 l des betreffenden Gemuese
   oder Fischwassers
-5 g Zucker                    " 0,00-1/4
-1/2 Teel. Zitronensaft  |
-Salz nach Geschmack     |     " 0,00-1/4
-1 Eigelb         | verquirlt  " 0,04-1/2
-1 Essl. Vollmilch |
-                              M 0,07-1/2
+5 g Zucker
+1/2 Teel. Zitronensaft
+Salz nach Geschmack
+1 Eigelb, verquirlt
+1 Essl. Vollmilch
+
 
 _Zubereitung_: Aus Margarine, Mehl und Fluessigkeit bereitet man eine
 weisse, glatte Sauce; diese wird mit Zucker, Zitronensaft, Salz und nach
@@ -4369,14 +4347,14 @@ verfeinern.
 
 MEERRETTICHSAUCE.
 
-1 Essl. geriebener Meerrettich    M 0,01
-4 Essl. Bruehe                     " 0,05
-15 g Margarine                   " 0,02-1/2
-10 g Zwiebeln                    " 0,00-1/4
-10 g Mehl                        " 0,00-1/2
-1/4 I Bruehe                      " 0,20
-Salz nach Geschmack              " 0,00-1/4
-                                 M 0,29-1/2
+1 Essl. geriebener Meerrettich
+4 Essl. Bruehe
+15 g Margarine
+10 g Zwiebeln
+10 g Mehl
+1/4 I Bruehe
+Salz nach Geschmack
+
 
 _Vorbereitung_: Die Zwiebeln werden gewiegt; der Meerrettich wird schnell
 geschaelt und gerieben.
@@ -4395,14 +4373,14 @@ schwarz wird.
 MILCHSAUCE
 (Milchsauce mit Kakao-, Mandel-, Vanille-, Zitronengeschmack.)
 
-1/4 l Vollmilch         M 0,05
-15 g Zucker             " 0,00-3/4
-1 kleine Prise Salz     " 0,00-1/4
-5 g Staerkemehl      |
-2 Eigelb            |   " 0,09-3/4
-4 Essl. Vollmilch    |
-Kakao oder Mandeln usw. " 0,05
-                        M 0,20-3/4
+1/4 l Vollmilch
+15 g Zucker
+1 kleine Prise Salz
+5 g Staerkemehl
+2 Eigelb
+4 Essl. Vollmilch
+Kakao oder Mandeln usw.
+
 
 _Zubereitung:_ Zucker, Salz, 1/4 l Milch werden nach Belieben
 mit 6 bitteren Mandeln oder 1/2 Paeckchen Vanillezucker, oder 15 g
@@ -4419,17 +4397,17 @@ bequemer Saucenbereitung in allen Kolonialwarengeschaeften erhaeltlich.
 
 MOSTRICHSAUCE, BRAUNE.
 
-20 g Fett                M 0,02-1/2
-20 g Zwiebeln            " 0,00-1/2
-20 g Mehl                " 0,00-3/4
-1 Gewuerzdosis            " 0,00-1/2
-1 Bruehe oder Wasser      " 0,10
-2 Teel. Mostrich         " 0,02
-1 Teel. Essig          |
-1/2 Teel. Zucker       | " 0,00-1/4
-1 Prise Salz und Pfeffer " 0,00-1/4
-2 Tropfen Speisefarbe    " 0,00-1/4
-                         M 0,17
+20 g Fett
+20 g Zwiebeln
+20 g Mehl
+1 Gewuerzdosis
+1 Bruehe oder Wasser
+2 Teel. Mostrich
+1 Teel. Essig
+1/2 Teel. Zucker
+1 Prise Salz und Pfeffer
+2 Tropfen Speisefarbe
+
 
 _Vorbereitung_: Die Zwiebeln werden gewiegt.
 
@@ -4451,16 +4429,15 @@ OeLSAUCE FUeR 4 PERSONEN.
 
 (Zu Salaten, harten Eiern, kaltem Rindfleisch und Suelze.)
 
-20 g Oel                        M 0,03-3/4
-20 g Zwiebeln                  " 0,00-1/2
-20 g Mehl                      " 0,00-3/4
-3/31 Bruehe                     " 0,30
-2 Essl. Essig                   " 0,01
-1 Essl. Kraeuter, Schnittlauch,
-  Petersilie                   " 0,05
+20 g Oel
+20 g Zwiebeln
+20 g Mehl
+3/31 Bruehe
+2 Essl. Essig
+1 Essl. Kraeuter, Schnittlauch, Petersilie
 Salz nach Geschmack
-1 Prise weisser Pfeffer         " 0,00-1/2
-                               M 0,41-1/2
+1 Prise weisser Pfeffer
+
 
 _Vorbereitung_: Die Kraeuter werden gewiegt und abgewellt. Die Zwiebeln
 werden klein geschnitten.
@@ -4478,12 +4455,12 @@ und verruehrtem Eigelb verfeinern.
 PETERSILIENSAUCE.
 
 1/2 1 Wasser, Bruehe, Fisch- oder Gemuesewasser
-20 g Mehl                  M 0,00-3/4
-20 g Margarine             " 0,03-1/4
-10 g Zwiebeln              " 0,00-1/4
-1 Teel. Petersilie         " 0,02
-1 Prise Pfeffer und Salz   " 0,00-1/4
-                           M 0,06-1/2
+20 g Mehl
+20 g Margarine
+10 g Zwiebeln
+1 Teel. Petersilie
+1 Prise Pfeffer und Salz
+
 
 _Vorbereitung_: Zwiebel und Petersilie werden gewiegt.
 
@@ -4499,17 +4476,17 @@ Schnittlauchsauce, ebenso von gemischten Kraeutern: Kraeutersauce.
 
 ROSINENSAUCE.
 
-10 g Zwiebeln               M 0,00-1/4
-20 g Fett oder Margarine    " 0,03-1/4
-20 g Mehl                   " 0,00-3/4
+10 g Zwiebeln
+20 g Fett oder Margarine
+20 g Mehl
 1/3 l Wasser (besser Bruehe)
-5 g Salz                    " 0,00-1/4
-1 1/2 Essl. Essig            " 0,00-3/4
-1 1/2 Essl. Sirup            " 0,01-1/2
+5 g Salz
+1 1/2 Essl. Essig
+1 1/2 Essl. Sirup
 20 g grosse Rosinen
-1 Teel. Zucker            |
-1 Prise Pfeffer und Salz. | " 0,00-1/2
-                            M 0,09-1/4
+1 Teel. Zucker
+1 Prise Pfeffer und Salz
+
 
 _Vorbereitung_: Die Zwiebel wird geschaelt und wuerflig geschnitten. Die
 Rosinen werden nach Vorschrift gereinigt und aufgequollen. 1/3 l
@@ -4526,16 +4503,16 @@ Tisch.
 
 SPECKSAUCE, BRAUNE.
 
-20 g magerer Speck                M 0,02-3/4
-15 g Zwiebeln                     " 0,00-1/2
-20 g Mehl                         " 0,00-3/4
+20 g magerer Speck
+15 g Zwiebeln
+20 g Mehl
 1/4 1 Wasser
-2 Essl. Essig                      " 0,01
-1 gestossene Gewuerzdosis           " 0,00-1/4
+2 Essl. Essig
+1 gestossene Gewuerzdosis
 Salz nach Geschmack
-15 g Zucker oder 1 1/2 Essl. Sirup " 0,003/4
-1-2 Tropfen Speisefarbe           " 0,00-1/4
-                                  M 0,06-1/4
+15 g Zucker oder 1 1/2 Essl. Sirup
+1-2 Tropfen Speisefarbe
+
 
 _Vorbereitung_: Der Speck wird in kleine Wuerfel geschnitten, die Zwiebeln
 werden fein gewiegt.
@@ -4553,14 +4530,13 @@ Salzgurkenwuerfeln vermischt: Gurkenssauce.
 
 WEINSCHAUMSAUCE (CHAUDEAU) IM WASSERBADE.
 
-2 Eigelb                    M 0,08
-1 ganzes Ei                 " 0,06
-40 g Zucker                 " 0,02
-1/8 l Apfelwein, Weisswein
-  oder Maltonwein           " 0,06-3/4
-1 Teel. Zitronenzucker      " 0,00-1/2
-1 Essl. Zitronensaft         " 0,03
-                            M 0,26-1/4
+2 Eigelb
+1 ganzes Ei
+40 g Zucker
+1/8 l Apfelwein, Weisswein oder Maltonwein
+1 Teel. Zitronenzucker
+1 Essl. Zitronensaft
+
 
 _Zubereitung_: Eier werden mit dem Zucker kalt verruehrt, Wein,
 Zitronenzucker und Zitronensaft dazugefuellt, ins Wasserbad gesetzt und
@@ -4583,18 +4559,18 @@ berechnet.)
 
 APFELBETTELMANN FUeR 4 PERSONEN.
 
-250 g geriebenes Brot       M 0,05
-1/2 Teel. gestossener Zimt   " 0,00-1/2
-2 gestossene Nelken          " 0,00-1/4
-1/2 abgeriebene Zitrone     " 0,05
-40 g Zucker                 " 0,02
-1/2 kg (1 Pfd) Aepfel        " 0,30
-65 g Zucker                 " 0,03-1/4
+250 g geriebenes Brot
+1/2 Teel. gestossener Zimt
+2 gestossene Nelken
+1/2 abgeriebene Zitrone
+40 g Zucker
+1/2 kg (1 Pfd) Aepfel
+65 g Zucker
 4 Essl. Wasser
-125 g Schmalz               " 0,20
-30 g Korinthen              " 0,02-1/2
-20 g Zucker und Zimt        " 0,01-1/2
-                            M 0,70
+125 g Schmalz
+30 g Korinthen
+20 g Zucker und Zimt
+
 
 _Vorbereitung_: Das Brot wird gerieben, mit den Gewuerzen und 40 g Zucker
 gemischt; die Aepfel werden geschaelt und in Stuecke geschnitten, die
@@ -4617,17 +4593,17 @@ ueberfuellt.
 
 
 
-APFELKLOessE.
+APFELKLOeSSE.
 
-250 g Aepfel (saeuerliche)   M 0,15
-250 g Mehl                 " 0,10
-15 g Margarine             " 0,02-1/2
-1-1/2 Ei                   " 0,09
-1/2 Teel. Salz             " 0,00-1/4
-1/2 Teel. Zitronenzucker   " 0,00-1/4
-1 Messerspitze Backpulver  " 0,00-1/2
-1/8 l Magermilch (knapp)   " 0,01-1/4
-                           M 0,38-3/4
+250 g Aepfel (saeuerliche)
+250 g Mehl
+15 g Margarine
+1-1/2 Ei
+1/2 Teel. Salz
+1/2 Teel. Zitronenzucker
+1 Messerspitze Backpulver
+1/8 l Magermilch (knapp)
+
 
 _Vorbereitung_: Die Aepfel werden geschaelt, vom Kernhaus befreit und
 gewuerfelt.
@@ -4645,17 +4621,17 @@ Gericht fuer den Selbstkocher.
 
 APFELNUDELN.
 
-1 Ei                                   M 0,06
-1-2 Essl. Wasser.
-100 g Mehl                             " 0,04
-3 g Salz                           |
-20 g Fett                          |   " 0,03-1/2
-1/2 kg (1 Pfd.) Aepfel                  " 0,30
-Wasser und Salz zum Kochen der Nudeln  " 0,00-1/4
-30 g Zucker                          | " 0,01-1/2
-1/8 l Wasser                         |
-20 g Zucker und Zimt                   " 0,01-1/2
-                                       M 0,46-3/4
+1 Ei
+1-2 Essl. Wasser
+100 g Mehl
+3 g Salz
+20 g Fett
+1/2 kg (1 Pfd.) Aepfel
+Wasser und Salz zum Kochen der Nudeln
+30 g Zucker
+1/8 l Wasser
+20 g Zucker und Zimt
+
 
 _Vorbereitung_: Die Aepfel werden geschaelt, vom Kernhaus befreit, in
 Stuecke geschnitten. Das Zuckerwasser wird auf den Herd gestellt.
@@ -4679,16 +4655,16 @@ erhitzt und mit Zucker und Zimt bestreut zu Tisch gegeben.
 
 ARME RITTER FUeR 4 PERSONEN.
 
-4 abgeriebene Milchbrote oder 8 geroestete Zwiebaecke   M 0,10
-1 Ei, 1 Eiweiss                                        " 0,08
-1 Prise Salz                                          " 0,00-1/4
-1 Essl. Zucker                                         " 0,00-1/2
-3/8 l Magermilch                                      " 0,03-3/4
-1/4 abgeriebene Zitrone                               " 0,02-1/2
-2 Essl. geriebene Semmel                               " 0,01
-25 g Schmalz, Fett oder Margarine zum Ausbacken       " 0,04
-20 g Zucker und Zimt                                  " 0,01-1/2
-                                                      M 0,31-1/2
+4 abgeriebene Milchbrote oder 8 geroestete Zwiebaecke
+1 Ei, 1 Eiweiss
+1 Prise Salz
+1 Essl. Zucker
+3/8 l Magermilch
+1/4 abgeriebene Zitrone
+2 Essl. geriebene Semmel
+25 g Schmalz, Fett oder Margarine zum Ausbacken
+20 g Zucker und Zimt
+
 
 _Vorbereitung_: Milchbrote oder Zwiebaecke schneidet man in fingerdicke
 Scheiben und bringt sie in gefaellige Form, quirlt 1 Ei, Salz und Zucker
@@ -4724,11 +4700,11 @@ streut darauf:
   Zucker, Zimt und Butterstueckchen (_Butterkuchen_),
   Streusel (_Streuselkuchen_), bestehend aus:
 
-  100 g Mehl,
-   50 g Zucker,
-    1 Prise gestossenen Zimt,
-   50 g Fett oder Schmalz,
-    1 Prise Salz.
+100 g Mehl,
+50 g Zucker,
+1 Prise gestossenen Zimt,
+50 g Fett oder Schmalz,
+1 Prise Salz.
 
 Das heisse Fett wird in die uebrigen Zutaten gegossen und die sich
 bildenden Kluempchen werden auf dem Blechkuchen verteilt.
@@ -4740,9 +4716,9 @@ man sie im Ofen gar baeckt.
 
 BROeTCHEN.
 
-1 Semmel, Schrippe, Salzkuchen oder Knueppel   M 0,02-1/2
-15 g Butter                                   " 0,04-1/4
-                                              M 0,06-3/4
+1 Semmel, Schrippe, Salzkuchen oder Knueppel
+15 g Butter
+
 
 Das Broetchen wird der Laenge oder Rundung nach mit einem scharfen Messer
 in 3 Scheiben geschnitten; diese werden mit weicher Butter oder, falls
@@ -4760,12 +4736,12 @@ Broetchen recht zierlich aussehen.
 
 EIER GERUeHRT. (RUeHREI.)
 
-4 Eier                   M 0,24
-2 Essl. Vollmilch         " 0,00-3/4
-4 g Salz                 " 0,00-1/4
-1 Prise weisser Pfeffer   " 0,00-1/2
-50 g Butter              " 0,04-3/4
-                         M 0,30-1/4
+4 Eier
+2 Essl. Vollmilch
+4 g Salz
+1 Prise weisser Pfeffer
+50 g Butter
+
 
 _Vorbereitung_: Die Eier werden mit Pfeffer, Salz und Milch in einem
 Topfe zerquirlt.
@@ -4780,10 +4756,10 @@ Schuessel an.
 
 EIER IN DER PFANNE. (SETZEIER.)
 
-4 Eier                            M 0,24
-15 g Margarine                    " 0,02-1/2
-1 Prise weisser Pfeffer und Salz   " 0,00-1/2
-                                  M 0,27
+4 Eier
+15 g Margarine
+1 Prise weisser Pfeffer und Salz
+
 
 _Zubereitung_: Die Butter wird auf einem Teller oder emaillierten
 Geschirr geschmolzen; die frischen Eier werden vorsichtig  geoeffnet, auf
@@ -4794,9 +4770,11 @@ unregelmaessigen Eiweissteile ab und richtet die Setzeier an.
 
 
 
-EIER IN MOSTRICHSAUCE
+EIER IN MOSTRICHSAUCE.
 
-2 Eier, 1/2 l Wasser      M 0,12
+2 Eier
+1/2 l Wasser
+
 
 _Zubereitung_: Wie pflaumweiche Eier. Die Eier werden gleich mit lauem
 Wasser abgeschreckt, durch Klopfen auf den Tisch werden die Schalen
@@ -4807,10 +4785,10 @@ begiesst man die Eier mit erkalteter oder warmer Mostrichsauce.
 
 EIER IN SOLE (SOLEIER)
 
-2 Eier            M 0,12
-9 Essl. Salz       " 0,01-3/4
+2 Eier
+9 Essl. Salz
 1/2 l Wasser
-                  M 0,13-3/4
+
 
 _Zubereitung_: Die Eier werden in dem mit obiger Salzzutat versetzten
 kochenden Wasser 10 Minuten gekocht; die Spitzen der Eierschalen werden
@@ -4824,14 +4802,14 @@ erkaltete Schinken- oder Poekelbruehe.
 
 EIERKUCHEN
 
-1 Ei                 M 0,06
-105 g Mehl           " 0,04 1/4
-5 g Salz             " 0,00 1/4
-1 Prise Backpulver   " 0,00 1/2
-1/4 l Magermilch     " 0,02 1/2
-40 g Backf ett       " 0,05
-10 g Zucker          " 0,00 1/2
-                     M 0,19
+1 Ei
+105 g Mehl
+5 g Salz
+1 Prise Backpulver
+1/4 l Magermilch
+40 g Backfett
+10 g Zucker
+
 
 _Vorbereitung_: Das Ei wird aufgeschlagen; in einen Topf kommt das Eigelb
 und in einen andern das Eiweiss. Das Eigelb wird mit Milch und Salz
@@ -4862,16 +4840,16 @@ Kuchen wie angegeben fertig.
 
 
 
-EIERKUCHEN MIT HEFE
+EIERKUCHEN MIT HEFE.
 
-105 g Mehl                M 0,04-1/4
-1 Magermilch              " 0,02-1/2
-5 g Salz                  " 0,00-1/4
-8 g Hefe                  " 0,01-1/4
-40 g Fett oder Margarine  " 0,06-1/2
-10 g Zucker               " 0,00-1/2
-1 Essl. Korinthen          " 0,00-3/4
-                          M 0,16
+105 g Mehl
+1 Magermilch
+5 g Salz
+8 g Hefe
+40 g Fett oder Margarine
+10 g Zucker
+1 Essl. Korinthen
+
 
 _Vorbereitung_: Die Milch wird erwaermt und mit Hefe und Salz verquirlt.
 
@@ -4904,14 +4882,14 @@ Gruetze_.) Auch ganz duenner Apfelbrei ist anstatt Milch zu verwenden
 
 GRIESSKLOeSSE.
 
-125 g Griess                          M 0,05
-1/4 l Magermilch                     " 0,02-1/2
-20 g Margarine                       " 0,03-1/2
-1 Prise Salz                         " 0,00-1/4
-30 g Zucker                          " 0,01-1/2
-1 Ei                                 " 0,06
-Wasser u. Salz zum Kochen der Kloesse  " 0,00-1/4
-                                     M 0,19
+125 g Griess
+1/4 l Magermilch
+20 g Margarine
+1 Prise Salz
+30 g Zucker
+1 Ei
+Wasser u. Salz zum Kochen der Kloesse
+
 
 _Zubereitung_: Milch, Fett, Salz, Zucker werden zum Kochen gebracht, dann
 schuettet man den Griess dazu, backt bestaendig ruehrend eine glaenzende Masse
@@ -4932,11 +4910,11 @@ _Griesspudding_ gekocht und warm mit Fruchtsauce gereicht werden.
 
 GRUeTZE, ROTE.
 
-3/4 kg (1-1/2 Pfd.) Johannisbeeren oder andere  M 0,37-1/2
-  Fruechte
-100 g Zucker nach Geschmack                     " 0,04-3/4
-65 g grober Griess oder gemahlener Reis          " 0,02-1/2
-1/4 l Wasser.                                   M 0,14-3/4
+3/4 kg (1-1/2 Pfd.) Johannisbeeren oder andere Fruechte
+100 g Zucker nach Geschmack
+65 g grober Griess oder gemahlener Reis
+1/4 l Wasser
+
 
 _Vorbereitung_: Die Johannisbeeren werden gewaschen, abgebeert und in
 einem Topf mit 1/4 l Wasser, zugedeckt, aufgesetzt. Tassenkoepfe oder ein
@@ -4958,16 +4936,16 @@ Staerkemehl. Natuerlich sind auch fertige Fruchtsaefte zu verwenden.
 
 
 
-HEFEKLOessE.
+HEFEKLOeSSE.
 
-15 g Hefe                   M 0,02-1/2
-250 g Mehl                  " 0,10
-1/8 l laue Vollmilch        " 0,02-1/2
-1 Teel. Salz                " 0,00-1/4
-1 Essl. geschmolzenes Fett   " 0,01-1/2
-1 Essl. Salz                 " 0,00-1/4
-3 l Wasser                  " 0,00-1/4
-                            M 0,17
+15 g Hefe
+250 g Mehl
+1/8 l laue Vollmilch
+1 Teel. Salz
+1 Essl. geschmolzenes Fett
+1 Essl. Salz
+3 l Wasser
+
 
 _Vorbereitung_: Das mit dem vierten Teil Mehl und Milch in aufgeloester
 Hefe angeruehrte aufgegangene Hefestueck wird mit den uebrigen Zutaten
@@ -4990,17 +4968,18 @@ Fruchtsauce ueber heissem Wasser stehend durchwaermen.
 
 HEFEPUDDING.
 
-175 g Mehl                      M 0,07
-15 g Hefe                       " 0,02-1/2
-1/8 l Vollmilch                 " 0,02-1/2
-20 g Rinderfett oder Margarine  " 0,03-1/4
-1 Ei, 2 Nelken                  " 0,06
-40 g Zucker                     " 0,02
-8 g Salz                        " 0,00-1/4
+175 g Mehl
+15 g Hefe
+1/8 l Vollmilch
+20 g Rinderfett oder Margarine
+1 Ei
+2 Nelken
+40 g Zucker
+8 g Salz
 40 g grosse u. kleine Rosinen    " 0,03-1/2
-5 g Margarine f. d. Form        " 0,00-3/4
-5 g Zucker zum Bestreuen        " 0,00-1/4
-                                M 0,28
+5 g Margarine f. d. Form
+5 g Zucker zum Bestreuen
+
 
 _Vorbereitung_: Die Milch wird warm gestellt, das Mehl gesiebt und
 gleichfalls warm gestellt. Die Hefe wird in die Milch gebroeckelt und
@@ -5035,15 +5014,15 @@ Schuessel mit der Oberflaeche auf den Pudding und stuerzt um.
 
 HIRSEBREI.
 
-125 g Hirse                M 0,05
-Wasser und Salz            " 0,00-1/4
-1/2 l Magermilch           " 0,05
-1 Prise Salz               " 0,00-1/4
-5 g Fett                   " 0,00-1/2
-1 Stueck Apfelsinenschale   " 0,00-1/4
-20 g Fett zum Uebergiessen   " 0,02-1/2
-1 Teel. Zucker und Zimt    " 0,00-1/2
-                           M 0,14-1/4
+125 g Hirse
+Wasser und Salz
+1/2 l Magermilch
+1 Prise Salz
+5 g Fett
+1 Stueck Apfelsinenschale
+20 g Fett zum Uebergiessen
+1 Teel. Zucker und Zimt
+
 
 _Vorbereitung_: Die Hirse wird verlesen, dreimal mit kaltem Wasser
 aufgesetzt, das, wenn es heiss ist, abgegossen wird.
@@ -5060,19 +5039,19 @@ des Mehlpraeparates gerechnet und (nach dem Abwellen) wird zur Herstellung
 
 
 
-KARTOFFELKLOessE.
+KARTOFFELKLOeSSE.
 
-1/2 kg (1 Pfd.) Kartoffeln ohne Schale gewogen   M 0,05
-65 g Mehl                                        " 0,02-1/2
-2 Eiweiss oder 1 Ei                               " 0,04
-1 Messerspitze geriebene Muskatnuss               " 0,00-1/4
-20 g Fett oder Margarine                         " 0,03-1/2
-10 g Salz                                        " 0,00-1/4
-20 Abfuellfett                                    " 0,02-1/2
-1 Weissbroetchen                                   " 0,02-1/2
-2 l Wasser                                     |
-20 g Salz                                      | " 0,00-1/2
-                                                 M 0,21
+1/2 kg (1 Pfd.) Kartoffeln ohne Schale gewogen
+65 g Mehl
+2 Eiweiss oder 1 Ei
+1 Messerspitze geriebene Muskatnuss
+20 g Fett oder Margarine
+10 g Salz
+20 Abfuellfett
+1 Weissbroetchen
+2 l Wasser
+20 g Salz
+
 
 _Vorbereitung_: Die erkalteten, in der Schale abgekochten, abgezogenen
 Kartoffeln werden gerieben; sind es uebrig gebliebene geschaelte Kartoffeln
@@ -5094,14 +5073,14 @@ Fett auf der Pfanne gebacken.
 
 KARTOFFELPUFFER.
 
-1/2 kg (1 Pfd.) Kartoffeln, rohe, geschaelt gewogen   M 0,04
-5 g Salz                                             " 0,00-1/4
-1 Eigelb                                             " 0,04
-1 Teel. Kartoffelmehl                                " 0,00-1/4
-1/8 l (knapp) Vollmilch                              " 0,02-1/2
-1 Eiweiss                                             " 0,02
-50 g Fett oder 60 g Margarine                        " 0,08
-                                                     M 0,21
+1/2 kg (1 Pfd.) Kartoffeln, rohe, geschaelt gewogen
+5 g Salz
+1 Eigelb
+1 Teel. Kartoffelmehl
+1/8 l (knapp) Vollmilch
+1 Eiweiss
+50 g Fett oder 60 g Margarine
+
 
 _Vorbereitung_: Die Kartoffeln werden geschaelt und in Wasser gelegt. Man
 reibt sie auf einem Reibeisen sehr rasch in einen Napf, in welchem etwas
@@ -5122,14 +5101,14 @@ muessen 6 Stueck ergeben.
 
 KAeSEPLAeTZCHEN.
 
-180 g weisser Kaese      M 0,07-1/4
-30 g Mehl              " 0,01-1/2
-1 Ei                   " 0,06
-30 g Korinthen         " 0,02-1/2
-1 Prise Salz        |  " 0,01-1/4
-20 g Zucker         |
-30 g Fett              " 0,03-1/2
-                       M 0,22
+180 g weisser Kaese
+30 g Mehl
+1 Ei
+30 g Korinthen
+1 Prise Salz
+20 g Zucker
+30 g Fett
+
 
 _Vorbereitung_: Der Kaese wird durch ein Sieb gerieben, das Mehl
 durchgesiebt. Die Korinthen werden vorbereitet.
@@ -5143,13 +5122,12 @@ in dem heiss und still gewordenen Fett in der Pfanne baeckt.
 MAKRONEN. (VORRAT.)
 
 250 g suesse, 12 Stueck bittere
-  abgezogene geriebene
-  Mandeln                   M 0,51-1/2
-280 g gesiebter Zucker      " 0,13-1/2
-7-8 Eiweiss                  " 0,16
-5 g Backpulver              " 0,02-1/2
-1 Speckschwarte zum Blech   " 0,00-1/4
-                            M 0,83-3/4
+  abgezogene geriebene Mandeln
+280 g gesiebter Zucker
+7-8 Eiweiss
+5 g Backpulver
+1 Speckschwarte zum Blech
+
 
 _Vorbereitung_: Die Zutaten werden vorbereitet.
 
@@ -5164,13 +5142,13 @@ Kokosnuss, 1/2 kg (1 Pfd) = M. 0,35, beim Konditor erhaeltlich, verwenden.
 
 
 
-MEHLKLOessE.
+MEHLKLOeSSE.
 
-50 g Mehl                        M 0,02
-10 g Rinderfett oder Margarine   " 0,01-1/2
-2 g Salz                         " 0,00-1/4
+50 g Mehl
+10 g Rinderfett oder Margarine
+2 g Salz
 1 Essl. kochendes Wasser
-                                 M 0,03-3/4
+
 
 _Zubereitung_: Fett und Wasser werden zum Kochen gebracht und unter
 schnellem Ruehren in das Mehl und Salz gegossen. Mit einem Teeloeffel, der
@@ -5185,14 +5163,14 @@ Essloeffel mageren gebratenen Speckwuerfeln anstatt des Fettes.
 
 
 
-Milchflammeri.
+MILCHFLAMMERI.
 
-1/2 l kalte Vollmilch            M 0,10
-50 g Staerkemehl                  " 0,02
-50 g Zucker                  |
-1 Prise Salz                 |   " 0,02-3/4
-1 Stueckchen Apfelsinenschale |
-                                 " 0,14-3/4
+1/2 l kalte Vollmilch
+50 g Staerkemehl
+50 g Zucker
+1 Prise Salz
+1 Stueckchen Apfelsinenschale
+
 
 _Vorbereitung_: Eine Form oder einige Tassenkoepfe werden mit Wasser
 gefuellt, unmittelbar vor dem Hineinfuellen des Flammeri ausgegossen.
@@ -5205,14 +5183,14 @@ gereicht.
 
 
 
-Milchgelee.
+MILCHGELEE.
 
-1/2 l Vollmilch               M 0,10
-40 g Speisen- oder Reismehl   M 0,03-1/4
-6 Essl. Vollmilch              " 0,02-1/2
-4 Essl. Zucker                 " 0,03
-1 Stueckchen Zitronenschale    " 0,00-1/4
-                              M 0,19
+1/2 l Vollmilch
+40 g Speisen- oder Reismehl
+6 Essl. Vollmilch
+4 Essl. Zucker
+1 Stueckchen Zitronenschale
+
 
 _Vorbereitung_: 6 Essloeffel Milch werden mit dem Mehl verquirlt.
 
@@ -5227,16 +5205,15 @@ _Bemerkung_: Anstatt Reismehl kann man 9 Blatt weisse Gelatine verwenden.
 
 MILCHKARTOFFELN.
 
-
-1/2 kg (1 Pfd.) Kartoffeln       | M 0,03-1/4
-Wasser und Salz                  |
-20 g Fett oder Margarine           " 0,03-1/2
-20 g Mehl                          " 0,00-1/2
-20 g Zwiebeln                      " 0,00-1/2
+1/2 kg (1 Pfd.) Kartoffeln
+Wasser und Salz
+20 g Fett oder Margarine
+20 g Mehl
+20 g Zwiebeln
 30 g Schinken- oder Speckreste
- oder Schwarten ohne Rauchkanten   " 0,05
-1/2 l Magermilch, Pfeffer und Salz " 0,05-1/4
-                                   M 0,18
+ oder Schwarten ohne Rauchkanten
+1/2 l Magermilch, Pfeffer und Salz
+
 
 _Vorbereitung_: Die Kartoffeln werden in Salzwasser gargekocht und dann
 abgezogen; Zwiebeln und Schinken, Schwarten oder Speck werden gewuerfelt.
@@ -5255,17 +5232,17 @@ darin verruehrter weisser Kaese verwendet werden. _Kaesekartoffeln_.
 
 MILCHREIS.
 
-125 g Reis                                M 0,07-1/2
-1/4 l Vollmilch                           " 0,05
-1/2 l Wasser zum Abwellen               | " 0,00-1/4
-1 Prise Natron                          |
+125 g Reis
+1/4 l Vollmilch
+1/2 l Wasser zum Abwellen
+1 Prise Natron
 1/4 l Wasser
-1 Prise Salz                            |
-1 Stueck Apfelsinen- oder Zitronenschale | " 0,02-1/2
-5 g Rinderfett oder Margarine           |
-5 g Mehl                                  " 0,00-1/4
-20 g Zucker und Zimt                      " 0,02
-                                          M 0,17-1/2
+1 Prise Salz
+1 Stueck Apfelsinen- oder Zitronenschale
+5 g Rinderfett oder Margarine
+5 g Mehl
+20 g Zucker und Zimt
+
 
 _Vorbereitung_: Der Reis wird mit kaltem Wasser gut durchgespuelt,
 abgegossen, mit kaltem Wasser im irdenen Topf bis zum Kochen gebracht und
@@ -5286,18 +5263,18 @@ Gericht fuer den Selbstkocher.
 
 MILCHREISPUDDING FUeR 4 PERSONEN.
 
-125 g Reis                     M 0,07-1/2
-1 Prise Natron               | " 0,00-1/4
-1/2 l Wasser zum Abwellen    |
-1/2 l Vollmilch                " 0,10
-1 Prise Salz                   " 0,00-1/4
-65 g Butter oder Margarine     " 0,15-1/2
-125 g Zucker                   " 0,06
-3 Eier                         " 0,18
-1 Essl. Zitronenzucker          " 0,01-1/2
-5 g Margarine         | zur    " 0,00-3/4
-1 Essl. gerieb. Semmel | Form   " 0,00-1/2
-                               M 0,50-1/4
+125 g Reis
+1 Prise Natron
+1/2 l Wasser zum Abwellen
+1/2 l Vollmilch
+1 Prise Salz
+65 g Butter oder Margarine
+125 g Zucker
+3 Eier
+1 Essl. Zitronenzucker
+5 g Margarine
+1 Essl. gerieb. Semmel | Form
+
 
 _Vorbereitung_: Der Reis wird gewaschen, abgewellt und abgetropft.
 
@@ -5315,10 +5292,10 @@ _Bemerkung_: Man kann auch Milchreisreste zu dem Pudding verwenden.
 
 MILCH, SAURE.
 
-3/4 l Vollmilch               M 0,15
-20 g geriebenes Brot          " 0,00-1/2
-30 g Zucker                   " 0,01-1/2
-                              M 0,17
+3/4 l Vollmilch
+20 g geriebenes Brot
+30 g Zucker
+
 
 _Zubereitung_: Auf 2 tiefe Suppenteller oder kleine Schalen verteilt man
 die Milch, setzt sie in staubfreien, warmen Raum und laesst sie unberuehrt
@@ -5329,15 +5306,15 @@ Tisch oder reicht beides nebenher.
 
 MUeRBETEIG FUeR OBSTKUCHEN UND KLEINE KUCHEN. (VORRAT.)
 
-90 g Zucker                   M 0,04-1/2
-4 Eigelb                      " 0,16
-1/2 abgeriebene Zitrone       " 0,05
-2 Essl. Magermilch             " 0,00-1/2
-220 g Margarine               " 0,35-1/4
-1/2 kg (1 Pfd) Mehl           " 0,20
-1 Ei zum Bestreichen          " 0,06
-1 Speckschwarte zum Blech     " 0,00-1/4
-                              M 0,87-1/2
+90 g Zucker
+4 Eigelb
+1/2 abgeriebene Zitrone
+2 Essl. Magermilch
+220 g Margarine
+1/2 kg (1 Pfd) Mehl
+1 Ei zum Bestreichen
+1 Speckschwarte zum Blech
+
 
 _Zubereitung_: Zucker, Zitrone, Milch und Eigelb werden verbunden, dann
 unter die zu Schaum geruehrte Margarine gerieben; das Mehl wird zuletzt
@@ -5351,17 +5328,17 @@ und backt sie auf gefettetem Bleche zu guter Farbe.
 
 NAPFKUCHEN.
 
-175 g Mehl                     M 0,07
-15 g Hefe                      " 0,02-1/2
-6 Essl. Magermilch              " 0,01-1/4
-30 g Rinderfett oder Margarine " 0,04-3/4
-1 Ei                           " 0,06
-40 g Zucker                    " 0,02
-1 Teel. Zitronenzucker         " 0,00-1/2
-8 g Salz                       " 0,00-1/4
-40 g grosse u. kleine Rosinen   " 0,03-1/2
-                               M 0,27-3/4
-jatka
+175 g Mehl
+15 g Hefe
+6 Essl. Magermilch
+30 g Rinderfett oder Margarine
+1 Ei
+40 g Zucker
+1 Teel. Zitronenzucker
+8 g Salz
+40 g grosse u. kleine Rosinen
+
+
 _Zubereitung_: Napfkuchen wird ebenso eingeruehrt wie Hefepudding, nur
 wird er in einem mit Fett ausgestrichenen irdenen Napfe zerschlagenes
 Eiweiss getaucht und um die Raender der Rundungen gefuehrt. Nun wird die
@@ -5381,12 +5358,12 @@ auch 20 g Backpulver (1 Paket).
 
 PFENNIGKUCHEN.
 
-125 g Zucker         M 0,06
-125 g Mehl           " 0,05
-2 Eier               " 0,12
-1 Prise Kardamom   | " 0,00-1/2
-1 Speckschwarte    |
-                     M 0,23-1/2
+125 g Zucker
+125 g Mehl
+2 Eier
+1 Prise Kardamom
+1 Speckschwarte
+
 
 _Vorbereitung_: Ein Blech wird mit Papier abgerieben und dann mit
 Speckschwarte eingerieben. Die Eier werden aufgeschlagen und in einen
@@ -5405,18 +5382,18 @@ Zitronenzucker als Gewuerz an den Teig ruehren.
 
 
 
-SEMMELKLOessE.
+SEMMELKLOeSSE.
 
-5 alte Weissbroetchen        M 0,08-1/2
-1/8 l Vollmilch            " 0,02-1/2
-1/8 l Wasser.
-1 Prise gestossener Zimt  |
-15 g Salz                | " 0,00-1/2
-40 g Zucker                " 0,02-1/4
-15 g Fett oder Margarine   " 0,02-1/2
-1 Ei                       " 0,06
-5 g Fett oder Margarine    " 0,00-3/4
-                           M 0,23
+5 alte Weissbroetchen
+1/8 l Vollmilch
+1/8 l Wasser
+1 Prise gestossener Zimt
+15 g Salz
+40 g Zucker
+15 g Fett oder Margarine
+1 Ei
+5 g Fett oder Margarine
+
 
 _Vorbereitung_: Ein flaches Geschirr wird mit etwas Fett ausgestrichen,
 Wasser zum Kochen der Kloesse aufgesetzt, Semmel gerieben, 15 g Fett
@@ -5435,21 +5412,21 @@ Man kann diese Kloesse durch 6 geriebene Mandeln verfeinern.
 
 WEIHNACHTSKUCHEN, BRAUNE (VORRAT).
 
-125 g Margarine              M 0,20
-125 g Schweineschmalz        " 0,20
-150 g brauner Sirup          " 0,06
-125 g Zucker                 " 0,06
-1-1/8 kg (2-1/4 Pfd) Mehl    " 0,45
+125 g Margarine
+125 g Schweineschmalz
+150 g brauner Sirup
+125 g Zucker
+1-1/8 kg (2-1/4 Pfd) Mehl
 60 g suesse geriebene Mandeln
-  od. Zitronatwuerfelchen     " 0,12
-5 bittere Mandeln            " 0,01
-10 gestossene Nelken          " 0,00-1/4
-1 Teel. Zimt                 " 0,01
-10 g chem. reine Pottasche   " 0,04
-20 g Backpulver              " 0,10
+  od. Zitronatwuerfelchen
+5 bittere Mandeln
+10 gestossene Nelken
+1 Teel. Zimt
+10 g chem. reine Pottasche
+20 g Backpulver
 2 Essl. warmes Wasser
-1 Speckschwarte zum Blech    " 0,00-1/4
-                             M 1,25-1/2
+1 Speckschwarte zum Blech
+
 
 _Zubereitung_: Margarine, Schmalz, Sirup und Zucker werden zum Kochen
 gebracht und nach dem Auskuehlen mit dem Mehl, das mit den Gewuerzen
@@ -5464,15 +5441,15 @@ Rosenwasser oder Wasser verruehrt. Darf nicht lange stehen.
 
 
 
-WEIssBIERGELEE FUeR 4 PERSONEN.
+WEISSBIERGELEE FUeR 4 PERSONEN.
 
-9 Tafeln rote Gelatine       M 0,18
-1 Flasche Weissbier           " 0,20
-1/2 cm Zimt                  " 0,00-1/4
-1/2 Essl Zitronenzucker       " 0,00-3/4
-100 g Zucker                 " 0,04-3/4
-1 Essl. Rum                   " 0,07-1/4
-                             M 0,51
+9 Tafeln rote Gelatine
+1 Flasche Weissbier
+1/2 cm Zimt
+1/2 Essl Zitronenzucker
+100 g Zucker
+1 Essl. Rum
+
 
 _Vorbereitung_: Man loest die Gelatine in 8 Essloeffel Weissbier lauwarm auf.
 
@@ -5488,24 +5465,24 @@ Weisswein (Weingelee) nehmen; der Rum kann auch fehlen.
 
 ZITRONENSPEISE KALT ZU BEREITEN FUeR 4 PERSONEN.
 
-4 Eier                           M 0,24
-200 g Zucker                     " 0,09-1/2
-6 Essl. Zitronensaft              " 0,20
-1 Essloeffel Zitronenzucker        " 0,01-1/2
-3 Tafeln weisse Galatine |
-2 Essl. Wasser           | geloest " 0,03-3/4
-                                 M 0,58-3/4
+4 Eier
+200 g Zucker
+6 Essl. Zitronensaft
+1 Essloeffel Zitronenzucker
+3 Tafeln weisse Galatine
+2 Essl. Wasser
+
 
 _Zubereitung_: Die Eigelb, mit dem Zucker 1/2 Stunde schaumig geschlagen,
 werden nach und nach mit Zitronensaft und Zitronenzucker verbunden,
 zuletzt wird vorbereitete Gelatine hinzugefuegt und der Schnee der Eiweiss
 sorgfaeltig untergezogen. In eine Glasschale zu fuellen.
 
-_Apfelsinenspeise_. Dieselbe Masse, nur anstatt 6 Essloeffel Zitronensaft
-und =schale: 2 Essloeffel Zitronensaft und 4 Essloeffel Apfelsinensaft und
-=schale.
+_Apfelsinenspeise_: Dieselbe Masse, nur anstatt 6 Essloeffel Zitronensaft
+und -schale: 2 Essloeffel Zitronensaft und 4 Essloeffel Apfelsinensaft
+und -schale.
 
-_Arrakspeise_. Dieselbe Masse, nur anstatt 6 Essloeffel Zitronensaft: 2
+_Arrakspeise_: Dieselbe Masse, nur anstatt 6 Essloeffel Zitronensaft: 2
 Essloeffel Zitronensaft und 4 Essloeffel Arrak.
 
 _Himbeerspeise_. Ebenso, nur anstatt 6 Essloeffel Zitronensaft und -schale:
@@ -5526,12 +5503,12 @@ berechnet.)
 
 
 
-APFELKOMPOTT (GESCHMORTE APFEL).
+APFELKOMPOTT (GESCHMORTE AePFEL).
 
-1/2 kg (1 Pfd.) Aepfel    M 0,30
-3 Essl. Zucker          | " 0,02-1/4
-4 Essl. Wasser          |
-                         M 0,32-1/4
+1/2 kg (1 Pfd.) Aepfel
+3 Essl. Zucker
+4 Essl. Wasser
+
 
 _Vorbereitung_: Die Aepfel werden sauber geschaelt und die Kernhaeuser
 entfernt.
@@ -5547,10 +5524,10 @@ Getraenk oder zur Verwendung bei Apfelsuppe oder Apfelreis bereiten.
 
 APFELMUS.
 
-3/4 kg (1-1/2 Pfd.) Aepfel    M 0,45
-3 Essl. Zucker                " 0,02-1/4
+3/4 kg (1-1/2 Pfd.) Aepfel
+3 Essl. Zucker
 6 Essl. Wasser
-                             M 0,47-1/4
+
 
 _Vorbereitung_: Die Aepfel werden geschaelt und in Stuecke geschnitten.
 
@@ -5562,14 +5539,14 @@ Mus mit dem Zucker.
 
 BACKOBST.
 
-125 g Backobst (oder eine Sorte Obst allein)    M 0,10
-1 Stueckchen Zimt                                " 0,00-1/4
-1 Stueckchen Apfelsinenschale                    " 0,00-1/4
-2 Essl. Zucker                                   " 0,01-1/2
-3 g Kartoffelmehl                             | " 0,00-1/4
-1 Essl. Wasser                                 |
+125 g Backobst (oder eine Sorte Obst allein)
+1 Stueckchen Zimt
+1 Stueckchen Apfelsinenschale
+2 Essl. Zucker
+3 g Kartoffelmehl
+1 Essl. Wasser
 3/8 l Wasser
-                                                M 0,12-1/4
+
 
 _Vorbereitung_: Trocknes Obst wird moeglichst Abends vor dem Gebrauch
 gewaschen und in irdenem Topf mit 3/8 l frischem Wasser zum Aufquellen
@@ -5599,13 +5576,13 @@ Gericht fuer den Selbstkocher.
 
 BIRNEN (FRISCHE).
 
-1/2 kg (1 Pfd.) Birnen          M 0,40
+1/2 kg (1 Pfd.) Birnen
 1/4 1 Wasser
-30 g Zucker                     " 0,01-1/2
-1 Stueckchen Apfelsinenschale    " 0,00-1/4
-2 g Staerkemehl                | " 0,00-1/4
-1 Essl. Wasser                 |
-                                M 0,42
+30 g Zucker
+1 Stueckchen Apfelsinenschale
+2 g Staerkemehl
+1 Essl. Wasser
+
 
 _Vorbereitung_: Man schaelt die Birnen recht huebsch, beputzt die Stiele
 (sind die Birnen gross, so schneidet man sie in Haelften, Viertel oder
@@ -5620,12 +5597,12 @@ laesst die Birnen noch einmal damit aufkochen.
 
 BLAUBEERENKOMPOTT (BESINGE).
 
-1/2 kg (1 Pfd) Blaubeeren       M 0,20
-50 g Zucker                     " 0,02-1/2
-1 Stueckchen Apfelsinenschale    " 0,00-1/4
-2 g Staerkemehl  |
-1 Essl. Wasser   |               " 0,00-1/4
-                                M 0,23
+1/2 kg (1 Pfd) Blaubeeren
+50 g Zucker
+1 Stueckchen Apfelsinenschale
+2 g Staerkemehl
+1 Essl. Wasser
+
 
 _Vorbereitung_: Blaubeeren werden verlesen, gewaschen und mit Zucker in
 einem irdenen Topf geschwenkt. Das Staerkemehl wird geloest.
@@ -5647,11 +5624,11 @@ Zucker ab.
 
 KIRSCHKOMPOTT.
 
-375 g saure Kirschen            M 0,18-3/4
-40 g Zucker                     " 0,02
-2 g Staerkemehl  |
-1 Essl. Wasser   |               " 0,00-1/4
-                                M 0,21
+375 g saure Kirschen
+40 g Zucker
+2 g Staerkemehl
+1 Essl. Wasser
+
 
 _Vorbereitung_: Kirschen muss man waschen, entstielen, mit einer neuen
 Haarnadel entkernen. Die Haelfte der Kerne wird gestossen, in einen
@@ -5674,13 +5651,13 @@ genuegen.
 
 KUeRBIS.
 
-250 g geschaelte Kuerbisstueckchen  M 0,03
-1 Essl. Essig   |
-1 Nelke        |                 " 0,00-1/2
-3 Essl. Zucker                    " 0,02-1/4
-2 g Staerkemehl |
-2 Essl. Wasser  |                 " 0,00-1/4
-                                 M 0,06
+250 g geschaelte Kuerbisstueckchen
+1 Essl. Essig
+1 Nelke
+3 Essl. Zucker
+2 g Staerkemehl
+2 Essl. Wasser
+
 
 _Vorbereitung_: Der Kuerbis wird geschaelt, in gefaellige Stuecke
 geschnitten, gewaschen und abgetropft. Das Staerkemehl wird geloest.
@@ -5693,12 +5670,12 @@ _Bemerkung_. Reste zu Reis mit Kuerbis oder Kuerbissuppe.
 
 
 
-PREIssELBEEREN.
+PREISSELBEEREN.
 
-250 g Preisselbeeren              M 0,10
-3 Essl. Zucker                    " 0,02-1/4
-2 1 Wasser.
-                                 M 0,12-1/4
+250 g Preisselbeeren
+3 Essl. Zucker
+2 1 Wasser
+
 
 _Vorbereitung_: Die Preisselbeeren werden verlesen, einen Augenblick in
 kochendes Wasser geschuettet, damit der herbe Geschmack sich verliert;
@@ -5717,12 +5694,12 @@ doppeltem Pergamentpapier verbinden und fuer den Winter aufheben.
 
 RINGAePFEL, AMERIKANISCHE (ALS BACKOBST).
 
-65 g amerikanische Ringaepfel   M 0,09-1/2
-25 g Zucker                      0,01-1/4
-4 g Kartoffelmehl                0,00-1/4
-1 Stueckchen Apfelsinenschale     0,00-1/4
+65 g amerikanische Ringaepfel
+25 g Zucker
+4 g Kartoffelmehl
+1 Stueckchen Apfelsinenschale
 1/4 1 Wasser
-                               M 0,11-1/4
+
 
 _Vorbereitung:_ Amerikanische Ringaepfel muessen allein gekocht werden,
 weil sie kuerzere Zeit brauchen und sich auch faerben wuerden; sie werden
@@ -5738,15 +5715,15 @@ _Apfelbettelmann_ und _Apfelreis_ zu verwenden.
 
 STACHELBEERKOMPOTT, RHABARBERKOMPOTT.
 
-250 g unreife Stachelbeeren oder Rhabarber   M 0,15
-1 Prise Natron                               " 0,00-1/4
-90 g Zucker    | gelaeutert                   " 0,04-1/4
-4 Essl. Wasser  |
-1 Stueckchen Zitronenschale                   " 0,00-1/4
-1 g Zimt                                     " 0,01
-2 g Staerkemehl                               " 0,00-1/4
+250 g unreife Stachelbeeren oder Rhabarber
+1 Prise Natron
+90 g Zucker, gelaeutert
+4 Essl. Wasser
+1 Stueckchen Zitronenschale
+1 g Zimt
+2 g Staerkemehl
 2 Essl. Wasser
-                                             M 0,21
+
 
 _Vorbereitung:_ Die Stachelbeeren werden von Bluete und Stiel befreit,
 gewaschen und abgetropft. Rhabarber wird wenn noetig geschaelt, sonst nur
@@ -5777,11 +5754,11 @@ EIERBIER (WARMBIER).
 
 (Zu 4 Glaesern.)
 
-4 Eier                      M 0,24
-90 g Zucker                 " 0,04-1/2
-1 Teel. Zitronenzucker      " 0,00-1/2
-3/4 l Weiss- oder Braunbier  " 0,20
-                            M 0,49
+4 Eier
+90 g Zucker
+1 Teel. Zitronenzucker
+3/4 l Weiss- oder Braunbier
+
 
 _Zubereitung_: Die ganzen Eier werden mit dem Zucker geschlagen. Das Bier
 wird heiss gestellt und dann mit Eierschaum und Zitronenzucker ueber
@@ -5791,10 +5768,10 @@ gelindem Feuer mit dem Schneeschlaeger verschlagen und sofort angerichtet.
 
 FLEISCHBRUeHE FUeR EINEN KRANKEN ODER EINEN SAeUGLING.
 
-125 g mageres Rindfleisch oder Kalbfleisch M 0,20
+125 g mageres Rindfleisch oder Kalbfleisch
 1/4 l Wasser
-3 g Salz                                   " 0,00-1/4
-                                           M 0,20-1/4
+3 g Salz
+
 
 _Vorbereitung_: Das gewaschene Fleisch wird fein geschnitten, besser noch
 gewiegt, das kalte Wasser darueber gegossen, Salz hinzugefuegt.
@@ -5812,12 +5789,12 @@ GLUeHWEIN.
 
 (Zu 4 grossen Weinglaesern.)
 
-1/2 Flasche Rotwein, moeglichst Burgunder M 0,50
-2 g Zimt                              |
-4 Nelken                              |  " 0,00-1/4
-80 g Zucker                              " 0,04
-1/2 fein abgeschaelte Zitronenschale      " 0,00-1/2
-                                         M 0,54-3/4
+1/2 Flasche Rotwein, moeglichst Burgunder
+2 g Zimt
+4 Nelken
+80 g Zucker
+1/2 fein abgeschaelte Zitronenschale
+
 
 _Zubereitung_: Alle Zutaten werden gemischt, auf dem Feuer bis zum Sieden
 erhitzt, durch ein Haarsieb gegossen und heiss gereicht.
@@ -5828,10 +5805,10 @@ GROG.
 
 (Zu 4 Wasserglaesern.)
 
-1/8 l Kognak, Arrak oder Rum   M 0,50
-80 g Zucker                    " 0,04
+1/8 l Kognak, Arrak oder Rum
+80 g Zucker
 3/4 l kochendes Wasser
-                               M 0,54
+
 
 _Zubereitung_: Zucker und Kognak werden schnell mit dem kochenden Wasser
 vermischt und sofort gereicht. Staerke und Suesse des Getraenkes sind nach
@@ -5844,10 +5821,10 @@ HAFERSCHLEIM ZUM TRINKEN.
 (fuer einen Kranken oder als Zusatz zur Flasche fuer Saeuglinge.)
 (Fuer 1 Liter.)
 
-60 g Hafergruetze    M 0,03
-1 Prise Salz        " 0,00-1/4
+60 g Hafergruetze
+1 Prise Salz
 1-1/2 1 Wasser
-                    M 0,03-1/4
+
 
 _Vorbereitung_: Die Hafergruetze wird abgequirlt, mit kaltem Wasser
 angequollen und abgegossen.
@@ -5871,10 +5848,10 @@ KAFFEE.
 
 (Fuer 1/2 Liter.)
 
-15 g Kaffeebohnen    M 0,03-1/2
-1 Prise Cichorien    " 0,00-1/4
+15 g Kaffeebohnen
+1 Prise Cichorien
 1/2 l Wasser
-                     M 0,03-3/4
+
 
 _Vorbereitung_: Die Kaffeebohnen werden gemahlen, mit der fein
 gebroeckelten Cichorie (welche auch fortbleiben kann), vermischt und in
@@ -5893,10 +5870,10 @@ KAFFEEBEREITUNG VON KATHREINERS MALZKAFFEE.
 
 (Fuer 1 Liter.)
 
-40 g Kathreiners Malzkaffee    M 0,03
+40 g Kathreiners Malzkaffee
 1 l Wasser
-10 g Kaffeebohnen              " 0,02-1/2
-                               M 0,05-1/2
+10 g Kaffeebohnen
+
 
 _Vorbereitung_: Der Malzkaffee wird gemahlen, mit kaltem Wasser auf das
 Feuer gestellt.
@@ -5914,7 +5891,7 @@ bereitet man, indem man 1 Essloeffel Kakao und 1 Teeloeffel Zucker mit 1
 Essloeffel Wasser verruehrt und mit der ganzen Fluessigkeit (3/8 l auf 1
 Essloeffel Kakao) Wasser oder Milch 5 Minuten kocht.
 
-_Bemerkung_: Reichardtscher Armee-Kakao 1/2 kg (1 Pfd.) M 1,20 braucht
+_Bemerkung_: Reichardtscher Armee-Kakao 1/2 kg (1 Pfd.) braucht
 nur mit Zucker und der kochenden Fluessigkeit verruehrt zu werden. Er
 eignet sich seiner starken Entfettung wegen gut zu nahrhaftem kaltem
 Getraenk.
@@ -5925,11 +5902,11 @@ LIMONADE.
 
 (Zu 1/2 Liter.)
 
-1/4 Zitronen- oder Apfelsinenschale           M 0,00-1/4
-25 g Zucker                                   " 0,01-1/4
+1/4 Zitronen- oder Apfelsinenschale
+25 g Zucker
 1/2 l kochendes Wasser
-3 Essl. Zitronen- od. 6 Essl. Apfelsinensaft    " 0,10
-                                              M 0,11-1/2
+3 Essl. Zitronen- od. 6 Essl. Apfelsinensaft
+
 
 _Vorbereitung_: Die Zitronen- oder Apfelsinenschale wird fein abgeschaelt.
 
@@ -5970,12 +5947,12 @@ PUNSCH (WARM).
 
 (Zu 12 Glaesern.)
 
-5 Tee                     M 0,02
+5 Tee
 3/4 l kochendes Wasser
-1 Flasche Rotwein         " 1,00
-1/4 Flasche Rum           " 0,75
-125 g Zucker              " 0,06
-                          M 1,83
+1 Flasche Rotwein
+1/4 Flasche Rum
+125 g Zucker
+
 
 _Zubereitung_: 3/4 l Tee werden nach Angabe bereitet und durch ein
 Teesieb gegossen; Wein, Rum und Zucker werden in irdenem Topfe auf
@@ -6104,16 +6081,16 @@ In feuchten dumpfen Kellern oder in warmen Raeumen verdirbt es leicht.
 
 BIRNEN IN ESSIG.
 
-1-1/2 kg (3 Pfd.) Birnen             M 1,20
-3/4 kg (1-1/2 Pfd.) Zucker           " 0,42
-1/2 l nicht zu scharfer Weinessig    " 0,25
-1 Stueck Zitronenschale             | " 0,00-1/4
-1 Stueck Zimt                       |
-10 Nelken                            " 0,00-1/4
-2 Essl. Weinessig                   | " 0,01-3/4
-125 g Zucker                       | " 0,07
-1/4 l Wasser                       |
-                                     M 1,96-1/4
+1-1/2 kg (3 Pfd.) Birnen
+3/4 kg (1-1/2 Pfd.) Zucker
+1/2 l nicht zu scharfer Weinessig
+1 Stueck Zitronenschale
+1 Stueck Zimt
+10 Nelken
+2 Essl. Weinessig
+125 g Zucker
+1/4 l Wasser
+
 
 _Vorbereitung_: Kleinere Birnen, die man unzerschnitten schaelt, groessere,
 die man halbiert und deren Kernhaus man recht rund ausschaelt, oder
@@ -6137,9 +6114,9 @@ sehr verringert, so muss man Zucker und Essig zusetzen.
 
 BOHNEN, GRUeNE, ZU SALZEN. (VORRAT.)
 
-5 kg (10 Pfd.) Bohnen    M 1,00
-1 kg (2 Pfd.) Salz       " 0,20
-                         M 1,20
+5 kg (10 Pfd.) Bohnen
+1 kg (2 Pfd.) Salz
+
 
 Die Bohnen--Schneidebohnen sowohl als Brechbohnen--werden gepflueckt,
 solange sie noch nicht hart und faserig sind, abgezogen, fein
@@ -6164,7 +6141,7 @@ beliebig davon brauchen. Das Tuch ist oft auszuwaschen.
 
 
 
-BOHNED, GRUeNE, ZU TROCKNEN.
+BOHNEN, GRUeNE, ZU TROCKNEN.
 
 Die Bohnen werden abgezogen, gebrochen, auf Faeden gezogen und in der
 Sonne oder auf einem sauberen Backblech in gelinder Ofenwaerme getrocknet.
@@ -6174,11 +6151,11 @@ Man laesst sie an der Luft noch nachtrocknen und hebt sie in Beuteln auf.
 
 HIMBEERESSIG.
 
-2 kg (4 Pfd.) Himbeeren     M 1,60
-1 l Weinessig               " 0,50
-1-1/2 kg (3 Pfd.) Zucker    " 0,84
+2 kg (4 Pfd.) Himbeeren
+1 l Weinessig
+1-1/2 kg (3 Pfd.) Zucker
 1/2 l Wasser
-                            M 2,94
+
 
 _Vorbereitung_: Die Himbeeren zerdrueckt man mit der Kelle, bedeckt sie 12
 Stunden mit dem Weinessig und giesst sie durch ein Tuch.
@@ -6192,10 +6169,10 @@ Wasser oder Selterwasser gemischt.
 
 KIRSCHEN MIT SALICYL.
 
-3 kg (6 Pfd.) saure Kirschen     M 1,50
-1-1/2 kg (3 Pfd.) Streuzucker    " 0,72
-3 g Salicyl                      " 0,15
-                                 M 2,37
+3 kg (6 Pfd.) saure Kirschen
+1-1/2 kg (3 Pfd.) Streuzucker
+3 g Salicyl
+
 
 _Vorbereitung_: Recht fleischige saure Kirschen werden ausgesteint. Sie
 werden in einem Steintopfe mit dem Zucker vermischt und eine Nacht
@@ -6262,14 +6239,14 @@ Buechsen oder hebt sie mit den Stielen in luftigen Beuteln auf.
 
 KUeRBIS.
 
-1-1/2 kg (3 Pfd.) vorbereiteter Kuerbis                M 0,60
-4 l Essig                                             " 0,80
-1-1/2 kg (3 Pfd.) Zucker                              " 0,84
+1-1/2 kg (3 Pfd.) vorbereiteter Kuerbis
+4 l Essig
+1-1/2 kg (3 Pfd.) Zucker
 3/4 l Wasser
-Die Schale von 1/2 Zitrone, 1 Stueckchen Ingwer und  | " 0,05-1/2
-  1 Stueck Zimt, 4 Nelken (in einem Mullbeutel)      |
-Weisses Papier, 1 Essl. Rum                             " 0,08-1/4
-                                                      M 2,37-3/4
+Die Schale von 1/2 Zitrone, 1 Stueckchen Ingwer und
+  1 Stueck Zimt, 4 Nelken (in einem Mullbeutel)
+Weisses Papier, 1 Essl. Rum
+
 
 _Vorbereitung_: Der Kuerbis wird geschaelt, in Streifen geschnitten,
 gewogen.
@@ -6308,12 +6285,12 @@ mit Salz in Glaeser, die man nach Angabe verschliesst, fest eingefuellt.
 
 PFLAUMEN IN ESSIG.
 
-3 kg (6 Pfd) Pflaumen          M 1,50
-1-1/4 l Weinessig              " 0,62-1/2
-1-1/4 kg (2-1/2 Pfd) Zucker    " 0,70
-16 g Zimt   | in einem
-8 g Nelken  | Mullbeutel       " 0,05-1/4
-                               M 2,87-3/4
+3 kg (6 Pfd) Pflaumen
+1-1/4 l Weinessig
+1-1/4 kg (2-1/2 Pfd) Zucker
+16 g Zimt      in einem
+8 g Nelken     Mullbeutel
+
 
 _Vorbereitung_: Die Pflaumen werden sauber abgewischt, mit einem neuen
 Holzzahnstocher einigemale durchstochen und in einen Steintopf gelegt.
@@ -6339,13 +6316,13 @@ in Scheiben, damit sie schneller austrocknen.
 
 
 
-PREIssELBEEREN.
+PREISSELBEEREN.
 
-3-1/2 kg (7 Pfd) Preisselbeeren       M 1,40
+3-1/2 kg (7 Pfd) Preisselbeeren
 1/2 l weiches, kaltes Wasser
-1-3/4 kg (3-1/2 Pfd) Zucker          " 0,98
-Weisses Papier, 1 Essl. Rum            " 0,08-1/4
-                                     M 2,46-1/4
+1-3/4 kg (3-1/2 Pfd) Zucker
+Weisses Papier, 1 Essl. Rum
+
 
 _Vorbereitung_: Die Beeren werden wie zu Kompott vorbereitet.
 
@@ -6371,13 +6348,13 @@ zu den rohen Beeren.
 
 ROTE RUeBEN.
 
-2-1/2 kg (5 Pfd) rote Rueben          M 0,50
-8 g Kuemmel                           " 0,01
-3 Essl. Merrettichwuerfel              " 0,03
-1/2 l Essig                          " 0,10
-10 g Zucker                          " 0,00-1/2
-5 g Salz                             " 0,00-1/4
-                                     M 0,64-3/4
+2-1/2 kg (5 Pfd) rote Rueben
+8 g Kuemmel
+3 Essl. Merrettichwuerfel
+1/2 l Essig
+10 g Zucker
+5 g Salz
+
 
 _Vorbereitung_: Die roten Rueben werden mit einer Buerste gereinigt, aber
 vorsichtig, damit nicht die Haut reisst oder das Wurzelende abgebrochen
@@ -6401,13 +6378,13 @@ Salat.
 
 SALZGURKEN.
 
-60 Mittelgurken      M 4,00
-50 g Weinblaetter     " 0,05
-30 g Dill            " 0,03
+60 Mittelgurken
+50 g Weinblaetter
+30 g Dill
 7-1/2 l Wasser
-100 g Salz           " 0,02
+100 g Salz
 1 kleines Fass
-                     M 4,10
+
 
 _Vorbereitung_: Die Gurken werden 24 Stunden in Brunnenwasser gelegt,
 abgewischt und mit den gewaschenen Blaettern und dem Dill in ein sehr
@@ -6422,20 +6399,20 @@ wird das Fass zugespundet und bis zum Gebrauch haeufig gedreht.
 
 SENFGURKEN.
 
-3-1/2 kg (7 Pfd.) Gurken, nach dem Salzen gewogen    M 2,10
-Salz nach Bedarf                                     " 0,02-1/2
-Bieressig nach Bedarf                                " 0,20
-1 l Weinessig                                        " 0,50
-10 g Salz                                            " 0,00-1/4
-10 g Zucker                                          " 0,00-1/2
-60 g Schalotten   \ geschaelt mit Warmem              " 0,12
-30 g Perlzwiebeln / Essig einmal uebergossen          " 0,05
-3 Essl. Meerrettichwuerfel                             " 0,03
-4 Blueten Dill                                        " 0,02
-1 Pfefferschote                                      " 0,01
-3 Mullbeutel mit verschiedenen Gewuerzen              " 0,03
-4 Essl. Senfkoerner                                    " 0,12
-                                                     M 3,21-1/4
+3-1/2 kg (7 Pfd.) Gurken, nach dem Salzen gewogen
+Salz nach Bedarf
+Bieressig nach Bedarf
+1 l Weinessig
+10 g Salz
+10 g Zucker
+60 g Schalotten        geschaelt mit warmem
+30 g Perlzwiebeln    Essig einmal uebergossen
+3 Essl. Meerrettichwuerfel
+4 Blueten Dill
+1 Pfefferschote
+3 Mullbeutel mit verschiedenen Gewuerzen
+4 Essl. Senfkoerner
+
 
 _Vorbereitung_: Die Gurken werden sauber gewaschen, von der Spitze
 anfangend geschaelt, durchgeschnitten und mit einem Essloeffel von den
@@ -6574,7 +6551,7 @@ lauwarm aufloesen. Sie darf nicht sehr heiss werden oder gar kochen.
 
 GEWUeRZDOSIS.
 
-In diesem Buch ist darunter stets verstanden: 2 Gewuerzkoerner, 6 weisse
+In diesem Buch ist darunter stets verstanden: 2 Gewuerzkoerner [Pimentkoerner], 6 weisse
 Pfefferkoerner, 1 Nelke, 1/4 Lorbeerblatt.
 
 
@@ -6636,7 +6613,7 @@ beifuegt.
 
 
 
-KLOssBEHANDLUNG.
+KLOSSBEHANDLUNG.
 
 Um das Abstechen und Garkochen von Kloessen zu erleichtern, wird ein Teller
 mit Fett bestrichen; auf diesen legt man die recht gleichmaessig
@@ -6684,8 +6661,8 @@ Messer.
 
 RINDER- UND HAMMELFETT AUSZULASSEN.
 
-1/2 kg (1 Pfd.) Fett     M 0,60
-1/8 l Wasser.
+1/2 kg (1 Pfd.) Fett
+1/8 l Wasser
 
 _Vorbereitung_: Das _Rinderfett_ wird in kleine Wuerfel geschnitten und
 einen Tag oder eine Nacht in Wasser gelegt, damit die etwa vorhandenen
@@ -6711,17 +6688,17 @@ Hammelgeschmack.
 
        *       *       *       *       *
 
-ROSINEN VORBEREITEN S. KORINTHEN VORBEREITEN.
+ROSINEN VORBEREITEN: siehe KORINTHEN VORBEREITEN.
 
 
 
 SCHWEINE-, GAeNSE- UND ENTENFETT AUSZULASSEN.
 
-1/2 kg (1 Pfd.) Rueckenfett oder Liesen    M 0,80
-1 Stueckchen Apfel                      |
-1 Zwiebel                              |  " 0,02
-1 Stielchen Majoran                    |
-                                          M 0,82
+1/2 kg (1 Pfd.) Rueckenfett oder Liesen
+1 Stueckchen Apfel
+1 Zwiebel
+1 Stielchen Majoran
+
 
 _Vorbereitung_: Nachdem das Ruecken- oder Liesenfett abgewaschen und
 abgekratzt ist, wird es in kleine Wuerfel geschnitten, in einen Topf getan
@@ -6753,16 +6730,16 @@ Schweinefett zu behandeln und noch einmal auszubraten.
 
 
 
-SEIFE ZU KOCKEN. (VORRAT.)
+SEIFE ZU KOCHEN. (VORRAT.)
 
-7-1/2 kg (15 Pfd.) festes Fett oder   |
-  15 kg (30 Pfd.) Sammelfett          | M 3,75
-3-1/2 kg (7 Pfd.) Seifenstein in      |
-  weissen Stuecken                      |
+7-1/2 kg (15 Pfd.) festes Fett oder
+  15 kg (30 Pfd.) Sammelfett
+3-1/2 kg (7 Pfd.) Seifenstein in
+  weissen Stuecken
 30 l weiches Wasser
-1/2 kg (1 Pfd.) Salz                    " 0,10
+1/2 kg (1 Pfd.) Salz
 9 l weiches Wasser
-                                        M 3,85
+
 
 _Vorbereitung_: Das Sammelfett kocht man erst mit reichlichem kaltem
 Wasser einige Stunden aus und schneidet es erkaltet ab. Dieses Fett ist
@@ -6788,7 +6765,7 @@ verwenden.
 
 
 
-SELBSTKOCKER.
+SELBSTKOCHER.
 
 Fuer den Selbstkocher existieren mehrere Formen:
 
@@ -6946,7 +6923,7 @@ Petersilienwurzel, Porreestengel und Sellerieknolle.
 
 
 
-WASSERBAD (HEIssES)
+WASSERBAD (HEISSES)
 
 haelt fertige Speisen heiss, ohne sie kochen, anbrennen oder gerinnen zu
 lassen, eignet sich vorzueglich zum zuverlaessigen Aufwaermen von Gerichten,
